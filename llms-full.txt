@@ -1,12 +1,12 @@
 # Ascent Vision
 
-> Ascent Vision LLC is a Florida marketing company (formed October 2026) that builds websites, Google and AI-search visibility (SEO and GEO) and lead-generation systems for service businesses, and tracks every lead back to where it came from. Founders: Clayton Camera and Grayson Sorrentino.
+> Ascent Vision LLC is a Florida marketing company (formed October 2026) that makes service businesses visible on Google and in AI answers (SEO and GEO), builds the lead systems that turn those visits into inquiries, and upgrades or builds the websites they run on. Every lead is tracked back to where it came from. Founders: Clayton Camera and Grayson Sorrentino.
 
 Ascent Vision publishes no testimonials, prices or result figures it cannot show from its own records, and it does not guarantee rankings or leads.
 
 ## Pages
 
-- [Ascent Vision: Websites, SEO and AI-Search Marketing](https://ascentvision.org/): Ascent Vision builds websites, Google and AI-search visibility and lead systems for service businesses, and tracks every lead back to where it came from.
+- [Ascent Vision: Search Visibility and Lead Systems](https://ascentvision.org/): Ascent Vision gets service businesses found on Google and in AI answers, turns those visits into leads, and tracks every lead back to where it came from.
 - [About Ascent Vision and Its Founders](https://ascentvision.org/about/): Ascent Vision LLC is a Florida marketing company founded in October 2026 by Clayton Camera and Grayson Sorrentino.
 - [FAQ: SEO, GEO and Working With Us | Ascent Vision](https://ascentvision.org/faq/): Straight answers on what Ascent Vision does, how GEO differs from SEO, how results are tracked and who owns the work.
 - [Privacy Notice | Ascent Vision](https://ascentvision.org/privacy/): What Ascent Vision collects through its forms, why, who sees it and how to have it deleted.
@@ -15,38 +15,39 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 
 ## Services
 
-### Websites
+### Search visibility (SEO and GEO)
 
-Fast, plain-spoken websites built around one action: the call, the application or the booking that pays for the site.
+Show up when customers search on Google and when they ask ChatGPT, Perplexity or Google's AI for a recommendation. One page per real question, every answer sourced and complete on its own.
 
-- One clear action on every page
-- Pages that load fast on a phone
-- Copy checked for claims you cannot back up
-- You own the domain and the content
-
-### Search and AI answers (SEO and GEO)
-
-Pages written to rank on Google and to be quoted by ChatGPT, Perplexity and Google's AI answers: one page per real question, each answer sourced and complete on its own.
-
-- Search Console and indexing set up on day one
+- Search Console, Bing and indexing set up from day one
+- Pages built around what your customers actually search
 - Structured data that matches the visible page
-- AI crawlers allowed, with a plain llms.txt
-- Location pages added slowly, only where there is something true to say
+- AI crawlers allowed, plus a plain llms.txt
+- Service-area pages added slowly, only where there is something true to say
 
-### Lead generation and tracking
+### Lead systems
 
-Short inquiry and application forms, with every lead tagged by where it came from and handed to a person fast, so you can see which work brings customers in.
+Turn visits into conversations. Short inquiry forms, instant alerts and a simple board where every lead is worked to an outcome, each one tagged with where it came from.
 
 - Forms that ask only what the first call needs
-- Source and campaign recorded on every lead
+- Source, campaign and landing page recorded on every lead
 - Alerts to your phone when someone reaches out
-- A plain monthly read of where leads came from
+- A plain monthly read of which channels brought customers in
+
+### Websites, upgraded or built
+
+Most businesses already have a site. We upgrade it so it loads fast, reads clearly and asks for one action; when it cannot be saved, we build a new one.
+
+- A review of what to keep, fix or replace
+- Fast pages on a phone
+- Copy checked for claims you cannot back up
+- You own the domain, the content and the data
 
 ## Questions and answers
 
 ### What does Ascent Vision do?
 
-Ascent Vision is a Florida marketing company. It builds websites, search visibility on Google and in AI answers, and lead-generation systems for its clients, and it tracks every lead back to where it came from.
+Ascent Vision is a Florida marketing company. It makes service businesses visible on Google and in AI answers, builds the lead systems that turn those visits into inquiries, and upgrades or builds the website they run on. Every lead is tracked back to where it came from.
 
 ### What is GEO?
 
