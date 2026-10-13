@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /work-with-us/thanks/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /work-with-us/thanks/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /work-with-us/thanks/
+
+Sitemap: https://ascentvision.org/sitemap.xml
