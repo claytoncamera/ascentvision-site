@@ -17,30 +17,29 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 
 ### Search visibility (SEO and GEO)
 
-Show up when customers search on Google and when they ask ChatGPT, Perplexity or Google's AI for a recommendation. One page per real question, every answer sourced and complete on its own.
+Show up when customers search on Google, and be the business ChatGPT, Perplexity and Google's AI recommend when someone asks who to call.
 
-- Search Console, Bing and indexing set up from day one
-- Pages built around what your customers actually search
-- Structured data that matches the visible page
-- AI crawlers allowed, plus a plain llms.txt
-- Service-area pages added slowly, only where there is something true to say
+- Found on Google for the services you actually sell
+- Recommended in AI answers, not just listed in search
+- Visible in the towns and areas you serve
+- Progress you can see, month by month
 
 ### Lead systems
 
-Turn visits into conversations. Short inquiry forms, instant alerts and a simple board where every lead is worked to an outcome, each one tagged with where it came from.
+Turn visits into conversations. Every inquiry reaches you fast, is worked to an outcome, and is tagged with where it came from.
 
-- Forms that ask only what the first call needs
-- Source, campaign and landing page recorded on every lead
-- Alerts to your phone when someone reaches out
-- A plain monthly read of which channels brought customers in
+- Inquiries that reach your phone within minutes
+- Every lead tagged with where it came from
+- A simple board to work each lead to a yes or no
+- A plain monthly read of what brought customers in
 
 ### Websites, upgraded or built
 
 Most businesses already have a site. We upgrade it so it loads fast, reads clearly and asks for one action; when it cannot be saved, we build a new one.
 
 - A review of what to keep, fix or replace
-- Fast pages on a phone
-- Copy checked for claims you cannot back up
+- Fast and clear on a phone
+- Built to turn visitors into inquiries
 - You own the domain, the content and the data
 
 ## Questions and answers
@@ -51,11 +50,11 @@ Ascent Vision is a Florida marketing company. It makes service businesses visibl
 
 ### What is GEO?
 
-GEO, generative engine optimization, is the work of making a business easy for AI assistants such as ChatGPT, Perplexity and Google's AI answers to find, understand and quote. In practice it means clear pages that answer one question each, sources for every claim, structured data that matches the page, and letting AI crawlers read the site.
+GEO, generative engine optimization, is the work of making a business the one AI assistants such as ChatGPT, Perplexity and Google's AI answers recommend when a customer asks them who to call. More people now ask an assistant before they search, so being part of that answer matters as much as ranking.
 
 ### How is GEO different from SEO?
 
-SEO aims for a ranked link on a search results page. GEO aims for a mention or citation inside an AI-written answer. The groundwork overlaps: a fast, crawlable site with specific, sourced answers helps both. Ascent Vision measures them separately, because a page that ranks is not always a page that gets quoted.
+SEO aims for a ranked link on a search results page. GEO aims for a mention or recommendation inside an AI-written answer. The two support each other, and Ascent Vision measures them separately, because a business that ranks is not always the business an assistant recommends.
 
 ### How do I know what the work produced?
 
