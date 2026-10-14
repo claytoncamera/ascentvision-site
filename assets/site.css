@@ -228,3 +228,27 @@ p { margin: 0 0 1em; }
 .cta-band p { margin: 0; color: rgba(255, 255, 255, 0.85); }
 .cta-band a:not(.btn) { color: #fff; }
 .site-footer { margin-top: 0; }
+
+/* ---------- Service detail pages and Answers (2026-10-14) ---------- */
+.answer { font-size: 1.12rem; line-height: 1.6; padding: 18px 20px; background: var(--paper-2); border-left: 4px solid var(--accent); border-radius: 0 10px 10px 0; margin: 8px 0 28px; }
+.article h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); letter-spacing: -0.02em; margin-bottom: 0.3em; }
+.article .eyebrow a { text-decoration: none; }
+.prose .faq { margin-bottom: 8px; }
+.linklist { padding-left: 1.1em; }
+.linklist li { margin-bottom: 6px; }
+.sources { padding-left: 1.3em; font-size: 0.95rem; color: var(--ink-2); }
+.sources li { margin-bottom: 6px; overflow-wrap: anywhere; }
+.table-wrap { overflow-x: auto; margin: 12px 0 20px; }
+.table-wrap table { width: 100%; border-collapse: collapse; font-size: 0.97rem; min-width: 520px; }
+.table-wrap th, .table-wrap td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+.table-wrap thead th { font-weight: 750; border-bottom: 2px solid var(--ink); }
+.table-wrap tbody th { font-weight: 650; white-space: nowrap; }
+.answer-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.answer-list a { display: block; padding: 20px 22px; background: #fff; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
+.answer-list a:hover { transform: translateY(-2px); box-shadow: 0 14px 30px -18px rgba(17, 20, 38, 0.35); }
+.answer-list h2, .answer-list h3 { font-size: 1.15rem; margin: 0 0 6px; }
+.answer-list p { margin: 0; color: var(--ink-2); font-size: 0.97rem; }
+.answer-list--grid { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.pillar__links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 4px 0 0; font-size: 0.95rem; }
+.pillar__links a { text-decoration: none; }
+.pillar__links a:hover { text-decoration: underline; }

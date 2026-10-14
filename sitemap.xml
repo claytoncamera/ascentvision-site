@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ascentvision.org/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://ascentvision.org/about/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://ascentvision.org/faq/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://ascentvision.org/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/about/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/geo-vs-seo/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/how-long-does-seo-take/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/upgrade-or-rebuild-your-website/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/what-is-geo/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/what-is-lead-attribution/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/faq/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://ascentvision.org/privacy/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://ascentvision.org/services/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://ascentvision.org/services/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/services/geo/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/services/lead-systems/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/services/seo/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://ascentvision.org/services/websites/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://ascentvision.org/work-with-us/</loc><lastmod>2026-10-13</lastmod></url>
 </urlset>
