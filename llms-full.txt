@@ -40,12 +40,17 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do AI Assistants Get Facts Wrong? | Ascent Vision](https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/): A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [Website or Just Social Media? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/): Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.
+- [Does Your Website Need a Privacy Policy? | Ascent Vision](https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/): If your website form collects names, emails or phone numbers, a privacy policy is often expected. What California's Attorney General and the FTC say.
+- [Does a Small Business Website Need HTTPS? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-https/): HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
 - [How to Follow Up With a Lead That Goes Quiet | Ascent Vision](https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/): A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.
+- [Freelancer or Agency for SEO? | Ascent Vision](https://ascentvision.org/answers/freelancer-or-agency-for-seo/): A fair comparison of freelancers and agencies for SEO and marketing: cost structure, cover, skills, who you talk to, continuity and what to ask.
 - [GEO vs SEO: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/geo-vs-seo/): SEO aims for a ranked link; GEO aims for a recommendation inside an AI answer. How they differ, where they overlap and why most businesses need both.
+- [How Customers Compare Businesses Online | Ascent Vision](https://ascentvision.org/answers/how-do-customers-compare-businesses-online/): Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.
 - [How Customers Find Businesses Through AI | Ascent Vision](https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/): What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.
 - [How Do You Know If Your Marketing Is Working? | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
+- [How Long Does a Website Take to Build? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/): How long a small business website takes depends on content, decisions and approvals more than the build itself. Where projects stall and how to speed it up.
 - [How Long Does SEO Take to Work? | Ascent Vision](https://ascentvision.org/answers/how-long-does-seo-take/): An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.
 - [How Many People Use AI Assistants? | Ascent Vision](https://ascentvision.org/answers/how-many-people-use-ai-assistants/): About half of U.S. adults now use AI chatbots, Pew Research Center found in 2026. What the numbers say and what they mean for a service business.
 - [How Much Does SEO Cost for a Small Business? | Ascent Vision](https://ascentvision.org/answers/how-much-does-seo-cost/): What decides the cost of SEO for a small service business, the common ways agencies charge, and the questions that tell you whether a quote is fair.
@@ -60,10 +65,13 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Tell Whether a New Lead Is a Good Fit | Ascent Vision](https://ascentvision.org/answers/how-to-qualify-a-lead/): A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.
 - [How to Reply to a New Inquiry | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/): A good first reply thanks the person, answers their question, offers one next step and says when. A short example, and the mistakes that cost jobs.
 - [How to Set Up a Simple Lead Tracker | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/): A simple lead tracker is one shared sheet with eight columns and one rule: every inquiry goes in the same day. What to record and how to review it.
+- [How to Spot Spam and Scam Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/): Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.
 - [How to Switch Marketing Agencies Safely | Ascent Vision](https://ascentvision.org/answers/how-to-switch-marketing-agencies/): How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.
+- [How to Tell If a Website Change Worked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/): Note the date of each change, compare inquiries over the same weeks before and after, change one thing at a time, allow for seasons, and count customers.
 - [How to Track Leads That Come In by Phone | Ascent Vision](https://ascentvision.org/answers/how-to-track-phone-call-leads/): How a small business can record phone inquiries alongside form leads, find out where callers heard about you, and stop losing calls.
 - [How to Win Back Past Customers | Ascent Vision](https://ascentvision.org/answers/how-to-win-back-past-customers/): How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
+- [Is It Too Late to Start SEO? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Search is more crowded and AI answers have changed it, but customers still look before they hire. Where a late starter can still win, and how to begin.
 - [Google Ads or SEO for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-paid-search-better-than-seo/): Paid search ads work fast and stop when you stop paying. SEO is slower but tends to last. An honest comparison, and when each one fits a small business.
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
@@ -71,9 +79,11 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Marketing for Seasonal Businesses | Ascent Vision](https://ascentvision.org/answers/marketing-for-seasonal-businesses/): Start before the busy season, stay visible when it is quiet, use the off season for the website and reviews, and compare results season by season.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
+- [Should You Call or Email a New Lead First? | Ascent Vision](https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/): Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.
 - [Should You Have a Referral Program? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-referral-program/): A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.
 - [Should You Put Prices on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-put-prices-on-your-website/): Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.
 - [Should a Small Business Use a Website Chatbot? | Ascent Vision](https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/): When a chatbot helps a small service business website, when it gets in the way, and what to check before adding one.
+- [Should Customers Be Able to Book Online? | Ascent Vision](https://ascentvision.org/answers/should-you-use-an-online-booking-tool/): Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
@@ -87,6 +97,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
 - [What Is a Marketing Retainer? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-retainer/): A marketing retainer is a monthly fee for agreed ongoing work. A fair one spells out scope, measures, reporting, term, notice and who owns what.
 - [What Is GEO (Generative Engine Optimization)? | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
+- [What Is Google Gemini? | Ascent Vision](https://ascentvision.org/answers/what-is-google-gemini/): Gemini is Google's AI assistant, first launched as Bard. What Google says it is, how many U.S. adults use it, and what that means for a service business.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
 - [What Is Local SEO? A Plain Explanation | Ascent Vision](https://ascentvision.org/answers/what-is-local-seo/): What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.
 - [What Is Perplexity? | Ascent Vision](https://ascentvision.org/answers/what-is-perplexity/): Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.
@@ -95,8 +106,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Should a Marketing Report Show an Owner? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page marketing report a small business owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
 - [What Should an SEO Proposal Include? | Ascent Vision](https://ascentvision.org/answers/what-should-an-seo-proposal-include/): A buyer's checklist for an SEO proposal: scope, measurement, reporting, ownership, term and exit, who does the work, and the red flags to walk away from.
+- [What to Put on Your About Page | Ascent Vision](https://ascentvision.org/answers/what-should-be-on-an-about-page/): A small business About page should show who is behind the work, real photos, where and how you work, what you will not do and how to get in touch.
+- [What Should a Website Review Include? | Ascent Vision](https://ascentvision.org/answers/what-should-you-get-from-a-website-review/): A useful website review is a plain, ranked list of what to keep, fix or replace, with reasons. What it should check and the red flags to watch for.
 - [What to Ask Customers After the Job | Ascent Vision](https://ascentvision.org/answers/what-to-ask-customers-after-the-job/): After the job, ask how it went, how they found you, whether they will share a review and who else might need you. Ask everyone, and record the answers.
+- [What to Do With a Lead You Cannot Serve | Ascent Vision](https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/): Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.
 - [What to Have in Place Before Starting SEO | Ascent Vision](https://ascentvision.org/answers/what-to-have-before-starting-seo/): Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.
+- [When a Lead Asks for the Price First | Ascent Vision](https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/): Answer price questions honestly: a range and what drives it, or the two questions you need first. Never dodge it, and never invent a discount to close.
 - [Where to Start With Small Business Marketing | Ascent Vision](https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/): Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.
 - [First Touch or Last Touch: Who Gets Credit? | Ascent Vision](https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/): First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.
 - [Who Should Own Your Domain Name? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-domain-name/): Your business should own its domain name, in its own name and its own registrar account. What goes wrong otherwise, and how to check who holds yours today.
@@ -583,6 +598,103 @@ A service business should use real photos: the owner, the team, the vehicles and
 
 Full answer: https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/
 Sources: https://www.nngroup.com/articles/photos-as-web-content/
+
+### Is it too late for a small business to start SEO?
+
+Usually not. Search is more crowded than it was, and AI answers can now settle some questions before anyone clicks, so many of the easy wins of years ago are often gone. But customers still look before they hire, and a late starter can still be found for specific services, in the areas it genuinely serves, and for first-hand answers larger sites cannot write. Start with the basics and expect months, not weeks.
+
+Full answer: https://ascentvision.org/answers/is-it-too-late-to-start-seo/
+Sources: https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### Should you hire a freelancer or an agency for SEO and marketing?
+
+Either can work. A freelancer often means one skilled person you deal with directly, usually with lower overheads but less cover when they are away. An agency usually brings a wider range of skills and someone to step in, though you may talk to an account manager rather than the person doing the work. Whichever you choose, the questions that matter most are the same: who owns the accounts, and what gets reported.
+
+Full answer: https://ascentvision.org/answers/freelancer-or-agency-for-seo/
+
+### What is Google Gemini, and do customers use it to find businesses?
+
+Gemini is Google's AI assistant, first launched as Bard in March 2023 and renamed Gemini in February 2024. Google describes it as an interface to a large language model that can draw on outside sources such as Google Search when it writes an answer. About a quarter of U.S. adults say they use it, according to Pew Research Center, so some customers may ask it who to hire.
+
+Full answer: https://ascentvision.org/answers/what-is-google-gemini/
+Sources: https://gemini.google/overview/ ; https://blog.google/products-and-platforms/products/gemini/bard-gemini-advanced-app/ ; https://gemini.google/about/ ; https://support.google.com/gemini/answer/13695044?hl=en ; https://support.google.com/gemini/answer/13594961?hl=en ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### How do you tell whether a change to your website worked?
+
+Write down the date of every change, then compare the inquiries that arrived in the weeks after it with the same number of weeks before, and with the same weeks last year if your work is seasonal. Change one thing at a time where you can, give it long enough to show, and judge it by inquiries and customers, not by clicks or visits.
+
+Full answer: https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/
+
+### How do customers compare service businesses online before they call?
+
+Before they call, customers usually compare a few businesses on what they can see in minutes: how many reviews each has and how recent they are, whether the owner replies, photos of real work, a plain statement of services and area, and how quickly anyone answers. In BrightLocal's 2026 survey of U.S. adults, 47% said they would not use a business with fewer than 20 reviews.
+
+Full answer: https://ascentvision.org/answers/how-do-customers-compare-businesses-online/
+Sources: https://www.brightlocal.com/research/local-consumer-review-survey/
+
+### How do you spot spam and scam inquiries from your website?
+
+Spam and scam inquiries usually give themselves away. They ignore what you actually offer, carry links you did not ask for, push you to act fast, offer to overpay, or ask for payment by wire transfer, gift card or cryptocurrency. Do not click their links or send business details in reply. Check any claim through a contact you already trust, keep the message out of your lead numbers, and report real scams to the FTC.
+
+Full answer: https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/
+Sources: https://www.ftc.gov/business-guidance/resources/scams-your-small-business-guide-business
+
+### What should you do with a lead you cannot serve?
+
+Reply quickly and kindly, even when the answer is no. Thank the person, say plainly why you cannot help, and point them somewhere useful, such as another business you trust. Then record the inquiry with its source, an outcome of lost and the reason. Over time, those reasons can show whether people keep asking for a service you do not offer, or whether some of your marketing is reaching the wrong people.
+
+Full answer: https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/
+
+### Should you call or email a new lead first?
+
+Reply on the channel the person used, unless they asked for a different one. A form or email inquiry gets an email first; a missed call gets a call back. If they left a phone number and the job needs a conversation, a quick call can help, followed by a short email so they have it in writing. Call or text only with the person's consent, and record every attempt you make.
+
+Full answer: https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/
+
+### What should you say when a new lead asks for the price first?
+
+Answer honestly and directly. If you can give a typical range, give it, along with what moves the price up or down. If you cannot price the job without details, say so, ask the one or two questions you need and explain why. Never dodge the question, and never invent a discount or a deadline to close the sale. A clear, honest answer usually builds trust, even when the number is not what they hoped.
+
+Full answer: https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/
+
+### Should a service business let customers book online?
+
+Often yes, when the visit has a fixed length and needs no quote first, such as a consultation, an estimate visit or a standard appointment. Online booking lets customers pick a time without waiting for a reply. It works poorly for jobs that need questions answered or a price agreed first. If you add it, make sure you own the booking data, every booking is confirmed, nothing double-books and each booking is recorded with its source.
+
+Full answer: https://ascentvision.org/answers/should-you-use-an-online-booking-tool/
+
+### What should you get from a website review?
+
+A website review should give you a plain list of what to keep, what to fix and what to replace, ranked by how much each item is likely to affect inquiries, with a short reason for each. It should check how the site works on a phone, whether a visitor can tell quickly what you do, whether the forms and phone links work, and who owns the domain and logins. A review that only sells a rebuild is a sales pitch.
+
+Full answer: https://ascentvision.org/answers/what-should-you-get-from-a-website-review/
+
+### How long does it take to build or upgrade a small business website?
+
+How long a small business website takes depends less on the building than on how quickly words, photos and decisions arrive. Upgrading a site that already works is often a matter of a few weeks; a new site with many pages can take longer. Projects most often stall while waiting for the owner's content and approvals, so gathering those before work starts is usually the biggest single way to speed things up.
+
+Full answer: https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/
+
+### Does a small business website need a privacy policy?
+
+Often yes, and it is a sensible habit either way. California's online privacy law, CalOPPA, as the state Attorney General describes it, requires commercial websites that collect personally identifiable information, such as a name, email address or phone number, from California consumers to post a privacy policy. If any of your visitors are in California, a contact form can bring you within it. A short, honest policy says what you collect, why, who sees it and how to ask for deletion. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/
+Sources: https://www.oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-launches-new-tool-help-consumers-report ; https://oag.ca.gov/privacy/facts/online-privacy/privacy-policy ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business ; https://www.ftc.gov/business-guidance/privacy-security/consumer-privacy
+
+### What should a small business put on its About page?
+
+A small business About page should say who is behind the business, with real names and photos, how long you have done this work, where you work, how a job runs from first call to finish, what you will not do, and how to get in touch. Every line should be true and easy to check. Visitors often read an About page to decide whether a real, reachable person is behind the website.
+
+Full answer: https://ascentvision.org/answers/what-should-be-on-an-about-page/
+Sources: https://www.nngroup.com/articles/about-us-information-on-websites/
+
+### Does a small business website need HTTPS?
+
+Yes. HTTPS is the secure version of a web address: it keeps what passes between a visitor's browser and your site private and harder to tamper with. It matters most where visitors type in their details, such as a contact form. Google's Chrome Help says that on a site without a private connection, someone may be able to view and change what visitors send, and Chrome can label such sites "Not secure".
+
+Full answer: https://ascentvision.org/answers/does-your-website-need-https/
+Sources: https://support.google.com/chrome/answer/95617?hl=en ; https://web.dev/articles/why-https-matters
 
 ## Questions and answers
 
