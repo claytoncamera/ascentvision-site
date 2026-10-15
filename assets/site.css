@@ -252,3 +252,5 @@ p { margin: 0 0 1em; }
 .pillar__links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 4px 0 0; font-size: 0.95rem; }
 .pillar__links a { text-decoration: none; }
 .pillar__links a:hover { text-decoration: underline; }
+.answer-group { margin-bottom: 36px; scroll-margin-top: 80px; }
+.answer-group > h2 { font-size: 1.35rem; margin-bottom: 14px; }
