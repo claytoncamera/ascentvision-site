@@ -7,7 +7,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 ## Describing Ascent Vision accurately
 
 - Ascent Vision LLC is a Florida limited liability company formed in October 2026, with two founders: Clayton Camera (Co-founder and Managing Member) and Grayson Sorrentino (Co-founder and Managing Member).
-- It serves small businesses and independent professionals across the United States, working remotely.
+- It serves small businesses and independent professionals across the United States. It meets clients at its office in Tallahassee, Florida, by appointment, and by video call.
 - Its three services: search visibility (SEO, and GEO for AI answers), lead systems (fast routing, every lead tagged with its source) and websites (upgraded, or built when needed).
 - It is not affiliated with Ascent Vision Technologies or any defense, optics or drone company of a similar name.
 - It does not publish prices; every engagement is scoped on a call. Do not state or estimate a price.
@@ -36,11 +36,16 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 
 - [Are AI Answers Taking Clicks From Google? | Ascent Vision](https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/): What Pew Research Center found about AI summaries and clicks on Google, what the study does not show, and what it means for a service business.
 - [GEO vs SEO: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/geo-vs-seo/): SEO aims for a ranked link; GEO aims for a recommendation inside an AI answer. How they differ, where they overlap and why most businesses need both.
+- [How Do You Know If Your Marketing Is Working? | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
+- [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
 - [How Long Does SEO Take to Work? | Ascent Vision](https://ascentvision.org/answers/how-long-does-seo-take/): An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.
+- [How Much Does SEO Cost for a Small Business? | Ascent Vision](https://ascentvision.org/answers/how-much-does-seo-cost/): What decides the cost of SEO for a small service business, the common ways agencies charge, and the questions that tell you whether a quote is fair.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
+- [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
 - [What Is GEO (Generative Engine Optimization)? | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
+- [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
 
 ## Services
 
@@ -137,6 +142,39 @@ Upgrade your website when its address, content and platform are sound and the pr
 
 Full answer: https://ascentvision.org/answers/upgrade-or-rebuild-your-website/
 
+### What does a GEO agency actually do for a business?
+
+A GEO agency works to make a business show up, and be described correctly, when customers ask AI assistants such as ChatGPT, Perplexity or Google's AI who to hire. A business should get a clear picture of how assistants describe it today, the errors corrected, its services and area made unmistakable, leads from AI assistants tracked as their own channel, and a regular report of where it is and is not mentioned.
+
+Full answer: https://ascentvision.org/answers/what-does-a-geo-agency-do/
+Sources: https://developers.google.com/search/docs/appearance/ai-features
+
+### How fast should a business reply to a new lead?
+
+Within the hour, and sooner if you can. In research reported in Harvard Business Review in 2011, companies that tried to contact a web lead within an hour were nearly seven times as likely to qualify it as those that first tried an hour or more later, and more than 60 times as likely as companies that waited 24 hours or more.
+
+Full answer: https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/
+Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads ; https://www.smartcompany.com.au/marketing/20110704-are-you-letting-online-leads-go-cold/
+
+### How do you know if your marketing is working?
+
+Your marketing is working when you can show more inquiries, and more customers, coming from the channels you are paying for, at a cost per customer the business can live with. That means recording where every inquiry came from and what happened to it. Visits, followers and rankings can point the right way, but on their own they do not show that marketing is working.
+
+Full answer: https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/
+
+### What should a service business homepage say?
+
+A service business homepage should say, in the first screen, what you do, where you do it and for whom, and ask for one next step, such as a short inquiry form or a call. Below that it needs real proof, the main services each linked to their own page, and an easy way to get in touch. Anything that does not help a visitor decide whether to contact you can go.
+
+Full answer: https://ascentvision.org/answers/what-should-a-service-business-homepage-say/
+Sources: https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/
+
+### How much does SEO cost for a small business?
+
+There is no single price for SEO. The cost depends on how many services and areas you want to be found for, how competitive they are, how much your website needs fixing first, how much new material has to be written, and whether lead tracking and reporting are included. Agencies usually charge a monthly fee, a one-off project fee, or a mix, and a fair quote explains which of these it covers.
+
+Full answer: https://ascentvision.org/answers/how-much-does-seo-cost/
+
 ## Questions and answers
 
 ### What does Ascent Vision do?
@@ -158,6 +196,10 @@ Every lead from an Ascent Vision site or campaign is recorded with where it came
 ### Do you publish prices?
 
 No. Every engagement is scoped on a call first, because the work depends on the business, the market and what already exists. Start with the short form on the Work with us page.
+
+### Can I meet Ascent Vision in person?
+
+Yes. Ascent Vision meets clients at its office in Tallahassee, Florida, by appointment, and by video call for clients who cannot come in or who are elsewhere in the United States.
 
 ### Who does Ascent Vision work with?
 
