@@ -35,6 +35,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 ## Answers
 
 - [Are AI Answers Taking Clicks From Google? | Ascent Vision](https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/): What Pew Research Center found about AI summaries and clicks on Google, what the study does not show, and what it means for a service business.
+- [Can a Small Business Compete With Big Companies? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Check What ChatGPT Says About Your Business | Ascent Vision](https://ascentvision.org/answers/check-what-ai-says-about-your-business/): A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [How to Follow Up With a Lead That Goes Quiet | Ascent Vision](https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/): A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.
@@ -47,16 +48,25 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Choose a Website Platform | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-website-platform/): What matters when a small service business picks a website platform: ownership, ease of editing, speed on a phone and how hard it is to leave, plus cost over time.
 - [How to Get Leads Without Paying for Ads | Ascent Vision](https://ascentvision.org/answers/how-to-get-leads-without-ads/): The channels that bring a small business inquiries without ad spend, from search and AI answers to referrals, reviews and partners, and how to tell which works.
 - [How to Get More Reviews the Right Way | Ascent Vision](https://ascentvision.org/answers/how-to-get-more-reviews-the-right-way/): How a small business can ask every customer for a review, what the FTC rule and Google's policy forbid, and how to reply to good and bad reviews.
+- [How to Tell Whether a New Lead Is a Good Fit | Ascent Vision](https://ascentvision.org/answers/how-to-qualify-a-lead/): A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.
+- [How to Track Leads That Come In by Phone | Ascent Vision](https://ascentvision.org/answers/how-to-track-phone-call-leads/): How a small business can record phone inquiries alongside form leads, find out where callers heard about you, and stop losing calls.
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [Local or Remote Marketing Agency: Which to Hire? | Ascent Vision](https://ascentvision.org/answers/local-or-remote-marketing-agency/): Whether a small business should hire a marketing agency nearby or one that works remotely, what actually matters more than distance, and what to ask.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
+- [Should a Small Business Use a Website Chatbot? | Ascent Vision](https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/): When a chatbot helps a small service business website, when it gets in the way, and what to check before adding one.
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
+- [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
+- [What Does Website Maintenance Involve? | Ascent Vision](https://ascentvision.org/answers/what-does-website-maintenance-involve/): The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.
 - [What Happens If You Stop Paying for SEO? | Ascent Vision](https://ascentvision.org/answers/what-happens-if-you-stop-seo/): What stays and what slips when a small business stops its SEO work, why ownership decides how much you keep, and how to stop without losing ground.
+- [What Is a Conversion Rate? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-a-conversion-rate/): What a conversion rate means for a service business website, how to measure it honestly, and the plain changes that usually turn more visitors into inquiries.
+- [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
 - [What Is GEO (Generative Engine Optimization)? | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
+- [What Is Local SEO? A Plain Explanation | Ascent Vision](https://ascentvision.org/answers/what-is-local-seo/): What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.
+- [What Should a Contact Form Ask? | Ascent Vision](https://ascentvision.org/answers/what-should-a-contact-form-ask/): The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.
 - [What Should a Marketing Report Show an Owner? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page marketing report a small business owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
 - [What to Have in Place Before Starting SEO | Ascent Vision](https://ascentvision.org/answers/what-to-have-before-starting-seo/): Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.
@@ -287,6 +297,70 @@ Full answer: https://ascentvision.org/answers/how-to-choose-a-website-platform/
 Before paying for SEO, a small business should own its domain and website, have a site that works well on a phone, know exactly which services and areas it wants to be found for, be able to capture and track every inquiry, and be ready to wait months for results. Without those, it is hard to tell whether SEO money is working.
 
 Full answer: https://ascentvision.org/answers/what-to-have-before-starting-seo/
+
+### What are Google's AI Overviews and AI Mode?
+
+AI Overviews are short AI-written summaries that Google shows at the top of some search results, with links to learn more. AI Mode is a separate, conversational way to search on Google, built for questions that need more exploration or comparison, and it answers with links to supporting websites. Both put a written answer in front of the customer before the usual list of links.
+
+Full answer: https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/
+
+### What is local SEO?
+
+Local SEO is the work of being found by people searching for a service in a particular place, such as "plumber in Tallahassee" or "tax preparer near me". It matters most to businesses whose customers are nearby: those that customers visit, and those that travel to customers. For a business that serves customers anywhere online, place matters less than the service itself.
+
+Full answer: https://ascentvision.org/answers/what-is-local-seo/
+Sources: https://support.google.com/business/answer/3038177
+
+### Can a small business compete with big companies on Google and in AI answers?
+
+Often, yes, but not everywhere. A small business usually cannot outspend large companies on broad, national searches. It can compete where it is more specific than they are: a particular service, a particular kind of customer, a particular area, and answers that show real first-hand experience. Choosing that ground is most of the work.
+
+Full answer: https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/
+
+### How do you work out what a customer is worth to your business?
+
+Work out what an average customer brings in over a year, or over the whole time they stay with you, then subtract what it costs you to serve them. That figure, the value of a customer, tells you how much you can sensibly spend to win one. Without it, every marketing decision is a guess.
+
+Full answer: https://ascentvision.org/answers/what-is-a-customer-worth/
+
+### What is a conversion rate, and how do you improve it on a service website?
+
+A conversion rate is the share of visitors who take the action you want, which for a service business is usually getting in touch. If 1,000 people visit and 20 send an inquiry, the conversion rate is 2%. It is improved by making the site clearer, faster and easier to act on, and judged by real inquiries, not by clicks.
+
+Full answer: https://ascentvision.org/answers/what-is-a-conversion-rate/
+Sources: https://www.nngroup.com/articles/web-form-design/
+
+### What should a contact form ask?
+
+Ask only what you need to reply well: a name, one way to reach them, and what they need help with. Add one or two optional questions only if they change how you respond, such as their area or timing. Each extra field adds effort, and shorter forms tend to be finished more often, so cut anything you can find out later.
+
+Full answer: https://ascentvision.org/answers/what-should-a-contact-form-ask/
+Sources: https://www.nngroup.com/articles/web-form-design/
+
+### How do you track leads that come in by phone?
+
+Write down every call that is a new inquiry in the same place as your other leads, with who called, what they wanted, where they heard about you and what happened next. Ask "how did you hear about us?" on every call and write the answer down at the time. For a small business, a consistent habit is a good start. If you record calls, get the caller's consent first.
+
+Full answer: https://ascentvision.org/answers/how-to-track-phone-call-leads/
+
+### How do you tell whether a new lead is a good fit?
+
+A good-fit lead needs what you actually offer, is somewhere you serve, wants it on a timeline you can meet, and expects something you can deliver. A few short questions on the first reply or call will usually tell you, and asking them early saves both sides time.
+
+Full answer: https://ascentvision.org/answers/how-to-qualify-a-lead/
+
+### Should a small business use a chatbot on its website?
+
+Only if it helps visitors get in touch faster than your form and phone already do. A chatbot can answer simple questions and take details out of hours, but a bad one gets in the way, gives wrong answers in your name, and loses leads. For many small businesses, a short form and a fast human reply are often enough.
+
+Full answer: https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/
+
+### What does looking after a small business website involve?
+
+Looking after a small business website means renewing the domain and hosting on time, keeping the software and plugins up to date, checking that forms and phone links work, keeping details such as services and hours current, and keeping a backup. Most checks are quick; skip them and problems can go unnoticed for weeks.
+
+Full answer: https://ascentvision.org/answers/what-does-website-maintenance-involve/
 
 ## Questions and answers
 
