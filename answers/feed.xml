@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Ascent Vision: Answers</title>
+  <link>https://ascentvision.org/answers/</link>
+  <description>Plain answers to the questions business owners ask about SEO, GEO and AI answers, lead tracking and websites.</description>
+  <language>en-us</language>
+  <atom:link href="https://ascentvision.org/answers/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Who owns the website a designer built for you?</title>
+    <link>https://ascentvision.org/answers/who-owns-a-website-a-designer-built/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/who-owns-a-website-a-designer-built/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Paying for a website does not automatically make you the copyright owner. What the U.S. Copyright Office says, and how a written contract settles it.</description>
+  </item>
+  <item>
+    <title>What should a website design contract include?</title>
+    <link>https://ascentvision.org/answers/what-should-a-website-design-contract-include/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-website-design-contract-include/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The points a website design contract should pin down: scope, revisions, who supplies content, ownership of the design and files, logins and handover.</description>
+  </item>
+  <item>
+    <title>How can you tell if your business website has been hacked, and what do you do first?</title>
+    <link>https://ascentvision.org/answers/how-to-tell-if-your-website-was-hacked/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-tell-if-your-website-was-hacked/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The signs owners actually notice when a business website has been hacked, and the first steps to take, drawing on federal guidance, before you delete anything.</description>
+  </item>
+  <item>
+    <title>How do you get control of your website back when the designer has disappeared?</title>
+    <link>https://ascentvision.org/answers/how-to-get-your-website-back-from-a-designer/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-your-website-back-from-a-designer/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What to do when a web designer disappears with your logins: domain recovery through the registrar, hosting and platform account recovery, or a rebuild.</description>
+  </item>
+  <item>
+    <title>How many pages does a small business website need?</title>
+    <link>https://ascentvision.org/answers/how-many-pages-does-a-small-business-website-need/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-many-pages-does-a-small-business-website-need/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A plain starter page list for a service business website, when a one-page site is enough, and when a service deserves a page of its own.</description>
+  </item>
+  <item>
+    <title>Why are my leads not turning into customers?</title>
+    <link>https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When leads do not become customers, one stage usually leaks. How to read your own lead list to find it, from wrong-fit sources to quotes that stall.</description>
+  </item>
+  <item>
+    <title>What are Google Local Services Ads, and are they worth it?</title>
+    <link>https://ascentvision.org/answers/what-are-google-local-services-ads/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-are-google-local-services-ads/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.</description>
+  </item>
+  <item>
+    <title>Should you buy leads from sites like Angi or Thumbtack?</title>
+    <link>https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Lead sites can bring work, but leads are often shared. How to judge Angi or Thumbtack by jobs won, ask for credits and keep the customer as your own.</description>
+  </item>
+  <item>
+    <title>How do you keep track of leads that come in through Facebook, Instagram and other messages?</title>
+    <link>https://ascentvision.org/answers/how-to-track-leads-from-social-media-messages/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-track-leads-from-social-media-messages/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Leads in Facebook, Instagram and WhatsApp messages are easy to lose. How to get them into one lead list, reply on time and keep history when staff leave.</description>
+  </item>
+  <item>
+    <title>Should a small business use an answering service or an AI receptionist?</title>
+    <link>https://ascentvision.org/answers/answering-service-or-ai-receptionist/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/answering-service-or-ai-receptionist/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Voicemail, a human answering service or an AI receptionist compared on speed, accuracy in your name, consent and getting every call into your leads.</description>
+  </item>
+  <item>
+    <title>Will AI assistants call or contact businesses on a customer's behalf?</title>
+    <link>https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.</description>
+  </item>
+  <item>
+    <title>Why does my website get no inquiries?</title>
+    <link>https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.</description>
+  </item>
+  <item>
+    <title>Who should own your business's domain name?</title>
+    <link>https://ascentvision.org/answers/who-should-own-your-domain-name/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/who-should-own-your-domain-name/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Your business should own its domain name, in its own name and its own registrar account. What goes wrong otherwise, and how to check who holds yours today.</description>
+  </item>
+  <item>
+    <title>Which source gets the credit when a customer found you several ways?</title>
+    <link>https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.</description>
+  </item>
+  <item>
+    <title>Where should a small business start with marketing?</title>
+    <link>https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.</description>
+  </item>
+  <item>
+    <title>What should you say when a new lead asks for the price first?</title>
+    <link>https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Answer price questions honestly: a range and what drives it, or the two questions you need first. Never dodge it, and never invent a discount to close.</description>
+  </item>
+  <item>
+    <title>What should a small business look for in website hosting?</title>
+    <link>https://ascentvision.org/answers/what-to-look-for-in-website-hosting/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-look-for-in-website-hosting/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Good hosting is in your name, keeps backups you can restore, has support you can reach and clear renewal terms. What to check before you sign up or switch.</description>
+  </item>
+  <item>
+    <title>What should a small business have in place before starting SEO?</title>
+    <link>https://ascentvision.org/answers/what-to-have-before-starting-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-have-before-starting-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.</description>
+  </item>
+  <item>
+    <title>What should you do with a lead you cannot serve?</title>
+    <link>https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.</description>
+  </item>
+  <item>
+    <title>What should you ask a customer after the work is done?</title>
+    <link>https://ascentvision.org/answers/what-to-ask-customers-after-the-job/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-ask-customers-after-the-job/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>After the job, ask how it went, how they found you, whether they will share a review and who else might need you. Ask everyone, and record the answers.</description>
+  </item>
+  <item>
+    <title>What should you get from a website review?</title>
+    <link>https://ascentvision.org/answers/what-should-you-get-from-a-website-review/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-you-get-from-a-website-review/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A useful website review is a plain, ranked list of what to keep, fix or replace, with reasons. What it should check and the red flags to watch for.</description>
+  </item>
+  <item>
+    <title>What should a small business put on its About page?</title>
+    <link>https://ascentvision.org/answers/what-should-be-on-an-about-page/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-be-on-an-about-page/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A small business About page should show who is behind the work, real photos, where and how you work, what you will not do and how to get in touch.</description>
+  </item>
+  <item>
+    <title>What should a good SEO proposal include?</title>
+    <link>https://ascentvision.org/answers/what-should-an-seo-proposal-include/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-an-seo-proposal-include/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A buyer's checklist for an SEO proposal: scope, measurement, reporting, ownership, term and exit, who does the work, and the red flags to walk away from.</description>
+  </item>
+  <item>
+    <title>What should a website say after someone sends an inquiry?</title>
+    <link>https://ascentvision.org/answers/what-should-a-thank-you-page-say/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-thank-you-page-say/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>After someone sends an inquiry, your site should confirm it arrived, say when and how you will reply, and what to do if it is urgent. What to include.</description>
+  </item>
+  <item>
+    <title>What should a service business homepage say?</title>
+    <link>https://ascentvision.org/answers/what-should-a-service-business-homepage-say/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-service-business-homepage-say/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.</description>
+  </item>
+  <item>
+    <title>What should a marketing report show a small business owner?</title>
+    <link>https://ascentvision.org/answers/what-should-a-marketing-report-show/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-marketing-report-show/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The one-page marketing report a small business owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.</description>
+  </item>
+  <item>
+    <title>What should a contact form ask?</title>
+    <link>https://ascentvision.org/answers/what-should-a-contact-form-ask/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-contact-form-ask/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.</description>
+  </item>
+  <item>
+    <title>What photos should a service business use on its website?</title>
+    <link>https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Use real photos of your team and your work, with permission from anyone shown. Avoid stock presented as your own, and keep images light for fast phones.</description>
+  </item>
+  <item>
+    <title>What is Perplexity, and do customers use it to find businesses?</title>
+    <link>https://ascentvision.org/answers/what-is-perplexity/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-perplexity/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.</description>
+  </item>
+  <item>
+    <title>What is local SEO?</title>
+    <link>https://ascentvision.org/answers/what-is-local-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-local-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.</description>
+  </item>
+  <item>
+    <title>What is Google Gemini, and do customers use it to find businesses?</title>
+    <link>https://ascentvision.org/answers/what-is-google-gemini/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-google-gemini/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Gemini is Google's AI assistant, first launched as Bard. What Google says it is, how many U.S. adults use it, and what that means for a service business.</description>
+  </item>
+  <item>
+    <title>What is a sales pipeline for a small service business?</title>
+    <link>https://ascentvision.org/answers/what-is-a-sales-pipeline/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-sales-pipeline/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.</description>
+  </item>
+  <item>
+    <title>What is a marketing retainer, and how should one work?</title>
+    <link>https://ascentvision.org/answers/what-is-a-marketing-retainer/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-marketing-retainer/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A marketing retainer is a monthly fee for agreed ongoing work. A fair one spells out scope, measures, reporting, term, notice and who owns what.</description>
+  </item>
+  <item>
+    <title>What is a lead system, and does a small business need one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-lead-system/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-lead-system/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.</description>
+  </item>
+  <item>
+    <title>What is a landing page, and when does a small business need one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-landing-page/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-landing-page/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A landing page is a single page built for one campaign, ad or flyer, with one offer and one next step. When it helps, and when the homepage is enough.</description>
+  </item>
+  <item>
+    <title>How do you work out what a customer is worth to your business?</title>
+    <link>https://ascentvision.org/answers/what-is-a-customer-worth/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-customer-worth/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.</description>
+  </item>
+  <item>
+    <title>What is a CRM, and does a small business need one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-crm/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-crm/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A CRM is one shared record of every customer and inquiry. When a spreadsheet is enough, signs you have outgrown it, and what to look for in one.</description>
+  </item>
+  <item>
+    <title>What is a conversion rate, and how do you improve it on a service website?</title>
+    <link>https://ascentvision.org/answers/what-is-a-conversion-rate/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-conversion-rate/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What a conversion rate means for a service business website, how to measure it honestly, and the plain changes that usually turn more visitors into inquiries.</description>
+  </item>
+  <item>
+    <title>What is a call to action, and what makes a good one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-call-to-action/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-call-to-action/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A call to action tells a visitor the one next step to take, such as call or book. What makes a clear one, where it goes, and weak versus clear examples.</description>
+  </item>
+  <item>
+    <title>What happens if you stop paying for SEO?</title>
+    <link>https://ascentvision.org/answers/what-happens-if-you-stop-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-happens-if-you-stop-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What stays and what slips when a small business stops its SEO work, why ownership decides how much you keep, and how to stop without losing ground.</description>
+  </item>
+  <item>
+    <title>What does looking after a small business website involve?</title>
+    <link>https://ascentvision.org/answers/what-does-website-maintenance-involve/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-does-website-maintenance-involve/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.</description>
+  </item>
+  <item>
+    <title>What does a GEO agency actually do for a business?</title>
+    <link>https://ascentvision.org/answers/what-does-a-geo-agency-do/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-does-a-geo-agency-do/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.</description>
+  </item>
+  <item>
+    <title>What are Google's AI Overviews and AI Mode?</title>
+    <link>https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.</description>
+  </item>
+  <item>
+    <title>Should a service business let customers book online?</title>
+    <link>https://ascentvision.org/answers/should-you-use-an-online-booking-tool/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-use-an-online-booking-tool/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.</description>
+  </item>
+  <item>
+    <title>Should a small business use a chatbot on its website?</title>
+    <link>https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When a chatbot helps a small service business website, when it gets in the way, and what to check before adding one.</description>
+  </item>
+  <item>
+    <title>Should a service business put prices on its website?</title>
+    <link>https://ascentvision.org/answers/should-you-put-prices-on-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-put-prices-on-your-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.</description>
+  </item>
+  <item>
+    <title>Should you add keywords or a city to your business name to show up more in search?</title>
+    <link>https://ascentvision.org/answers/should-you-put-keywords-in-your-business-name/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-put-keywords-in-your-business-name/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Google's guidelines say your profile name should be your real-world name, and extra words can lead to suspension. What that means for a service business.</description>
+  </item>
+  <item>
+    <title>Should a service business offer free estimates?</title>
+    <link>https://ascentvision.org/answers/should-you-offer-free-estimates/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-offer-free-estimates/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Free estimates can bring more inquiries but cost time on poor fits. The trade-offs, two common alternatives, and how to state your policy on your site.</description>
+  </item>
+  <item>
+    <title>Should a small business have a referral program?</title>
+    <link>https://ascentvision.org/answers/should-you-have-a-referral-program/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-have-a-referral-program/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.</description>
+  </item>
+  <item>
+    <title>Should you call or email a new lead first?</title>
+    <link>https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.</description>
+  </item>
+  <item>
+    <title>Should a small business have more than one website?</title>
+    <link>https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.</description>
+  </item>
+  <item>
+    <title>Should a small service business have a blog?</title>
+    <link>https://ascentvision.org/answers/should-a-small-business-have-a-blog/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-a-small-business-have-a-blog/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.</description>
+  </item>
+  <item>
+    <title>How should a seasonal business plan its marketing?</title>
+    <link>https://ascentvision.org/answers/marketing-for-seasonal-businesses/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/marketing-for-seasonal-businesses/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Start before the busy season, stay visible when it is quiet, use the off season for the website and reviews, and compare results season by season.</description>
+  </item>
+  <item>
+    <title>Should a small business hire a local marketing agency or a remote one?</title>
+    <link>https://ascentvision.org/answers/local-or-remote-marketing-agency/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/local-or-remote-marketing-agency/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Whether a small business should hire a marketing agency nearby or one that works remotely, what actually matters more than distance, and what to ask.</description>
+  </item>
+  <item>
+    <title>What is website accessibility, and why does it matter for a small business?</title>
+    <link>https://ascentvision.org/answers/is-your-website-accessible/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/is-your-website-accessible/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.</description>
+  </item>
+  <item>
+    <title>Is SEO worth it for a small business?</title>
+    <link>https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.</description>
+  </item>
+  <item>
+    <title>Is paying for Google ads better than SEO for a small business?</title>
+    <link>https://ascentvision.org/answers/is-paid-search-better-than-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/is-paid-search-better-than-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Paid search ads work fast and stop when you stop paying. SEO is slower but tends to last. An honest comparison, and when each one fits a small business.</description>
+  </item>
+  <item>
+    <title>Is it too late for a small business to start SEO?</title>
+    <link>https://ascentvision.org/answers/is-it-too-late-to-start-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/is-it-too-late-to-start-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Search is more crowded and AI answers have changed it, but customers still look before they hire. Where a late starter can still win, and how to begin.</description>
+  </item>
+  <item>
+    <title>Is email marketing worth it for a small service business?</title>
+    <link>https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.</description>
+  </item>
+  <item>
+    <title>How do you write a quote that wins the job?</title>
+    <link>https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.</description>
+  </item>
+  <item>
+    <title>How do you win back customers who have not come back?</title>
+    <link>https://ascentvision.org/answers/how-to-win-back-past-customers/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-win-back-past-customers/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.</description>
+  </item>
+  <item>
+    <title>How do you track leads that come in by phone?</title>
+    <link>https://ascentvision.org/answers/how-to-track-phone-call-leads/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-track-phone-call-leads/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How a small business can record phone inquiries alongside form leads, find out where callers heard about you, and stop losing calls.</description>
+  </item>
+  <item>
+    <title>How do you tell whether a change to your website worked?</title>
+    <link>https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Note the date of each change, compare inquiries over the same weeks before and after, change one thing at a time, allow for seasons, and count customers.</description>
+  </item>
+  <item>
+    <title>How do you switch marketing agencies without losing your website or leads?</title>
+    <link>https://ascentvision.org/answers/how-to-switch-marketing-agencies/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-switch-marketing-agencies/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.</description>
+  </item>
+  <item>
+    <title>How do you spot spam and scam inquiries from your website?</title>
+    <link>https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.</description>
+  </item>
+  <item>
+    <title>How do you set up a simple lead tracker?</title>
+    <link>https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A simple lead tracker is one shared sheet with eight columns and one rule: every inquiry goes in the same day. What to record and how to review it.</description>
+  </item>
+  <item>
+    <title>How do you write a good first reply to a new inquiry?</title>
+    <link>https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A good first reply thanks the person, answers their question, offers one next step and says when. A short example, and the mistakes that cost jobs.</description>
+  </item>
+  <item>
+    <title>How do you tell whether a new lead is a good fit?</title>
+    <link>https://ascentvision.org/answers/how-to-qualify-a-lead/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-qualify-a-lead/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.</description>
+  </item>
+  <item>
+    <title>How do you make a website trustworthy to a new visitor?</title>
+    <link>https://ascentvision.org/answers/how-to-make-a-website-trustworthy/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-make-a-website-trustworthy/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>New visitors decide fast whether a business is real. Signals that matter: contact details, real photos, honest reviews, clear process, current content.</description>
+  </item>
+  <item>
+    <title>How should a small business handle inquiries that arrive after hours?</title>
+    <link>https://ascentvision.org/answers/how-to-handle-leads-after-hours/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-handle-leads-after-hours/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Acknowledge after-hours inquiries at once, say exactly when you will reply, and keep that promise with a morning-first routine and a clear weekend rule.</description>
+  </item>
+  <item>
+    <title>How do you get referrals from other businesses?</title>
+    <link>https://ascentvision.org/answers/how-to-get-referrals-from-other-businesses/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-referrals-from-other-businesses/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Partner with businesses that serve the same customers, make referring you easy, send work back, and record each referral with the partner's name.</description>
+  </item>
+  <item>
+    <title>How do you get more reviews the right way?</title>
+    <link>https://ascentvision.org/answers/how-to-get-more-reviews-the-right-way/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-more-reviews-the-right-way/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How a small business can ask every customer for a review, what the FTC rule and Google's policy forbid, and how to reply to good and bad reviews.</description>
+  </item>
+  <item>
+    <title>How can a small business get leads without paying for ads?</title>
+    <link>https://ascentvision.org/answers/how-to-get-leads-without-ads/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-leads-without-ads/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The channels that bring a small business inquiries without ad spend, from search and AI answers to referrals, reviews and partners, and how to tell which works.</description>
+  </item>
+  <item>
+    <title>How do you get found for a new service you just started offering?</title>
+    <link>https://ascentvision.org/answers/how-to-get-found-for-a-new-service/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-found-for-a-new-service/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Say the new service plainly on your site, tell the customers you already have, ask for the first reviews of it, and give it a few months to be noticed.</description>
+  </item>
+  <item>
+    <title>How should you describe your services on your website?</title>
+    <link>https://ascentvision.org/answers/how-to-describe-your-services-on-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-describe-your-services-on-your-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Describe each service in your customers' words: what is included, who it is for, how it works and what happens next, with real examples of past jobs.</description>
+  </item>
+  <item>
+    <title>How do you choose a website platform for a small business?</title>
+    <link>https://ascentvision.org/answers/how-to-choose-a-website-platform/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-choose-a-website-platform/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What matters when a small service business picks a website platform: ownership, ease of editing, speed on a phone and how hard it is to leave, plus cost over time.</description>
+  </item>
+  <item>
+    <title>How do you choose a domain name for a small business?</title>
+    <link>https://ascentvision.org/answers/how-to-choose-a-domain-name/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-choose-a-domain-name/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Pick a domain that is short, easy to say and spell, and close to your business name, then check for trademark conflicts before you register it.</description>
+  </item>
+  <item>
+    <title>How much of an owner's time does SEO and GEO work take?</title>
+    <link>https://ascentvision.org/answers/how-much-time-does-seo-take-from-an-owner/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-much-time-does-seo-take-from-an-owner/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What an owner usually has to give to SEO and GEO work: answers, approvals, photos, review requests and a monthly read, plus how to keep it light.</description>
+  </item>
+  <item>
+    <title>How much of your marketing should you do yourself?</title>
+    <link>https://ascentvision.org/answers/how-much-marketing-should-you-do-yourself/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-much-marketing-should-you-do-yourself/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Keep what only the owner does well, like customer conversations, reviews and referrals. Hand off work that keeps slipping, and keep your own accounts.</description>
+  </item>
+  <item>
+    <title>How much does SEO cost for a small business?</title>
+    <link>https://ascentvision.org/answers/how-much-does-seo-cost/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-much-does-seo-cost/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What decides the cost of SEO for a small service business, the common ways agencies charge, and the questions that tell you whether a quote is fair.</description>
+  </item>
+  <item>
+    <title>How many people use AI assistants like ChatGPT?</title>
+    <link>https://ascentvision.org/answers/how-many-people-use-ai-assistants/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-many-people-use-ai-assistants/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>About half of U.S. adults now use AI chatbots, Pew Research Center found in 2026. What the numbers say and what they mean for a service business.</description>
+  </item>
+  <item>
+    <title>How many inquiries does a small business need to hit its goals?</title>
+    <link>https://ascentvision.org/answers/how-many-inquiries-do-you-need/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-many-inquiries-do-you-need/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Work backwards from your goal: the new jobs you want each month divided by the share of inquiries you win gives the inquiries you need, by channel.</description>
+  </item>
+  <item>
+    <title>How long does it take to build or upgrade a small business website?</title>
+    <link>https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How long a small business website takes depends on content, decisions and approvals more than the build itself. Where projects stall and how to speed it up.</description>
+  </item>
+  <item>
+    <title>How fast should a business reply to a new lead?</title>
+    <link>https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.</description>
+  </item>
+  <item>
+    <title>How do you know if your marketing is working?</title>
+    <link>https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.</description>
+  </item>
+  <item>
+    <title>How do customers find businesses through AI assistants?</title>
+    <link>https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.</description>
+  </item>
+  <item>
+    <title>How do customers compare service businesses online before they call?</title>
+    <link>https://ascentvision.org/answers/how-do-customers-compare-businesses-online/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-do-customers-compare-businesses-online/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.</description>
+  </item>
+  <item>
+    <title>Should you hire a freelancer or an agency for SEO and marketing?</title>
+    <link>https://ascentvision.org/answers/freelancer-or-agency-for-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/freelancer-or-agency-for-seo/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A fair comparison of freelancers and agencies for SEO and marketing: cost structure, cover, skills, who you talk to, continuity and what to ask.</description>
+  </item>
+  <item>
+    <title>How should you follow up with a lead that goes quiet?</title>
+    <link>https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.</description>
+  </item>
+  <item>
+    <title>Does a small business website really need to work well on phones?</title>
+    <link>https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.</description>
+  </item>
+  <item>
+    <title>Does a small business website need HTTPS?</title>
+    <link>https://ascentvision.org/answers/does-your-website-need-https/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/does-your-website-need-https/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.</description>
+  </item>
+  <item>
+    <title>Does a small business website need a privacy policy?</title>
+    <link>https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>If your website form collects names, emails or phone numbers, a privacy policy is often expected. What California's Attorney General and the FTC say.</description>
+  </item>
+  <item>
+    <title>Does a small business need website analytics?</title>
+    <link>https://ascentvision.org/answers/do-you-need-website-analytics/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/do-you-need-website-analytics/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Website analytics shows visits, pages and where visitors came from. What it can and cannot tell a small business, and how to keep it simple and private.</description>
+  </item>
+  <item>
+    <title>Do you need a website if you already get customers from social media?</title>
+    <link>https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.</description>
+  </item>
+  <item>
+    <title>Do online reviews matter for a small business?</title>
+    <link>https://ascentvision.org/answers/do-online-reviews-matter/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/do-online-reviews-matter/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.</description>
+  </item>
+  <item>
+    <title>Do AI assistants get facts about businesses wrong?</title>
+    <link>https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.</description>
+  </item>
+  <item>
+    <title>How do you check what ChatGPT says about your business?</title>
+    <link>https://ascentvision.org/answers/check-what-ai-says-about-your-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/check-what-ai-says-about-your-business/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.</description>
+  </item>
+  <item>
+    <title>Can AI write your website copy?</title>
+    <link>https://ascentvision.org/answers/can-ai-write-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-ai-write-your-website/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.</description>
+  </item>
+  <item>
+    <title>Can a small business compete with big companies on Google and in AI answers?</title>
+    <link>https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.</description>
+  </item>
+  <item>
+    <title>Are paid directory listings worth it for a small business?</title>
+    <link>https://ascentvision.org/answers/are-paid-directory-listings-worth-it/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/are-paid-directory-listings-worth-it/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to judge a paid directory listing by the inquiries and jobs it sends, when the free version is enough, and the red flags to check before you sign.</description>
+  </item>
+  <item>
+    <title>What is lead attribution, and why does a small business need it?</title>
+    <link>https://ascentvision.org/answers/what-is-lead-attribution/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-lead-attribution/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.</description>
+  </item>
+  <item>
+    <title>What is GEO (generative engine optimization)?</title>
+    <link>https://ascentvision.org/answers/what-is-geo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-geo/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.</description>
+  </item>
+  <item>
+    <title>Should you upgrade your website or rebuild it?</title>
+    <link>https://ascentvision.org/answers/upgrade-or-rebuild-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/upgrade-or-rebuild-your-website/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.</description>
+  </item>
+  <item>
+    <title>What should you ask before hiring an SEO or GEO agency?</title>
+    <link>https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.</description>
+  </item>
+  <item>
+    <title>How long does SEO take to work?</title>
+    <link>https://ascentvision.org/answers/how-long-does-seo-take/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-long-does-seo-take/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.</description>
+  </item>
+  <item>
+    <title>GEO vs SEO: what is the difference, and do you need both?</title>
+    <link>https://ascentvision.org/answers/geo-vs-seo/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/geo-vs-seo/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>SEO aims for a ranked link; GEO aims for a recommendation inside an AI answer. How they differ, where they overlap and why most businesses need both.</description>
+  </item>
+  <item>
+    <title>Are AI answers taking clicks away from Google search results?</title>
+    <link>https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What Pew Research Center found about AI summaries and clicks on Google, what the study does not show, and what it means for a service business.</description>
+  </item>
+</channel>
+</rss>
