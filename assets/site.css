@@ -254,3 +254,47 @@ p { margin: 0 0 1em; }
 .pillar__links a:hover { text-decoration: underline; }
 .answer-group { margin-bottom: 36px; scroll-margin-top: 80px; }
 .answer-group > h2 { font-size: 1.35rem; margin-bottom: 14px; }
+
+/* ---- the application (/work-with-us/) --------------------------------------------------------------------------- */
+[hidden] { display: none !important; } /* the step and nav boxes set their own display; hidden must still win */
+.apply { gap: 28px; }
+.apply__top { display: grid; gap: 8px; }
+.apply__bar { list-style: none; margin: 0; padding: 0; display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 5px; }
+.apply__bar li { position: relative; height: 5px; border-radius: 5px; overflow: hidden; background: var(--paper-2); }
+.apply__bar li::after { content: ''; position: absolute; inset: 0; background: var(--accent); transform: scaleX(0); transform-origin: left; transition: transform 0.45s ease; }
+.apply__bar li.is-done::after { transform: scaleX(1); }
+.apply__bar li.is-now::after { transform: scaleX(0.5); }
+.apply__count { margin: 0; }
+.astep { display: grid; gap: 14px; align-content: start; }
+@media (prefers-reduced-motion: no-preference) { .astep.is-active { animation: step-in 0.4s ease both; } }
+@keyframes step-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.astep__n { margin: 0; font-size: 0.8rem; font-weight: 700; color: var(--muted); letter-spacing: 0.08em; }
+.aq { font-size: clamp(1.6rem, 4vw, 2.3rem); font-weight: 800; letter-spacing: -0.025em; line-height: 1.1; margin: 0; outline: none; }
+.aq em { font-style: normal; color: var(--accent); }
+.aq__hint { margin: 0; color: var(--muted); font-size: 1rem; }
+.aq__field { display: grid; gap: 14px; }
+.field__label { margin: 8px 0 0; font-weight: 600; font-size: 0.95rem; }
+.field__label em { font-weight: 400; color: var(--muted); font-style: normal; }
+.achips { display: flex; flex-wrap: wrap; gap: 10px; counter-reset: chip; }
+.achip { counter-increment: chip; }
+.achip kbd::before { content: counter(chip); } /* the number lives in CSS so it is a hint, not page text */
+.achip { position: relative; }
+.achip input { position: absolute; z-index: 1; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.achip span { display: inline-flex; align-items: center; gap: 10px; min-height: 48px; padding: 10px 18px 10px 10px; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; font-weight: 600; font-size: 1rem; line-height: 1.2; transition: background-color 0.2s, border-color 0.2s, color 0.2s; }
+.achip kbd { display: grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--line); font: 700 0.72rem/1 var(--font); color: var(--muted); }
+.achip:hover span { border-color: var(--accent); }
+.achip input:checked + span { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.achip input:checked + span kbd { background: #fff; border-color: #fff; color: var(--accent); }
+.achip input:focus-visible + span { outline: 3px solid var(--accent); outline-offset: 3px; }
+.ainput--area { min-height: 7rem; resize: vertical; }
+.apply__nav { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.apply__nav .btn[disabled] { opacity: 0.4; pointer-events: none; }
+.apply__need { margin: 0; color: var(--muted); flex: 1; }
+.alink { border: 0; background: none; padding: 8px 2px; font: inherit; font-weight: 600; color: var(--muted); cursor: pointer; text-decoration: underline; text-underline-offset: 0.2em; }
+.alink:hover { color: var(--ink); }
+.alink--back { text-decoration: none; }
+.apply__send { display: grid; gap: 12px; justify-items: start; }
+.after { padding-left: 1.2em; display: grid; gap: 10px; color: var(--ink-2); }
+/* Without JavaScript every step shows at once, separated by a rule. */
+html:not(.js) .astep { padding-top: 24px; border-top: 1px solid var(--line); }
+html:not(.js) .achip kbd { display: none; }

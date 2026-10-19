@@ -51,6 +51,7 @@ function initSubmit(form) {
     try {
       const res = await fetch(form.action, { method: 'POST', body, headers: { Accept: 'application/json' } });
       if (!res.ok) throw new Error(String(res.status));
+      form.dispatchEvent(new Event('av:sent')); // apply.js clears the answers it kept for a refresh
       location.href = form.elements.return.value;
     } catch {
       btn.disabled = false;
