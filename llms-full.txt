@@ -41,6 +41,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Are Paid Directory Listings Worth It? | Ascent Vision](https://ascentvision.org/answers/are-paid-directory-listings-worth-it/): How to judge a paid directory listing by the inquiries and jobs it sends, when the free version is enough, and the red flags to check before you sign.
 - [Can a Small Business Compete With Big Companies? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
+- [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
@@ -63,6 +64,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Do You Know If Your Marketing Is Working? | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
 - [How Long Does a Website Take to Build? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/): How long a small business website takes depends on content, decisions and approvals more than the build itself. Where projects stall and how to speed it up.
+- [How Long Until You Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-show-up-in-ai-answers/): Showing up in AI answers usually takes months, and no one can give a date. Why timing varies by assistant and what early progress tends to look like.
 - [How Long Does SEO Take to Work? | Ascent Vision](https://ascentvision.org/answers/how-long-does-seo-take/): An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.
 - [How Many Inquiries Does a Business Need? | Ascent Vision](https://ascentvision.org/answers/how-many-inquiries-do-you-need/): Work backwards from your goal: the new jobs you want each month divided by the share of inquiries you win gives the inquiries you need, by channel.
 - [How Many Pages Does Your Website Need? | Ascent Vision](https://ascentvision.org/answers/how-many-pages-does-a-small-business-website-need/): A plain starter page list for a service business website, when a one-page site is enough, and when a service deserves a page of its own.
@@ -89,6 +91,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Spot an SEO Scam | Ascent Vision](https://ascentvision.org/answers/how-to-spot-an-seo-scam/): Unsolicited SEO emails, calls about your Google listing and promises of a page-one spot are the warning signs, in Google's and the FTC's own words.
 - [How to Spot Spam and Scam Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/): Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.
 - [How to Switch Marketing Agencies Safely | Ascent Vision](https://ascentvision.org/answers/how-to-switch-marketing-agencies/): How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.
+- [Did a Customer Find You Through ChatGPT? | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-customer-found-you-through-chatgpt/): Customers who find you through ChatGPT often look like direct visits or ordinary searches. Why that happens and the one question to ask every inquiry.
 - [How to Tell If a Website Change Worked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/): Note the date of each change, compare inquiries over the same weeks before and after, change one thing at a time, allow for seasons, and count customers.
 - [How to Tell If Your Website Was Hacked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-your-website-was-hacked/): The signs owners actually notice when a business website has been hacked, and the first steps to take, drawing on federal guidance, before you delete anything.
 - [Tracking Leads From Flyers, Signs and Wraps | Ascent Vision](https://ascentvision.org/answers/how-to-track-leads-from-flyers-signs-and-vehicles/): Give every flyer, yard sign and truck wrap its own way back to you, ask every caller how they found you, and judge each item by the jobs it wins.
@@ -160,7 +163,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Who Should Own Your Business Phone Number? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-business-phone-number/): Why the business, not a person or a vendor, should own its main phone number, the risks of personal cells and rented numbers, and what porting means.
 - [Who Should Own Your Domain Name? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-domain-name/): Your business should own its domain name, in its own name and its own registrar account. What goes wrong otherwise, and how to check who holds yours today.
 - [Why Are My Leads Not Turning Into Customers? | Ascent Vision](https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/): When leads do not become customers, one stage usually leaks. How to read your own lead list to find it, from wrong-fit sources to quotes that stall.
+- [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
+- [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
+- [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
 
 ## Services
@@ -1039,6 +1045,48 @@ Sources: https://support.google.com/business/answer/9918094?hl=en
 No-shows can often be cut with a few habits: confirm every appointment in writing when it is booked, send a reminder the day before (by text only with the person's consent), make rescheduling a one-step reply, and state a simple, friendly policy. Then record each no-show with the lead's source, so you can see whether some channels bring people who book and do not turn up.
 
 Full answer: https://ascentvision.org/answers/how-to-cut-no-shows/
+
+### Why does ChatGPT recommend my competitor and not me?
+
+Usually because the assistant found it easier to say what your competitor does, where and for whom. No outsider can see exactly why one business is named over another, but the differences an owner can see tend to be plain ones: a clearer description of the work, more recent reviews, more mentions on other sites, or the exact service the customer asked about named in so many words. Which of those weighs, no outsider knows.
+
+Full answer: https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/
+Sources: https://help.openai.com/en/articles/9237897-chatgpt-search ; https://developers.google.com/search/docs/appearance/ai-features
+
+### How long does it take to show up in AI answers?
+
+Usually months rather than weeks, and no one can give you a date. Timing depends on the assistant: one that searches the web while it answers can reflect changes once it finds them, while an answer drawn from what a model learned earlier may not change until a newer model is released. Early progress tends to be small: a more accurate description first, then an occasional mention, before inquiries follow.
+
+Full answer: https://ascentvision.org/answers/how-long-does-it-take-to-show-up-in-ai-answers/
+Sources: https://help.openai.com/en/articles/9237897-chatgpt-search ; https://developers.google.com/search/docs/appearance/ai-features
+
+### How do you know if a customer found you through ChatGPT?
+
+Usually the only reliable way is to ask. Many people who hear about a business from ChatGPT or another assistant never click a link: they read the name, then search for it, type the web address or call. Those visits tend to look like direct visits or ordinary searches. Ask every new inquiry how they found you, write the answer down next to the lead, and AI answers become a channel you can count.
+
+Full answer: https://ascentvision.org/answers/how-to-tell-if-a-customer-found-you-through-chatgpt/
+Sources: https://help.openai.com/en/articles/9237897-chatgpt-search ; https://developers.google.com/search/docs/appearance/ai-features
+
+### Why does a competitor show up above my business on Google Maps?
+
+Google says local results depend mainly on three things: relevance (how well a profile fits the search), distance (how far the business is from the person searching) and prominence (how well known the business is). A competitor can sit above you because it is closer to that searcher, fits the words they typed better, or is better known, reviews included. Google also says no one can request or pay for a better local ranking.
+
+Full answer: https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/
+Sources: https://support.google.com/business/answer/7091 ; https://support.google.com/business/answer/3038177
+
+### Can you get a fake or unfair Google review taken down?
+
+Sometimes. Google says only reviews that break its policies are eligible for removal: for example, a review not based on a real experience, spam, harassment, an off-topic rant or one written from a conflict of interest. An owner can report it from the Business Profile and, if Google finds no violation, appeal once. An honest bad review usually stays. The FTC also says its review rule bars intimidation, groundless legal threats and knowingly false accusations used to stop or remove reviews. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/
+Sources: https://support.google.com/business/answer/4596773 ; https://support.google.com/contributionpolicy/answer/7400114 ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
+
+### Why was my Google Business Profile suspended, and how do I get it back?
+
+Google says it may suspend or disable a Business Profile that does not follow its guidelines, which bar, for example, extra words in the business name, an address the business does not really operate from, and more than one profile per location. To get it back, fix what broke the rules, then file an appeal in Google's appeals tool, optionally with documents such as a business license or utility bill. Google says appeals can be submitted only once, and not to create a new profile.
+
+Full answer: https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/
+Sources: https://support.google.com/business/answer/4569145 ; https://support.google.com/business/answer/3038177
 
 ## Questions and answers
 
