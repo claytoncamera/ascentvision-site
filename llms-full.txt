@@ -50,6 +50,8 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do AI Assistants Get Facts Wrong? | Ascent Vision](https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/): A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
+- [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
+- [Do You Need a Logo Before a Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/): A new website needs a clear name, one or two colors and real photos at the start. A logo can usually wait, and a plain-text stand-in works until then.
 - [Website or Just Social Media? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/): Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.
 - [Do You Need Consent to Record Calls? | Ascent Vision](https://ascentvision.org/answers/do-you-need-consent-to-record-customer-calls/): Federal law lets one person on a call consent to recording, but Florida, and possibly other states, require everyone to agree. A plain line to ask with.
 - [Does Your Business Need Website Analytics? | Ascent Vision](https://ascentvision.org/answers/do-you-need-website-analytics/): Website analytics shows visits, pages and where visitors came from. What it can and cannot tell a small business, and how to keep it simple and private.
@@ -105,6 +107,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
 - [Is It Too Late to Start SEO? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Search is more crowded and AI answers have changed it, but customers still look before they hire. Where a late starter can still win, and how to begin.
 - [Google Ads or SEO for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-paid-search-better-than-seo/): Paid search ads work fast and stop when you stop paying. SEO is slower but tends to last. An honest comparison, and when each one fits a small business.
+- [Is Pay-for-Performance SEO a Good Deal? | Ascent Vision](https://ascentvision.org/answers/is-pay-for-performance-seo-a-good-deal/): Why deals that charge only when you rank tend to favor easy, low-value searches, and what to tie payment to instead: inquiries traced to a source.
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
 - [Local or Remote Marketing Agency: Which to Hire? | Ascent Vision](https://ascentvision.org/answers/local-or-remote-marketing-agency/): Whether a small business should hire a marketing agency nearby or one that works remotely, what actually matters more than distance, and what to ask.
@@ -121,10 +124,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Put Prices on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-put-prices-on-your-website/): Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.
 - [Should a Small Business Use a Website Chatbot? | Ascent Vision](https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/): When a chatbot helps a small service business website, when it gets in the way, and what to check before adding one.
 - [Should Customers Be Able to Book Online? | Ascent Vision](https://ascentvision.org/answers/should-you-use-an-online-booking-tool/): Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.
+- [Should You Use Video on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-use-video-on-your-website/): When video helps a service business website, what it can cost in page weight and slow loading, and why videos with speech need captions.
 - [Should Business Email Use Your Own Domain? | Ascent Vision](https://ascentvision.org/answers/should-your-business-email-use-your-own-domain/): Why a service business usually does better with email at its own domain than a free address: customer trust, control when staff leave, mail that stays put.
 - [Should Your SEO Agency Serve Competitors? | Ascent Vision](https://ascentvision.org/answers/should-your-seo-agency-work-for-your-competitors/): An agency that also works for your competitors is not always a problem, but ask before you sign. What to ask, and what to get in writing.
 - [Should Your Website Have a Spanish Version? | Ascent Vision](https://ascentvision.org/answers/should-your-website-have-a-spanish-version/): When a Spanish version of a business website is worth it, what Census data on home languages shows, and why unchecked machine translation can backfire.
 - [Should Your Site Show License and Insurance? | Ascent Vision](https://ascentvision.org/answers/should-your-website-show-your-license-and-insurance/): How customers check a license with the state, what Florida's law says about license numbers in contractor ads, and how to mention insurance honestly.
+- [Should Your Website Use Pop-Ups? | Ascent Vision](https://ascentvision.org/answers/should-your-website-use-pop-ups/): What Nielsen Norman Group found about pop-ups, how they can get in the way of inquiries, and gentler ways to ask for an email address or feedback.
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Are Google Local Services Ads? | Ascent Vision](https://ascentvision.org/answers/what-are-google-local-services-ads/): Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.
@@ -142,10 +147,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
 - [What Is a Marketing Retainer? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-retainer/): A marketing retainer is a monthly fee for agreed ongoing work. A fair one spells out scope, measures, reporting, term, notice and who owns what.
 - [What Is a Sales Pipeline? | Ascent Vision](https://ascentvision.org/answers/what-is-a-sales-pipeline/): A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.
+- [What Is Claude? | Ascent Vision](https://ascentvision.org/answers/what-is-claude/): Claude is Anthropic’s AI assistant. What Anthropic says it is, whether it can search the web, and how many U.S. adults use it, according to Pew.
 - [What Is GEO (Generative Engine Optimization)? | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
 - [What Is Google Gemini? | Ascent Vision](https://ascentvision.org/answers/what-is-google-gemini/): Gemini is Google's AI assistant, first launched as Bard. What Google says it is, how many U.S. adults use it, and what that means for a service business.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
 - [What Is Local SEO? A Plain Explanation | Ascent Vision](https://ascentvision.org/answers/what-is-local-seo/): What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.
+- [What Is Meta AI? | Ascent Vision](https://ascentvision.org/answers/what-is-meta-ai/): Meta AI is the assistant inside WhatsApp, Instagram, Facebook and Messenger. What Meta says it does, whether it can recommend businesses, and who uses it.
 - [What Is Microsoft Copilot? | Ascent Vision](https://ascentvision.org/answers/what-is-microsoft-copilot/): Copilot is Microsoft’s AI assistant, built into apps like Word and Outlook and offered in a mobile app. What Microsoft says it is, and who uses it.
 - [What Is Perplexity? | Ascent Vision](https://ascentvision.org/answers/what-is-perplexity/): Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.
 - [What Photos Should a Service Website Use? | Ascent Vision](https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/): Use real photos of your team and your work, with permission from anyone shown. Avoid stock presented as your own, and keep images light for fast phones.
@@ -161,14 +168,17 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Do With a Lead You Cannot Serve | Ascent Vision](https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/): Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.
 - [What to Have in Place Before Starting SEO | Ascent Vision](https://ascentvision.org/answers/what-to-have-before-starting-seo/): Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.
 - [What to Look For in Website Hosting | Ascent Vision](https://ascentvision.org/answers/what-to-look-for-in-website-hosting/): Good hosting is in your name, keeps backups you can restore, has support you can reach and clear renewal terms. What to check before you sign up or switch.
+- [When a Customer Repeats a Wrong AI Answer | Ascent Vision](https://ascentvision.org/answers/when-a-customer-repeats-something-wrong-an-ai-told-them/): A customer quotes a price, service or policy an AI assistant got wrong. How to correct it calmly, confirm it in writing and fix what your own site says.
 - [When a Lead Asks for the Price First | Ascent Vision](https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/): Answer price questions honestly: a range and what drives it, or the two questions you need first. Never dodge it, and never invent a discount to close.
 - [Where to Start With Small Business Marketing | Ascent Vision](https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/): Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.
 - [First Touch or Last Touch: Who Gets Credit? | Ascent Vision](https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/): First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.
 - [Who Owns the Website a Designer Built? | Ascent Vision](https://ascentvision.org/answers/who-owns-a-website-a-designer-built/): Paying for a website does not automatically make you the copyright owner. What the U.S. Copyright Office says, and how a written contract settles it.
+- [Who Should Handle New Leads on a Small Team? | Ascent Vision](https://ascentvision.org/answers/who-should-handle-new-leads-on-a-small-team/): Simple rules for sharing new leads on a small team: one named owner for each lead, a backup for days off, and a short handoff note.
 - [Who Should Own Your Business Phone Number? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-business-phone-number/): Why the business, not a person or a vendor, should own its main phone number, the risks of personal cells and rented numbers, and what porting means.
 - [Who Should Own Your Domain Name? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-domain-name/): Your business should own its domain name, in its own name and its own registrar account. What goes wrong otherwise, and how to check who holds yours today.
 - [Why Are My Leads Not Turning Into Customers? | Ascent Vision](https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/): When leads do not become customers, one stage usually leaks. How to read your own lead list to find it, from wrong-fit sources to quotes that stall.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
+- [Why ChatGPT Answers Differ by Person | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/): Memory, location and live web search can all change what ChatGPT says, so one check from your own account proves little. What OpenAI says, and what to do.
 - [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
@@ -1126,6 +1136,72 @@ Microsoft describes Copilot as an AI-powered assistant that helps with work: cre
 
 Full answer: https://ascentvision.org/answers/what-is-microsoft-copilot/
 Sources: https://www.microsoft.com/en-us/copilot/solutions/individuals ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### Who should handle new leads when more than one person shares the work?
+
+Give every new lead one named owner, picked by a simple rule written down in advance, and record the name where the whole team can see it. Name a backup for each person's days off, and have the owner leave a short handoff note whenever a lead changes hands. One owner and one note make it much less likely that anyone double-calls a lead or assumes someone else has it.
+
+Full answer: https://ascentvision.org/answers/who-should-handle-new-leads-on-a-small-team/
+
+### Do you need a logo before you build a website?
+
+No. A website can launch without a logo. At the start it needs a clear business name spelled the same way on the site, in emails and on invoices, one or two colors, and real photos of you and your work. Until a logo is ready, the business name set in plain text does the job. A logo is worth doing once you have a reason to put it somewhere, such as a vehicle or a sign.
+
+Full answer: https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/
+
+### Should a service business use video on its website?
+
+Yes, when it shows something text and photos cannot: the owner, the team at work or how a job goes. Keep it short, let visitors choose to press play, add captions to any speech, and keep the key facts in writing too. Video files are usually much heavier than photos, so check that your pages still load quickly on a phone before you add one.
+
+Full answer: https://ascentvision.org/answers/should-you-use-video-on-your-website/
+Sources: https://www.nngroup.com/articles/video-usability/ ; https://www.w3.org/WAI/media/av/captions/ ; https://web.dev/learn/performance/video-performance
+
+### Should a small business website use pop-ups?
+
+Usually not, at least not one that appears as soon as a visitor lands. Nielsen Norman Group says decades of its user research show that people dislike pop-ups, which tend to appear at the wrong time and interrupt people during critical tasks. For a service visitor, that task is often a call or an inquiry. A visible phone number, an on-page form and a small, dismissible banner are gentler ways to ask.
+
+Full answer: https://ascentvision.org/answers/should-your-website-use-pop-ups/
+Sources: https://www.nngroup.com/articles/popups/ ; https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials
+
+### Is pay-for-performance SEO a good deal?
+
+Often not, when payment depends only on ranking. The agency is then paid for reaching a position, so the easiest searches are the natural choice, and those are often ones that bring no customers. A better deal ties payment to inquiries you can trace to a source, or to jobs won, with the rules for what counts agreed in writing before work starts.
+
+Full answer: https://ascentvision.org/answers/is-pay-for-performance-seo-a-good-deal/
+
+### What should you say when a customer repeats something wrong an AI told them?
+
+Stay calm, thank the customer for checking, and say what is actually true in plain words. Do not argue with the assistant or make the customer feel foolish. Offer to confirm the correct detail in writing, and note what you heard. If the wrong detail came from your own website or profile, fix it there, because that is the part you control.
+
+Full answer: https://ascentvision.org/answers/when-a-customer-repeats-something-wrong-an-ai-told-them/
+
+### What is Claude, and do customers use it to find businesses?
+
+Anthropic describes Claude as “a helpful, intuitive, and powerful collaborator” you can put to work on real tasks. Anthropic lists searching the web for current information among Claude’s tools, and says Claude runs on the web, on phones and in a desktop app. In Pew Research Center’s February 2026 survey, 6% of U.S. adults said they ever use it, well behind ChatGPT at 44%.
+
+Full answer: https://ascentvision.org/answers/what-is-claude/
+Sources: https://claude.com/product/overview ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### What is Meta AI, and can it recommend businesses to customers?
+
+Meta AI is the assistant Meta builds into WhatsApp, Instagram, Facebook and Messenger, and also offers on a website and in its own app. Meta announced it in September 2023. Its later posts suggest asking it for recommendations, including for a restaurant, and say it can search the web. In Pew Research Center’s February 2026 survey, 14% of U.S. adults said they ever use it.
+
+Full answer: https://ascentvision.org/answers/what-is-meta-ai/
+Sources: https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/ ; https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/ ; https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/ ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### Do Siri and Alexa recommend local businesses?
+
+Siri can find nearby places and Alexa+ can book some services, but no one can promise either will name a particular business. Apple says that with Location Services on, Siri can find places nearby, and that Siri can use ChatGPT once a person sets it up. Amazon says Alexa+ can make reservations or appointments with OpenTable and Vagaro, and can suggest a restaurant.
+
+Full answer: https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/
+Sources: https://support.apple.com/guide/iphone/turn-on-chatgpt-iph00fd3c8c2/ios ; https://support.apple.com/guide/iphone/use-siri-to-get-answers-from-chatgpt-iph0193a9d54/27/ios/27 ; https://support.apple.com/guide/iphone/find-info-and-get-things-done-ipha48873ed6/27/ios/27 ; https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### Why does ChatGPT give different people different answers?
+
+ChatGPT answers can differ from person to person because it does not work from one fixed script. OpenAI says it can use a person’s memory, an approximate location taken from their IP address, and a web search it may run when a question would benefit from current information. Two people asking the same question can get different answers, so one check from your own account shows what your account sees, not necessarily what a customer sees.
+
+Full answer: https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/
+Sources: https://help.openai.com/en/articles/8590148-memory-in-chatgpt ; https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt ; https://developers.google.com/search/docs/appearance/ai-features
 
 ## Questions and answers
 
