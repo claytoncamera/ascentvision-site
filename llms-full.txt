@@ -49,6 +49,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can You Use AI Images on Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/): Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.
 - [Can You Use Photos Found Online? | Ascent Vision](https://ascentvision.org/answers/can-you-use-photos-from-the-internet-on-your-website/): Copyright basics for owners: why a photo found online is usually not free to use, what an image license covers, and what to do about a demand letter.
 - [Check What ChatGPT Says About Your Business | Ascent Vision](https://ascentvision.org/answers/check-what-ai-says-about-your-business/): A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.
+- [Do Accessibility Overlays Ensure Compliance? | Ascent Vision](https://ascentvision.org/answers/do-accessibility-widgets-make-a-website-compliant/): The FTC alleged a plug-in seller's compliance claims were false or unsupported. What the case said, what a widget may miss, and what to do instead.
 - [Do AI Assistants Get Facts Wrong? | Ascent Vision](https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/): A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
@@ -112,10 +113,13 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
 - [Is It Too Late to Start SEO? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Search is more crowded and AI answers have changed it, but customers still look before they hire. Where a late starter can still win, and how to begin.
+- [Is a Chamber of Commerce Worth Joining? | Ascent Vision](https://ascentvision.org/answers/is-joining-a-chamber-of-commerce-worth-it/): A chamber can bring referrals if its members serve your customers. What chambers usually offer, what to ask before joining, and how to judge membership.
+- [Is Nextdoor Worth It for a Service Business? | Ascent Vision](https://ascentvision.org/answers/is-nextdoor-worth-it-for-a-service-business/): Nextdoor gives a business a free page, free posts and neighbor recommendations. Who uses it, by Pew's 2026 figures, and how to tell if it brings you work.
 - [Google Ads or SEO for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-paid-search-better-than-seo/): Paid search ads work fast and stop when you stop paying. SEO is slower but tends to last. An honest comparison, and when each one fits a small business.
 - [Is Pay-for-Performance SEO a Good Deal? | Ascent Vision](https://ascentvision.org/answers/is-pay-for-performance-seo-a-good-deal/): Why deals that charge only when you rank tend to favor easy, low-value searches, and what to tie payment to instead: inquiries traced to a source.
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
+- [Local or Toll-Free Number for a Business? | Ascent Vision](https://ascentvision.org/answers/local-number-or-toll-free-number/): A local number often suits a business serving one area; toll-free can suit callers in many states. What FCC rules say toll-free means, and what to avoid.
 - [Local or Remote Marketing Agency: Which to Hire? | Ascent Vision](https://ascentvision.org/answers/local-or-remote-marketing-agency/): Whether a small business should hire a marketing agency nearby or one that works remotely, what actually matters more than distance, and what to ask.
 - [Marketing for Seasonal Businesses | Ascent Vision](https://ascentvision.org/answers/marketing-for-seasonal-businesses/): Start before the busy season, stay visible when it is quiet, use the off season for the website and reviews, and compare results season by season.
 - [More Leads Than You Can Handle? | Ascent Vision](https://ascentvision.org/answers/more-leads-than-you-can-handle/): What to do when inquiries outrun your capacity: honest wait times, a short waitlist, best-fit jobs first, paid channels paused first, and referring out.
@@ -123,6 +127,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
+- [Boost a Facebook Post or Run an Ad? | Ascent Vision](https://ascentvision.org/answers/should-you-boost-a-facebook-post/): Meta says a boosted post is an ad made from a post you already published. When boosting suits a service business, when a full ad does, and how to judge it.
 - [Should You Buy an Email List? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-an-email-list/): Why buying an email list is usually a poor idea: what Google's sender guidelines and the FTC's CAN-SPAM guide say, and better ways to build a list.
 - [Should You Buy Leads From Angi or Thumbtack? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/): Lead sites can bring work, but leads are often shared. How to judge Angi or Thumbtack by jobs won, ask for credits and keep the customer as your own.
 - [Should You Call or Email a New Lead First? | Ascent Vision](https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/): Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.
@@ -187,6 +192,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [When a Customer Repeats a Wrong AI Answer | Ascent Vision](https://ascentvision.org/answers/when-a-customer-repeats-something-wrong-an-ai-told-them/): A customer quotes a price, service or policy an AI assistant got wrong. How to correct it calmly, confirm it in writing and fix what your own site says.
 - [When a Lead Asks for the Price First | Ascent Vision](https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/): Answer price questions honestly: a range and what drives it, or the two questions you need first. Never dodge it, and never invent a discount to close.
 - [Where to Start With Small Business Marketing | Ascent Vision](https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/): Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.
+- [Which Social Media Should a Business Use? | Ascent Vision](https://ascentvision.org/answers/which-social-media-should-a-service-business-use/): Pick one or two platforms your customers use, using Pew's 2026 figures by age, and post on a rhythm you can keep. How to choose, and how to judge it.
 - [First Touch or Last Touch: Who Gets Credit? | Ascent Vision](https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/): First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.
 - [Who Owns the Website a Designer Built? | Ascent Vision](https://ascentvision.org/answers/who-owns-a-website-a-designer-built/): Paying for a website does not automatically make you the copyright owner. What the U.S. Copyright Office says, and how a written contract settles it.
 - [Who Should Handle New Leads on a Small Team? | Ascent Vision](https://ascentvision.org/answers/who-should-handle-new-leads-on-a-small-team/): Simple rules for sharing new leads on a small team: one named owner for each lead, a backup for days off, and a short handoff note.
@@ -1358,6 +1364,47 @@ Save proof first, then ask the site's owner to remove the copy. If that fails, t
 
 Full answer: https://ascentvision.org/answers/what-to-do-if-someone-copies-your-website/
 Sources: https://www.copyright.gov/dmca/ ; https://www.copyright.gov/512/ ; https://www.copyright.gov/help/faq/faq-protect.html ; https://support.google.com/legal/answer/3110420
+
+### Should you boost a Facebook post or run an ad?
+
+Both are paid ads. Meta describes a boosted post as an ad made from something you already posted, and calls it the simplest way to get a post seen by more people. Ads built in Meta's Ads Manager add more choices, including objectives such as leads. For a service business, boosting often suits getting a strong post seen nearby, and a full ad often suits collecting inquiries. Judge either one by the inquiries and jobs it brings, not by likes.
+
+Full answer: https://ascentvision.org/answers/should-you-boost-a-facebook-post/
+Sources: https://www.facebook.com/business/help/317083072148603 ; https://www.facebook.com/business/help/347839548598012
+
+### Is Nextdoor worth it for a local service business?
+
+Often, yes, for a business that serves homes in a set area. Nextdoor says its free Business Page lets a business post to nearby neighborhoods and collect recommendations from neighbors, and it offers ads as a separate option. In Pew Research Center's 2026 survey, 23% of suburban adults said they ever use Nextdoor, against 15% in cities and 11% in rural areas. Judge it by the inquiries it brings.
+
+Full answer: https://ascentvision.org/answers/is-nextdoor-worth-it-for-a-service-business/
+Sources: https://business.nextdoor.com/en-us/getting-started/business-page ; https://business.nextdoor.com/en-us/small-business/faves ; https://business.nextdoor.com/en-us/small-business ; https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+### Is joining a chamber of commerce worth it for a service business?
+
+It can be, when the members include people who hire your kind of service or businesses that serve the same customers as you. A chamber of commerce is usually a membership group of local businesses, and what it offers varies: events, introductions, a member directory, sometimes sponsorships. Visit as a guest before you join if you can. Judge membership like any channel: record each inquiry that came through a chamber contact as a referral, and count the jobs it brought before you renew.
+
+Full answer: https://ascentvision.org/answers/is-joining-a-chamber-of-commerce-worth-it/
+
+### Which social media platforms should a service business be on?
+
+Usually one or two platforms, chosen by where your customers already spend time, rather than a thin presence everywhere. In Pew Research Center's 2026 survey, YouTube and Facebook were the most widely used platforms among U.S. adults and about half used Instagram, while use of Instagram and TikTok was far lower among older adults. Match the platform to the people who hire you, post on a rhythm you can keep, and judge it by inquiries, not followers.
+
+Full answer: https://ascentvision.org/answers/which-social-media-should-a-service-business-use/
+Sources: https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+### Should a service business use a local phone number or a toll-free number?
+
+For most local service businesses, a local number is the usual choice, because nearby customers may recognize the area code and its calls usually come from close by. A toll-free number, which FCC rules define as one where the business pays the charges for completed calls, can suit a business that serves callers across many states. Whichever you pick, keep it on an account in the business's name. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/local-number-or-toll-free-number/
+Sources: https://www.law.cornell.edu/cfr/text/47/52.101 ; https://www.law.cornell.edu/cfr/text/47/52.107
+
+### Do accessibility widgets or overlays make a website compliant?
+
+Not on their own, and no tool can promise it. In a January 2025 notice of a proposed settlement, the Federal Trade Commission said its complaint alleged that a seller's claims that its automated accessibility plug-in could make any website meet the Web Content Accessibility Guidelines were false, misleading or unsubstantiated. Justice Department guidance says automated checkers and overlays can help but need to be used carefully. Fixing barriers in the site itself, checked by people, is the safer path. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/do-accessibility-widgets-make-a-website-compliant/
+Sources: https://www.govinfo.gov/content/pkg/FR-2025-01-06/html/2024-31765.htm ; https://www.ada.gov/resources/web-guidance/
 
 ## Questions and answers
 
