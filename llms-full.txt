@@ -49,8 +49,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can Customers Book You From Google? | Ascent Vision](https://ascentvision.org/answers/can-customers-book-you-from-google/): Google lets many businesses take bookings from their Business Profile, through a booking link or a provider. Who it suits and what to check first.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
+- [Can You Offer a Discount for a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-give-customers-a-discount-for-a-review/): Google bans discounts, gifts or payment for any review. What the FTC's review rule adds, why asking only happy customers is risky and what to do instead.
 - [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
+- [Can You Put Customer Data Into ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/): Pasting customer details into an AI tool shares them with another company. What the SBA and the FTC say, what never to paste and a one-line staff rule.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Remove or Turn Off Facebook Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/): A Facebook Page can switch recommendations off, which removes its rating and reviews. How the setting works, how to report one and how to ask for more.
 - [Can You See Who Visits Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-see-who-visits-your-website/): What website analytics can and cannot show about visitors, why Google Analytics bars personal details, and how a visitor tells you who they are.
@@ -115,8 +117,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Getting Your Website Back From a Designer | Ascent Vision](https://ascentvision.org/answers/how-to-get-your-website-back-from-a-designer/): What to do when a web designer disappears with your logins: domain recovery through the registrar, hosting and platform account recovery, or a rebuild.
 - [How to Handle After-Hours Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-handle-leads-after-hours/): Acknowledge after-hours inquiries at once, say exactly when you will reply, and keep that promise with a morning-first routine and a clear weekend rule.
 - [How to Make a Website Trustworthy | Ascent Vision](https://ascentvision.org/answers/how-to-make-a-website-trustworthy/): New visitors decide fast whether a business is real. Signals that matter: contact details, real photos, honest reviews, clear process, current content.
+- [Duplicate Google Listings: Merge or Remove? | Ascent Vision](https://ascentvision.org/answers/how-to-merge-or-remove-duplicate-google-listings/): Two Google listings for one business? How to tell a true duplicate from an allowed second profile, and what Google says about merging or removing one.
 - [How to Tell Whether a New Lead Is a Good Fit | Ascent Vision](https://ascentvision.org/answers/how-to-qualify-a-lead/): A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.
 - [How to Reply to a New Inquiry | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/): A good first reply thanks the person, answers their question, offers one next step and says when. A short example, and the mistakes that cost jobs.
+- [How to Reply to a Positive Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-positive-google-review/): A short, personal reply to a good Google review: what to say, what Google says to leave out, why copied thank-yous fall flat and how to handle old reviews.
 - [How to Report a Fake Business on Google Maps | Ascent Vision](https://ascentvision.org/answers/how-to-report-a-fake-business-on-google-maps/): Google lets you report a business listing that does not exist, and has a separate form for fraud. Your options, and the evidence that helps.
 - [How to Respond to a Customer Complaint | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-customer-complaint/): Answer fast, listen before fixing, make one clear offer, put it in writing and log the outcome: handling a complaint before it becomes a public review.
 - [How to Respond to a Negative Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-negative-google-review/): A calm reply structure for fair and unfair bad Google reviews, what Google says to leave out, old reviews, and where the FTC draws the line on replies.
@@ -138,6 +142,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Win Back Past Customers | Ascent Vision](https://ascentvision.org/answers/how-to-win-back-past-customers/): How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.
 - [How to Write a Quote That Wins the Job | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/): A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.
 - [Is a Website Template Good Enough? | Ascent Vision](https://ascentvision.org/answers/is-a-website-template-good-enough/): When a website template is enough for a small service business, when custom design can be worth it, and the few things that matter more than either one.
+- [Is a Wix or Squarespace Site Bad for Google? | Ascent Vision](https://ascentvision.org/answers/is-a-wix-or-squarespace-site-bad-for-google/): Wix and Squarespace sites can show up on Google. What Google and both builders say, the limits owners hit, and why a rebuild pitched on fear is a red flag.
 - [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
@@ -156,6 +161,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Ask Before Hiring a Web Designer | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-a-web-designer/): What to ask a web designer before you hire: who owns the domain, design and logins, who writes the words, phone speed, inquiries and what follows launch.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Remove Your Home Address or Phone on Google | Ascent Vision](https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/): Google's Results about you tool can drop your home address or phone from search results. What it removes, what it will not, and what to fix at the source.
+- [SEO or Social Media for a Service Business? | Ascent Vision](https://ascentvision.org/answers/seo-or-social-media-for-a-service-business/): Search reaches people who need a job done now; social mostly reaches people who are not looking yet. Where a service business should put its time first.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
 - [Boost a Facebook Post or Run an Ad? | Ascent Vision](https://ascentvision.org/answers/should-you-boost-a-facebook-post/): Meta says a boosted post is an ad made from a post you already published. When boosting suits a service business, when a full ad does, and how to judge it.
@@ -184,6 +190,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Are Google Local Services Ads? | Ascent Vision](https://ascentvision.org/answers/what-are-google-local-services-ads/): Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.
 - [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
+- [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
 - [What Does a Marketing Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-marketing-agency-do/): The common kinds of marketing agency, what each one should hand a small business owner, and how to choose by the problem you actually have.
@@ -203,6 +210,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Large Language Model (LLM)? | Ascent Vision](https://ascentvision.org/answers/what-is-a-large-language-model/): A large language model is software trained on huge amounts of text to predict likely next words. Why that makes AI answers sound sure, vary and slip up.
 - [What Does a Lead Generation Company Do? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-generation-company/): What lead generation companies sell, exclusive versus shared leads, who keeps the customer, and how to judge a pay-per-lead deal by the jobs it wins.
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
+- [What Is a Marketing Audit? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-audit/): A marketing audit should hand you a plain list of what you have, what works, what is missing and what to do first. How to tell one from a sales pitch.
 - [What Is a Marketing Funnel? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-funnel/): A marketing funnel is the path from first hearing of a business to getting in touch. What its stages mean for a local service business, and what to fix.
 - [What Is a Marketing Retainer? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-retainer/): A marketing retainer is a monthly fee for agreed ongoing work. A fair one spells out scope, measures, reporting, term, notice and who owns what.
 - [What Is a Sales Pipeline? | Ascent Vision](https://ascentvision.org/answers/what-is-a-sales-pipeline/): A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.
@@ -222,6 +230,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Put in a Business Email Signature | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-email-signature-include/): The few lines a business email signature needs so a customer can act, what to leave out, and how to keep one signature for the whole team.
 - [Business Voicemail Greeting: What to Say | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/): A short script for a business voicemail greeting: your name, when you call back, a faster way to reach you and what to leave. Then keep the promise.
 - [What Should a Contact Form Ask? | Ascent Vision](https://ascentvision.org/answers/what-should-a-contact-form-ask/): The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.
+- [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show an Owner? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page marketing report a small business owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
 - [What Should a Thank-You Page Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-thank-you-page-say/): After someone sends an inquiry, your site should confirm it arrived, say when and how you will reply, and what to do if it is urgent. What to include.
@@ -260,6 +269,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
 - [Why Does Yelp Hide Some Reviews? | Ascent Vision](https://ascentvision.org/answers/why-does-yelp-hide-some-reviews/): Yelp's automated software picks which reviews it recommends. Why some are hidden, where they go, and why Yelp, unlike Google, says not to ask for reviews.
+- [Why Customers See Different Google Results | Ascent Vision](https://ascentvision.org/answers/why-google-results-look-different-for-you-and-your-customers/): Location, device, history and settings change what Google shows, so a search from your own phone proves little. How to see results as a customer does.
 - [Why Isn't My Business Showing Up on Google? | Ascent Vision](https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/): The usual reasons a business does not appear on Google, in the order an owner can check them, plus what to fix this month and what not to pay for.
 - [Why Is My Business Not on Google Maps? | Ascent Vision](https://ascentvision.org/answers/why-is-your-business-not-showing-on-google-maps/): When a business is missing from Google Maps: an unverified, suspended or duplicate profile, a hidden address, a new profile, and what to check first.
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
@@ -1861,6 +1871,76 @@ A large language model, or LLM, is software trained on a huge amount of text to 
 
 Full answer: https://ascentvision.org/answers/what-is-a-large-language-model/
 Sources: https://cloud.google.com/ai/llms ; https://en.wikipedia.org/wiki/Large_language_model ; https://gemini.google/overview/ ; https://developers.google.com/machine-learning/crash-course/llm/transformers
+
+### Is a Wix or Squarespace website bad for showing up on Google?
+
+Usually not. Google's starter guide names no website builder and says that, for Google to find a site, you usually don't need to do anything except publish it. Wix says its sites are designed to be search engine friendly on any plan, and Squarespace says the content you add and how you present it play a big role in how well people find you. The limits owners tend to hit are control, speed and moving out.
+
+Full answer: https://ascentvision.org/answers/is-a-wix-or-squarespace-site-bad-for-google/
+Sources: https://developers.google.com/search/docs/fundamentals/seo-starter-guide ; https://support.wix.com/en/article/search-engine-optimization-seo ; https://support.squarespace.com/hc/en-us/articles/360002090267-SEO-checklist
+
+### What should you do about duplicate Google listings or a second Google profile for your business?
+
+First work out whether it is a true duplicate. Google allows one Business Profile per business and says a duplicate will not show on Search or Maps, but a second location with its own staff and service area, or a distinct business at your address, can have its own. A copy you made by mistake can be removed by its owner, and two Maps listings for one business can be reported for a merge, which Google reviews.
+
+Full answer: https://ascentvision.org/answers/how-to-merge-or-remove-duplicate-google-listings/
+Sources: https://support.google.com/business/answer/12756178 ; https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/4669092 ; https://support.google.com/maps/answer/10552932
+
+### How should a business reply to a positive Google review?
+
+Keep it short and specific. Thank the customer, mention one real detail of the job, and stop there. Google's reply tips say to be conversational, not promotional: skip deals and promotions, and share "a detail that reinforces their experience and encourages a return visit". Write each reply fresh rather than pasting one thank-you everywhere, leave out private details, and never offer anything in return for a review.
+
+Full answer: https://ascentvision.org/answers/how-to-reply-to-a-positive-google-review/
+Sources: https://support.google.com/business/answer/3474122 ; https://support.google.com/business/answer/3474050
+
+### Can you give customers a discount or a gift for leaving a review?
+
+No. Google's Maps content policy bars businesses from offering incentives, such as payment, discounts or free goods or services, in exchange for posting any review. The FTC says its review rule separately bans incentives conditioned, openly or by implication, on a positive or negative review, and that failing to disclose other incentives could violate the FTC Act. As general advice, offer nothing for any review, anywhere, and ask every customer the same way. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-give-customers-a-discount-for-a-review/
+Sources: https://support.google.com/contributionpolicy/answer/7400114 ; https://support.google.com/business/answer/14114287 ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
+
+### What should a marketing agency contract say before you sign it?
+
+Before signing, check that the contract says in plain words what work is included, how long it runs and whether it renews automatically, how and when either side can end it, that your accounts, content and data stay in your business's name, what reports you get, how your information is kept confidential, and what you receive back when it ends. If any of those is missing or vague, ask for it in writing first.
+
+Full answer: https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/
+Sources: https://www.ftc.gov/business-guidance/resources/scams-your-small-business-guide-business
+
+### Should a service business put its time into SEO or into social media?
+
+For most service businesses, the first hours are usually best spent on being found where customers check before they hire: Google search, the map results and AI answers. Those people need the job done now. Social media mostly reaches people who are not looking yet, which can build familiarity and referrals but often brings work more slowly. Once search is covered, add one social platform your customers use, and judge both by the inquiries each brings in.
+
+Full answer: https://ascentvision.org/answers/seo-or-social-media-for-a-service-business/
+Sources: https://www.pewresearch.org/internet/fact-sheet/social-media/ ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### Why do Google results look different on your phone than on a customer's?
+
+Because Google tailors results to the person and the moment. Google says it uses information such as your location, past Search history and Search settings, and results also vary with time, language and device. An owner searching from the shop, signed in, after many visits to their own site, may see the business higher than a customer across town does. For a fairer picture, search signed out, from other places and on other people's phones.
+
+Full answer: https://ascentvision.org/answers/why-google-results-look-different-for-you-and-your-customers/
+Sources: https://support.google.com/websearch/answer/12412910?hl=en ; https://support.google.com/websearch/answer/179386?hl=en&co=GENIE.Platform%3DDesktop ; https://www.google.com/search/howsearchworks/how-search-works/ranking-results/
+
+### What is a marketing audit, and is it worth paying for?
+
+A marketing audit is a review of everything a business does to win and handle customers: the website, Google profile, reviews, social pages, ads, email and how inquiries are answered. A worthwhile one hands the owner a plain list of what exists, what works, what is missing and what to do first, with a reason for each. It is usually worth paying for when you could act on it without hiring the person who wrote it.
+
+Full answer: https://ascentvision.org/answers/what-is-a-marketing-audit/
+Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### Is it safe to put customer information into ChatGPT or another AI tool?
+
+Usually not without care. What you type into an AI chat tool usually goes to the company that runs it, and its terms and settings decide how it is kept and used. The U.S. Small Business Administration advises trying not to feed AI tools sensitive data. As a default, leave out payment, health and account details, and names or contact details unless the task needs them. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/
+Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### What can a small business safely use AI for in its marketing?
+
+AI is usually safe for drafts, ideas, summaries and tidying your own words, as long as a person checks the result before customers see it. It is risky for facts, prices, claims, review replies and anything holding customer details. Handing it the owner's own conversations with customers is usually not worth it yet. The U.S. Small Business Administration advises starting small and having a person assess every message and outreach campaign that AI generates.
+
+Full answer: https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/
+Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
 
 ## Questions and answers
 
