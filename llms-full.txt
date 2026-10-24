@@ -17,7 +17,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 
 ## Company
 
-- [Ascent Vision: Search Visibility and Lead Systems](https://ascentvision.org/): Ascent Vision gets service businesses found on Google and in AI answers, turns those visits into leads, and tracks every lead back to where it came from.
+- [Ascent Vision: Small Business Marketing, SEO, GEO and Lead Generation](https://ascentvision.org/): Ascent Vision gets service businesses found on Google and in AI answers, turns those visits into leads, and tracks every lead back to where it came from.
 - [About Ascent Vision and Its Founders](https://ascentvision.org/about/): Ascent Vision LLC is a Florida marketing company founded in October 2026 by Clayton Camera and Grayson Sorrentino.
 - [Answers: SEO, GEO, Leads and Websites | Ascent Vision](https://ascentvision.org/answers/): Plain answers to the questions business owners ask about SEO, GEO and AI answers, lead tracking and websites. Each one stands on its own.
 - [FAQ: SEO, GEO and Working With Us | Ascent Vision](https://ascentvision.org/faq/): Straight answers on what Ascent Vision does, how GEO differs from SEO, how results are tracked and who owns the work.
@@ -27,10 +27,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 
 ## Services
 
-- [Services: Websites, SEO, GEO and Leads | Ascent Vision](https://ascentvision.org/services/): Websites, Google and AI-answer visibility, and lead generation, each built around one action and measured by where every lead came from.
-- [GEO Services: Get Recommended in AI Answers | Ascent Vision](https://ascentvision.org/services/geo/): Generative engine optimization from Ascent Vision: work to make your business one ChatGPT, Perplexity and Google's AI answers name when customers ask who to call.
-- [Lead Systems: Lead Tracking and Attribution | Ascent Vision](https://ascentvision.org/services/lead-systems/): Ascent Vision builds lead systems that get every inquiry to you within minutes, tag it with where it came from and work it to a yes or no.
-- [SEO Services for Service Businesses | Ascent Vision](https://ascentvision.org/services/seo/): Ascent Vision's SEO service gets service businesses found on Google for what they sell and where they sell it, with every lead tagged by its source.
+- [Marketing Services: SEO, GEO, Lead Generation and Websites | Ascent Vision](https://ascentvision.org/services/): Websites, Google and AI-answer visibility, and lead generation, each built around one action and measured by where every lead came from.
+- [GEO and AI Search Optimization Services | Ascent Vision](https://ascentvision.org/services/geo/): GEO, also called AI search optimization, from Ascent Vision: work to make your business one that ChatGPT, Perplexity and Google's AI answers name when customers ask who to call.
+- [Lead Generation and Lead Tracking for Small Businesses | Ascent Vision](https://ascentvision.org/services/lead-systems/): Ascent Vision's lead generation for small service businesses: visits become inquiries, every inquiry reaches you within minutes with its source and is worked to a yes or no.
+- [SEO Services for Small Service Businesses | Ascent Vision](https://ascentvision.org/services/seo/): Ascent Vision's SEO service gets small service businesses found on Google for what they sell and where they sell it, with every lead tagged by its source.
 - [Website Upgrades and New Builds | Ascent Vision](https://ascentvision.org/services/websites/): Ascent Vision upgrades the website you have so it is fast, clear and asks for one action, and builds a new one only when the old one cannot be saved.
 
 ## Answers
@@ -225,7 +225,7 @@ Source page: https://ascentvision.org/services/seo/
 
 ### GEO: recommended in AI answers
 
-Ascent Vision's GEO (generative engine optimization) service works to make a service business the one AI assistants such as ChatGPT, Perplexity and Google's AI answers mention and recommend when a customer asks who to hire. It runs alongside SEO, and leads that arrive from an AI assistant such as ChatGPT or Perplexity are tagged as their own source.
+Ascent Vision's GEO (generative engine optimization) service works to make a service business the one AI assistants such as ChatGPT, Perplexity and Google's AI answers mention and recommend when a customer asks who to hire. GEO is also called AI search optimization, answer engine optimization (AEO) or AI SEO; the aim is the same. It runs alongside SEO, and leads that arrive from an AI assistant such as ChatGPT or Perplexity are tagged as their own source.
 
 - Built to be named in AI answers for the questions your customers ask, not just listed in search
 - Your business described accurately: what you do, where, and for whom
@@ -234,9 +234,9 @@ Ascent Vision's GEO (generative engine optimization) service works to make a ser
 
 Source page: https://ascentvision.org/services/geo/
 
-### Lead systems and lead tracking
+### Lead generation and lead tracking
 
-Ascent Vision's lead systems route every inquiry to the business within minutes, record where it came from (search, an AI answer, social, a referral, an ad, email, a campaign link or direct) and track it to an outcome. The owner sees which channels bring in customers, not just clicks.
+Ascent Vision's lead generation service for small service businesses has two halves. The first gets the business found, on Google and in AI answers, by the people already looking for what it sells. The second is the lead system: every inquiry is routed to the business within minutes, recorded with where it came from (search, an AI answer, social, a referral, an ad, email, a campaign link or direct) and tracked to an outcome. The owner sees which channels bring in customers, not just clicks.
 
 - Inquiries that reach your phone within minutes
 - Every lead tagged with where it came from
@@ -1410,7 +1410,7 @@ Sources: https://www.govinfo.gov/content/pkg/FR-2025-01-06/html/2024-31765.htm ;
 
 ### What does Ascent Vision do?
 
-Ascent Vision is a Florida marketing company. It makes service businesses visible on Google and in AI answers, builds the lead systems that turn those visits into inquiries, and upgrades or builds the website they run on. Every lead is tracked back to where it came from.
+Ascent Vision is a Florida marketing company for small service businesses and independent professionals. It makes them visible on Google and in AI answers (SEO and GEO), generates and tracks leads through lead systems that turn those visits into inquiries, and upgrades or builds the website they run on. Every lead is tracked back to where it came from.
 
 ### Is Ascent Vision the same company as Ascent Vision Technologies or CACI Ascent Vision?
 
