@@ -43,14 +43,17 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can a Small Business Compete With Big Companies? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
+- [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
 - [Can You Use AI Images on Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/): Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.
 - [Can You Use Photos Found Online? | Ascent Vision](https://ascentvision.org/answers/can-you-use-photos-from-the-internet-on-your-website/): Copyright basics for owners: why a photo found online is usually not free to use, what an image license covers, and what to do about a demand letter.
 - [Check What ChatGPT Says About Your Business | Ascent Vision](https://ascentvision.org/answers/check-what-ai-says-about-your-business/): A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.
+- [Cost per Click, Impressions and Reach | Ascent Vision](https://ascentvision.org/answers/cost-per-click-impressions-and-reach-explained/): What Google and Meta mean by cost per click, pay per click, impressions, clicks and reach, and why cost per inquiry and per job won matter more.
 - [Do Accessibility Overlays Ensure Compliance? | Ascent Vision](https://ascentvision.org/answers/do-accessibility-widgets-make-a-website-compliant/): The FTC alleged a plug-in seller's compliance claims were false or unsupported. What the case said, what a widget may miss, and what to do instead.
 - [Do AI Assistants Get Facts Wrong? | Ascent Vision](https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/): A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.
+- [Do Door Hangers and Direct Mail Still Work? | Ascent Vision](https://ascentvision.org/answers/do-door-hangers-flyers-and-direct-mail-work/): When printed mail and door hangers can suit a service business, what the Postal Service's Every Door Direct Mail offers, and how to judge each drop.
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
@@ -98,6 +101,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Report a Fake Business on Google Maps | Ascent Vision](https://ascentvision.org/answers/how-to-report-a-fake-business-on-google-maps/): Google lets you report a business listing that does not exist, and has a separate form for fraud. Your options, and the evidence that helps.
 - [How to Set Up a Simple Lead Tracker | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/): A simple lead tracker is one shared sheet with eight columns and one rule: every inquiry goes in the same day. What to record and how to review it.
 - [How to Spot a Fake Domain Renewal Notice | Ascent Vision](https://ascentvision.org/answers/how-to-spot-a-fake-domain-renewal-notice/): How to tell a fake domain or website renewal notice from a real one, check it with your own registrar, and report it to the FTC or your Attorney General.
+- [How to Spot a Fake Invoice or Payment Email | Ascent Vision](https://ascentvision.org/answers/how-to-spot-a-fake-invoice-or-payment-change-email/): Business email compromise in plain terms: signs of a fake invoice or new bank details, the call-back check, and what the FBI's IC3 says to do if you paid.
 - [How to Spot an SEO Scam | Ascent Vision](https://ascentvision.org/answers/how-to-spot-an-seo-scam/): Unsolicited SEO emails, calls about your Google listing and promises of a page-one spot are the warning signs, in Google's and the FTC's own words.
 - [How to Spot Spam and Scam Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/): Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.
 - [How to Switch Marketing Agencies Safely | Ascent Vision](https://ascentvision.org/answers/how-to-switch-marketing-agencies/): How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.
@@ -128,6 +132,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
 - [Boost a Facebook Post or Run an Ad? | Ascent Vision](https://ascentvision.org/answers/should-you-boost-a-facebook-post/): Meta says a boosted post is an ad made from a post you already published. When boosting suits a service business, when a full ad does, and how to judge it.
+- [Build Your Own Website or Pay Someone? | Ascent Vision](https://ascentvision.org/answers/should-you-build-your-own-website-or-pay-someone/): When a website you build yourself on a builder is enough, the parts owners often miss, where the hours go, and when paying someone to build it makes sense.
 - [Should You Buy an Email List? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-an-email-list/): Why buying an email list is usually a poor idea: what Google's sender guidelines and the FTC's CAN-SPAM guide say, and better ways to build a list.
 - [Should You Buy Leads From Angi or Thumbtack? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/): Lead sites can bring work, but leads are often shared. How to judge Angi or Thumbtack by jobs won, ask for credits and keep the customer as your own.
 - [Should You Call or Email a New Lead First? | Ascent Vision](https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/): Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.
@@ -148,6 +153,8 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Are Google Local Services Ads? | Ascent Vision](https://ascentvision.org/answers/what-are-google-local-services-ads/): Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.
+- [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
+- [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
 - [What Is a Google Partner Agency? | Ascent Vision](https://ascentvision.org/answers/what-does-google-partner-mean/): A Google Partner badge reflects Google Ads skills and activity. What it takes to earn it, and what it does not tell you about free rankings or AI answers.
 - [What Does Website Maintenance Involve? | Ascent Vision](https://ascentvision.org/answers/what-does-website-maintenance-involve/): The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.
@@ -161,7 +168,9 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Google Business Profile? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-business-profile/): A Google Business Profile is the free listing that shows a business on Google Search and Maps: what it is, who it suits, and what the owner controls.
 - [What Is a Landing Page? | Ascent Vision](https://ascentvision.org/answers/what-is-a-landing-page/): A landing page is a single page built for one campaign, ad or flyer, with one offer and one next step. When it helps, and when the homepage is enough.
+- [What Does a Lead Generation Company Do? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-generation-company/): What lead generation companies sell, exclusive versus shared leads, who keeps the customer, and how to judge a pay-per-lead deal by the jobs it wins.
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
+- [What Is a Marketing Funnel? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-funnel/): A marketing funnel is the path from first hearing of a business to getting in touch. What its stages mean for a local service business, and what to fix.
 - [What Is a Marketing Retainer? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-retainer/): A marketing retainer is a monthly fee for agreed ongoing work. A fair one spells out scope, measures, reporting, term, notice and who owns what.
 - [What Is a Sales Pipeline? | Ascent Vision](https://ascentvision.org/answers/what-is-a-sales-pipeline/): A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.
 - [What Is a Tagged Campaign Link? | Ascent Vision](https://ascentvision.org/answers/what-is-a-tagged-campaign-link/): A tagged campaign link is an ordinary web address with short labels added, so your analytics can show which email, ad or QR code sent each visit.
@@ -208,6 +217,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
+- [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
 
 ## Services
@@ -1405,6 +1415,73 @@ Not on their own, and no tool can promise it. In a January 2025 notice of a prop
 
 Full answer: https://ascentvision.org/answers/do-accessibility-widgets-make-a-website-compliant/
 Sources: https://www.govinfo.gov/content/pkg/FR-2025-01-06/html/2024-31765.htm ; https://www.ada.gov/resources/web-guidance/
+
+### What does a lead generation company do, and should you pay per lead?
+
+A lead generation company finds people who want a service and passes their details, or their calls, to businesses that provide it, usually for a fee per lead. Paying per lead can work when the leads fit your work, are not sold to several competitors at once, and turn into jobs. Before you sign, ask who else gets each lead, what counts as a billable lead, and whether the customer ends up dealing with you or with the seller.
+
+Full answer: https://ascentvision.org/answers/what-is-a-lead-generation-company/
+
+### Should you build your own website or pay someone to build it?
+
+Building it yourself on a website builder can be enough when you offer a handful of services, can write plainly about them and have the hours to spare. Paying someone usually makes sense when your time earns more on paid work, the site has to do more than describe you, or a first attempt has stalled. Either way, the site should be clear on a phone, get every inquiry to a person, and sit on a domain your business owns.
+
+Full answer: https://ascentvision.org/answers/should-you-build-your-own-website-or-pay-someone/
+
+### Can you move a website built on Wix or Squarespace to another company?
+
+Usually not as a working site. Wix says a Wix site must run on Wix's servers, and Squarespace exports only some content, in a file made for WordPress. What can move is the domain, which both let you transfer to another provider, your contact list, which both let you export, and copies of your own words and photos, which you can save yourself. Treat a switch as a rebuild somewhere else, and keep the old site live until the new one works.
+
+Full answer: https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/
+Sources: https://support.wix.com/en/article/exporting-or-embedding-your-wix-site-elsewhere ; https://support.wix.com/en/article/transferring-your-wix-domain-away-from-wix-2477749 ; https://support.wix.com/en/article/wix-contacts-exporting-your-contacts ; https://support.squarespace.com/hc/en-us/articles/206566687-Export-your-site-content ; https://support.squarespace.com/hc/en-us/articles/205814028-Import-to-and-export-from-your-site ; https://support.squarespace.com/hc/en-us/articles/205812338-Transferring-a-domain-away-from-Squarespace
+
+### What are retargeting ads, and are they worth it for a service business?
+
+Retargeting, also called remarketing, shows your ads to people who have already interacted with your business, such as by visiting your website, while they browse or search elsewhere. Google now calls these lists "your data" segments, and Meta builds them as custom audiences. For a service business it tends to suit jobs people compare for days, less so emergencies. Judge it by the inquiries it brings, not by how often the ads are seen.
+
+Full answer: https://ascentvision.org/answers/what-are-retargeting-ads/
+Sources: https://support.google.com/google-ads/answer/2453998 ; https://support.google.com/adspolicy/answer/143465 ; https://support.google.com/google-ads/answer/2549063 ; https://www.facebook.com/business/help/744354708981227 ; https://www.facebook.com/business/help/1055828013359808
+
+### What is a marketing funnel, and does a small service business need one?
+
+A marketing funnel is a way of picturing the steps people take before they contact a business: they notice it, they weigh it up, and some of them get in touch. A local service business often has a short funnel, sometimes a single search and a call, so it rarely needs an elaborate one. What it does need is to know where people drop out between noticing and contacting, and to fix that step first.
+
+Full answer: https://ascentvision.org/answers/what-is-a-marketing-funnel/
+
+### What do 'organic', 'paid' and 'referral' traffic mean in your website analytics?
+
+In Google Analytics, organic means visits from unpaid links, such as ordinary search results or links on social sites, paid means visits from ads, and referral means visits from links on other websites or apps. These are labels Google's rules give to visits, not to customers. Line them up with your own lead channels with care: a referral visit is a click from another site, while a referral lead is often a person who recommended you.
+
+Full answer: https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/
+Sources: https://support.google.com/analytics/answer/9756891
+
+### Why was your Google Ads or Facebook ad account suspended, and how do you appeal?
+
+Google's reasons for suspending an ad account include breaking its policies or terms, billing problems such as an unpaid balance, a chargeback or suspicious payments, and protecting against unauthorized access. Meta says it restricts accounts that break its policies, appear hacked, miss its two-factor requirements or show unusual payment activity. Both offer an appeal or a review. Fix the cause first, then appeal once, with honest detail.
+
+Full answer: https://ascentvision.org/answers/why-was-your-ad-account-suspended/
+Sources: https://support.google.com/google-ads/answer/9841640 ; https://www.facebook.com/business/help/975570072950669 ; https://www.facebook.com/business/help/422289316306981
+
+### What do cost per click, impressions and reach mean in an ad report?
+
+Cost per click is what you are charged when someone clicks your ad; Google says this way of paying is sometimes called pay-per-click. An impression is one showing of your ad, and reach, in Meta's reports, is the number of accounts that saw it at least once. A click counts a tap on the ad, not a visit or a customer. These numbers describe attention. What tells an owner whether ads pay is the cost per inquiry and per job won.
+
+Full answer: https://ascentvision.org/answers/cost-per-click-impressions-and-reach-explained/
+Sources: https://support.google.com/google-ads/answer/116495 ; https://support.google.com/google-ads/answer/14074 ; https://support.google.com/google-ads/answer/6320 ; https://support.google.com/google-ads/answer/31799 ; https://support.google.com/google-ads/answer/2615875 ; https://www.facebook.com/business/help/710746785663278 ; https://www.facebook.com/business/help/675615482516035
+
+### Do door hangers, flyers and direct mail still work for a service business?
+
+They can, when the work is tied to a place: a tight service area, a job neighbors can see, or a seasonal service most homes need. Print reaches homes whether or not anyone is searching, so it tends to build familiarity more than it catches urgent needs. Give each drop its own phone number, short web address or code, ask every new customer how they heard of you, and judge it by jobs won, not by pieces sent.
+
+Full answer: https://ascentvision.org/answers/do-door-hangers-flyers-and-direct-mail-work/
+Sources: https://www.usps.com/business/every-door-direct-mail.htm
+
+### How do you spot a fake invoice or a payment-change email?
+
+Be wary of any email that asks you to pay a new account, change bank details or rush a payment, even when it seems to come from a supplier or customer you know. The FBI's Internet Crime Complaint Center calls this business email compromise. Check every payment change by calling a number you already have, not one in the email. If money has already gone, contact your bank at once and file a complaint at ic3.gov.
+
+Full answer: https://ascentvision.org/answers/how-to-spot-a-fake-invoice-or-payment-change-email/
+Sources: https://www.ic3.gov/CrimeInfo/BEC ; https://www.ic3.gov/PSA/2024/PSA240911
 
 ## Questions and answers
 
