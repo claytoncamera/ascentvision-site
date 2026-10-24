@@ -7,12 +7,28 @@
   <language>en-us</language>
   <atom:link href="https://ascentvision.org/answers/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Why is my website slow, and does it matter?</title>
+    <link>https://ascentvision.org/answers/why-is-your-website-slow/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/why-is-your-website-slow/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.</description>
+  </item>
+  <item>
     <title>Why do my business calls show up as 'Spam Likely' on customers' phones?</title>
     <link>https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/</guid>
     <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.</description>
+  </item>
+  <item>
+    <title>Why are my business emails going to spam?</title>
+    <link>https://ascentvision.org/answers/why-are-your-business-emails-going-to-spam/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/why-are-your-business-emails-going-to-spam/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Business email often goes to spam when it cannot be verified or is unwanted. What Gmail and Yahoo ask of senders, what to ask your provider and how to test.</description>
   </item>
   <item>
     <title>Who should own your Google Ads and Facebook ad accounts?</title>
@@ -23,6 +39,22 @@
     <description>Your Google Ads and Facebook ad accounts, with their history and billing, should be in your business's name. Why, and what to collect if an agency leaves.</description>
   </item>
   <item>
+    <title>What can you do if someone copies your website's words or photos?</title>
+    <link>https://ascentvision.org/answers/what-to-do-if-someone-copies-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-do-if-someone-copies-your-website/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>If someone copies your website's words or photos: save proof, ask first, then a DMCA takedown notice and Google's legal removal request.</description>
+  </item>
+  <item>
+    <title>What should your business voicemail greeting say?</title>
+    <link>https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A short script for a business voicemail greeting: your name, when you call back, a faster way to reach you and what to leave. Then keep the promise.</description>
+  </item>
+  <item>
     <title>What does 'direct' traffic mean in your website analytics?</title>
     <link>https://ascentvision.org/answers/what-is-direct-traffic/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-is-direct-traffic/</guid>
@@ -31,12 +63,52 @@
     <description>In Google Analytics, direct traffic means visits by a saved link or a typed address. What else can land there, and why lead records tell you more.</description>
   </item>
   <item>
+    <title>What is a tagged campaign link, and how do you use one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-tagged-campaign-link/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-tagged-campaign-link/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A tagged campaign link is an ordinary web address with short labels added, so your analytics can show which email, ad or QR code sent each visit.</description>
+  </item>
+  <item>
+    <title>What is a bounce rate, and should a service business worry about it?</title>
+    <link>https://ascentvision.org/answers/what-is-a-bounce-rate/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-bounce-rate/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Bounce rate is the share of Google Analytics visits that were not engaged. Why a one-page visit that ends in a call is fine, and why inquiries matter more.</description>
+  </item>
+  <item>
     <title>What happens if your business domain name expires?</title>
     <link>https://ascentvision.org/answers/what-happens-if-your-domain-expires/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-happens-if-your-domain-expires/</guid>
     <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>ICANN's policy makes registrars send reminders and sets renewal rules after expiry. What stops working, how long you have and the risk of losing the name.</description>
+  </item>
+  <item>
+    <title>Should you turn on domain privacy for your business domain?</title>
+    <link>https://ascentvision.org/answers/should-you-turn-on-domain-privacy/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-turn-on-domain-privacy/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Domain privacy hides your contact details from the public record. The catch is who is listed as owner. Privacy vs proxy, and how to stay the registrant.</description>
+  </item>
+  <item>
+    <title>Should you send an automatic text when you miss a call?</title>
+    <link>https://ascentvision.org/answers/should-you-text-back-missed-calls-automatically/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-text-back-missed-calls-automatically/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>When an automatic text after a missed call can help, what it should say, why it needs the person's consent, and why every missed call is a lead.</description>
+  </item>
+  <item>
+    <title>Should a small business buy an email list?</title>
+    <link>https://ascentvision.org/answers/should-you-buy-an-email-list/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-you-buy-an-email-list/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Why buying an email list is usually a poor idea: what Google's sender guidelines and the FTC's CAN-SPAM guide say, and better ways to build a list.</description>
   </item>
   <item>
     <title>What should you ask before hiring a web designer?</title>
@@ -77,6 +149,14 @@
     <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>A domain is the address, hosting is the space and the website is what visitors see. Who should hold each, and how to find out who hosts your site.</description>
+  </item>
+  <item>
+    <title>Can you use AI-generated images on your business website?</title>
+    <link>https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.</description>
   </item>
   <item>
     <title>Are you paying for fake or accidental clicks on your Google Ads?</title>
