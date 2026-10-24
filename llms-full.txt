@@ -42,9 +42,11 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Are Paid Directory Listings Worth It? | Ascent Vision](https://ascentvision.org/answers/are-paid-directory-listings-worth-it/): How to judge a paid directory listing by the inquiries and jobs it sends, when the free version is enough, and the red flags to check before you sign.
 - [Are You Paying for Fake Google Ads Clicks? | Ascent Vision](https://ascentvision.org/answers/are-you-paying-for-fake-ad-clicks/): Google says it filters invalid clicks out of your bill and may credit some found later. What counts, how to ask for a review, and why calls are the check.
 - [Brand Awareness or Leads: Which Comes First? | Ascent Vision](https://ascentvision.org/answers/brand-awareness-or-leads/): What brand awareness and lead generation mean for a small service business, why most start with traceable leads, and how to tell if awareness pays off.
+- [Can a Business Stop Bad Reviews? | Ascent Vision](https://ascentvision.org/answers/can-a-business-stop-bad-reviews/): The FTC says contract terms that bar or punish honest reviews are illegal. What a business may still remove, what the law skips and what to do instead.
 - [Can a Small Business Compete With Big Companies? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
+- [Can Customers Book You From Google? | Ascent Vision](https://ascentvision.org/answers/can-customers-book-you-from-google/): Google lets many businesses take bookings from their Business Profile, through a booking link or a provider. Who it suits and what to check first.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
 - [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
@@ -70,6 +72,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do You Need Consent to Record Calls? | Ascent Vision](https://ascentvision.org/answers/do-you-need-consent-to-record-customer-calls/): Federal law lets one person on a call consent to recording, but Florida, and possibly other states, require everyone to agree. A plain line to ask with.
 - [Does Your Business Need Website Analytics? | Ascent Vision](https://ascentvision.org/answers/do-you-need-website-analytics/): Website analytics shows visits, pages and where visitors came from. What it can and cannot tell a small business, and how to keep it simple and private.
 - [Does Your Website Need a Privacy Policy? | Ascent Vision](https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/): If your website form collects names, emails or phone numbers, a privacy policy is often expected. What California's Attorney General and the FTC say.
+- [Does Domain Authority Matter? | Ascent Vision](https://ascentvision.org/answers/does-domain-authority-matter/): Domain authority is a score made by an SEO tool company, not by Google. What the number means, what it does not, and how to judge an agency instead.
 - [Does a Small Business Website Need HTTPS? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-https/): HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
 - [Domain, Hosting and Website: The Difference | Ascent Vision](https://ascentvision.org/answers/domain-hosting-and-website-difference/): A domain is the address, hosting is the space and the website is what visitors see. Who should hold each, and how to find out who hosts your site.
@@ -79,6 +82,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Give Someone Access to Your Google Profile | Ascent Vision](https://ascentvision.org/answers/give-someone-access-to-your-google-business-profile/): Add staff or an agency as a manager on your Google Business Profile, keep primary ownership yourself, and remove access cleanly when someone leaves.
 - [Google Ads or Facebook Ads: Which Is Better? | Ascent Vision](https://ascentvision.org/answers/google-ads-or-facebook-ads/): Google search ads can reach people looking for your service now; Facebook ads usually reach people scrolling. Which jobs suit each, and how to judge both.
 - [Wrong Hours or Closed on Google? | Ascent Vision](https://ascentvision.org/answers/google-changed-your-hours-or-says-you-are-closed/): Why Google can change your hours or mark you closed, how to review and reject suggested edits, how to fix your hours, and how to reopen a closed profile.
+- [Google or Yelp Reviews: Which Matter More? | Ascent Vision](https://ascentvision.org/answers/google-reviews-or-yelp-reviews/): Google lets you ask customers for reviews; Yelp says never ask. The two sites side by side, and where a service business should send its customers.
 - [Google Workspace or Microsoft 365? | Ascent Vision](https://ascentvision.org/answers/google-workspace-or-microsoft-365-for-business-email/): What Google Workspace and Microsoft 365 business plans include, how a small business usually chooses between them, and how to keep the account in its name.
 - [Options for 'How Did You Hear About Us?' | Ascent Vision](https://ascentvision.org/answers/how-did-you-hear-about-us-options/): A ready list of answer options for 'How did you hear about us?', each mapped to a lead channel, with advice on the write-in box and where to ask.
 - [How Customers Compare Businesses Online | Ascent Vision](https://ascentvision.org/answers/how-do-customers-compare-businesses-online/): Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.
@@ -151,6 +155,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [More Leads Than You Can Handle? | Ascent Vision](https://ascentvision.org/answers/more-leads-than-you-can-handle/): What to do when inquiries outrun your capacity: honest wait times, a short waitlist, best-fit jobs first, paid channels paused first, and referring out.
 - [What to Ask Before Hiring a Web Designer | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-a-web-designer/): What to ask a web designer before you hire: who owns the domain, design and logins, who writes the words, phone speed, inquiries and what follows launch.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
+- [Remove Your Home Address or Phone on Google | Ascent Vision](https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/): Google's Results about you tool can drop your home address or phone from search results. What it removes, what it will not, and what to fix at the source.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
 - [Boost a Facebook Post or Run an Ad? | Ascent Vision](https://ascentvision.org/answers/should-you-boost-a-facebook-post/): Meta says a boosted post is an ad made from a post you already published. When boosting suits a service business, when a full ad does, and how to judge it.
@@ -166,6 +171,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Text Back Missed Calls? | Ascent Vision](https://ascentvision.org/answers/should-you-text-back-missed-calls-automatically/): When an automatic text after a missed call can help, what it should say, why it needs the person's consent, and why every missed call is a lead.
 - [Should You Turn On Domain Privacy? | Ascent Vision](https://ascentvision.org/answers/should-you-turn-on-domain-privacy/): Domain privacy hides your contact details from the public record. The catch is who is listed as owner. Privacy vs proxy, and how to stay the registrant.
 - [Should a Small Business Use a Website Chatbot? | Ascent Vision](https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/): When a chatbot helps a small service business website, when it gets in the way, and what to check before adding one.
+- [Should You Use AI to Reply to Reviews? | Ascent Vision](https://ascentvision.org/answers/should-you-use-ai-to-reply-to-reviews/): AI can draft a review reply, but a person should check the facts, keep customer details out and post it. What Google offers, and why copied replies hurt.
 - [Should Customers Be Able to Book Online? | Ascent Vision](https://ascentvision.org/answers/should-you-use-an-online-booking-tool/): Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.
 - [Should You Use Video on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-use-video-on-your-website/): When video helps a service business website, what it can cost in page weight and slow loading, and why videos with speech need captions.
 - [Should Business Email Use Your Own Domain? | Ascent Vision](https://ascentvision.org/answers/should-your-business-email-use-your-own-domain/): Why a service business usually does better with email at its own domain than a free address: customer trust, control when staff leave, mail that stays put.
@@ -192,7 +198,9 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a CRM, and Do You Need One? | Ascent Vision](https://ascentvision.org/answers/what-is-a-crm/): A CRM is one shared record of every customer and inquiry. When a spreadsheet is enough, signs you have outgrown it, and what to look for in one.
 - [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Google Business Profile? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-business-profile/): A Google Business Profile is the free listing that shows a business on Google Search and Maps: what it is, who it suits, and what the owner controls.
+- [What Is a Google Local Guide? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-local-guide/): Local Guides earn points for Google Maps reviews and photos, and a badge at Level 4. What the badge means, and why it changes nothing about your reply.
 - [What Is a Landing Page? | Ascent Vision](https://ascentvision.org/answers/what-is-a-landing-page/): A landing page is a single page built for one campaign, ad or flyer, with one offer and one next step. When it helps, and when the homepage is enough.
+- [What Is a Large Language Model (LLM)? | Ascent Vision](https://ascentvision.org/answers/what-is-a-large-language-model/): A large language model is software trained on huge amounts of text to predict likely next words. Why that makes AI answers sound sure, vary and slip up.
 - [What Does a Lead Generation Company Do? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-generation-company/): What lead generation companies sell, exclusive versus shared leads, who keeps the customer, and how to judge a pay-per-lead deal by the jobs it wins.
 - [What Is a Lead System? | Ascent Vision](https://ascentvision.org/answers/what-is-a-lead-system/): What a lead system is, the six parts every small business needs, the signs yours is leaking customers, and how simple it can be.
 - [What Is a Marketing Funnel? | Ascent Vision](https://ascentvision.org/answers/what-is-a-marketing-funnel/): A marketing funnel is the path from first hearing of a business to getting in touch. What its stages mean for a local service business, and what to fix.
@@ -244,6 +252,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Are My Google Reviews Missing? | Ascent Vision](https://ascentvision.org/answers/why-are-google-reviews-missing/): The reasons Google gives for missing or delayed reviews, what an owner can check, and why asking customers to re-post all at once can backfire.
 - [Why Are My Leads Not Turning Into Customers? | Ascent Vision](https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/): When leads do not become customers, one stage usually leaks. How to read your own lead list to find it, from wrong-fit sources to quotes that stall.
 - [Why Business Emails Go to Spam | Ascent Vision](https://ascentvision.org/answers/why-are-your-business-emails-going-to-spam/): Business email often goes to spam when it cannot be verified or is unwanted. What Gmail and Yahoo ask of senders, what to ask your provider and how to test.
+- [Why Can't You Reply to a Google Review? | Ascent Vision](https://ascentvision.org/answers/why-cant-you-reply-to-a-google-review/): No Reply button, or a reply that never appears? Google's own reasons: an unverified profile, the wrong account, a reply under review or a removed review.
 - [Why Competitors Show Up on Google, Not You | Ascent Vision](https://ascentvision.org/answers/why-competitors-show-up-on-google-instead-of-you/): A twenty-minute side-by-side check of your Google results against a competitor's, what you can change this quarter, and what no outsider can see.
 - [Why Business Calls Show as Spam Likely | Ascent Vision](https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/): Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
@@ -256,6 +265,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
+- [Will a New Website or Domain Hurt Rankings? | Ascent Vision](https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/): A rebuild or a new domain can cause a dip on Google for a while. What owners can expect, what to keep, and what to insist the builder takes care of.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
 
 ## Services
@@ -1781,6 +1791,76 @@ Not by name. Website analytics shows counts and patterns: how many visits, which
 
 Full answer: https://ascentvision.org/answers/can-you-see-who-visits-your-website/
 Sources: https://support.google.com/analytics/answer/6366371
+
+### What is domain authority, and should you pay an agency to raise it?
+
+Domain Authority is a score from the SEO tool company Moz, not from Google. Moz describes it as a 1 to 100 score that compares how likely websites are to rank, and says it is not a Google ranking factor. Google says third-party SEO tools do not have access to its internal ranking data. A higher score is not a business result: judge an agency by the inquiries and customers that arrive from search.
+
+Full answer: https://ascentvision.org/answers/does-domain-authority-matter/
+Sources: https://moz.com/learn/seo/domain-authority ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo ; https://developers.google.com/search/docs/fundamentals/ai-optimization-guide ; https://developers.google.com/search/docs/fundamentals/third-party-seo ; https://www.google.com/search/howsearchworks/how-search-works/ranking-results/
+
+### Can customers book an appointment with you straight from Google?
+
+Often, yes. Google's Business Profile help describes two ways: add your own booking link, which sends customers to a page where they can book, or take bookings through a provider that works with Reserve with Google. Google says a business must be verified before it can add a link, not every business is eligible, and a provider might charge you. Whichever you use, record each booking as a lead with its source.
+
+Full answer: https://ascentvision.org/answers/can-customers-book-you-from-google/
+Sources: https://support.google.com/business/answer/6218037 ; https://support.google.com/business/answer/7475773 ; https://support.google.com/business/answer/13769188 ; https://www.google.com/maps/reserve/
+
+### Should you use AI to write your replies to reviews?
+
+AI can help with a first draft, but a person who knows the job should edit and post every reply. AI was not there, can state wrong details with confidence and can repeat itself, and Google's own reply tips advise against sending everyone the same thank-you. Google now offers drafting itself: its help page says Gemini can draft review replies once an eligible owner connects the Business Profile.
+
+Full answer: https://ascentvision.org/answers/should-you-use-ai-to-reply-to-reviews/
+Sources: https://support.google.com/business/answer/3474122 ; https://support.google.com/business/answer/3474050 ; https://support.google.com/business/answer/17142585
+
+### Can a business stop customers from posting bad reviews?
+
+Not with a standard contract term. The FTC's business guidance says the Consumer Review Fairness Act makes it illegal for a company to use a standard contract term that bars or restricts honest reviews, charges a penalty or fee for one, or makes reviewers give up intellectual property rights in their reviews. A business can still remove some content it hosts, report reviews that break a site's rules and reply. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-a-business-stop-bad-reviews/
+Sources: https://www.ftc.gov/business-guidance/resources/consumer-review-fairness-act-what-businesses-need-know ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers ; https://support.google.com/business/answer/3474122
+
+### Will a new website or a new domain name hurt how you show up on Google?
+
+It can, for a while, and much of the risk is avoidable. Google says that changing the addresses of existing pages can cause ranking fluctuations, and that a medium-sized site can take a few weeks for Google to notice the change. A new domain changes every address at once. Keep the domain if you can, keep the pages that bring visitors, make sure every old address leads to its new page, and compare inquiries before and after.
+
+Full answer: https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/
+Sources: https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops ; https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+
+### Which matter more for a service business: Google reviews or Yelp reviews?
+
+For most service businesses, Google usually deserves the review request, because Google lets you ask customers for reviews and shows them next to your Business Profile in Maps and Search. Yelp says businesses should not ask anyone for reviews, and its star rating counts only the reviews its software recommends. So ask every customer for a Google review, keep your Yelp page claimed and answered, and let Yelp reviews arrive on their own.
+
+Full answer: https://ascentvision.org/answers/google-reviews-or-yelp-reviews/
+Sources: https://support.google.com/business/answer/3474122 ; https://support.google.com/business/answer/16816815 ; https://support.google.com/business/answer/4801187 ; https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US ; https://trust.yelp.com/recommendation-software/ ; https://blog.yelp.com/businesses/how-to-get-yelp-reviews-without-asking/ ; https://www.brightlocal.com/research/local-consumer-review-survey/
+
+### Why can't you reply to a Google review?
+
+Usually the profile or the account is the reason, not the review. Google says you must verify the business before you can reply, and you need to be signed in to a Google Account that owns or manages the profile. A reply that does not appear may still be in Google's check, which usually takes up to 10 minutes and sometimes up to 30 days. A review Google removed for breaking its policies is not restored.
+
+Full answer: https://ascentvision.org/answers/why-cant-you-reply-to-a-google-review/
+Sources: https://support.google.com/business/answer/3474050 ; https://support.google.com/business/answer/7107242 ; https://support.google.com/business/answer/3403100 ; https://support.google.com/business/answer/10313341 ; https://support.google.com/business/answer/10286840 ; https://support.google.com/business/answer/14114287
+
+### Can you get your home address or personal phone number out of Google results?
+
+Often, yes. Google's "Results about you" tool finds search results that show your home address, phone number or email and lets you ask Google to remove them. It removes the result from Google Search, not the page, so the details stay on the website itself. Google says it offers no removal for some sites it treats as valuable to the public, such as government sites, newspapers and business websites, or for details you control yourself.
+
+Full answer: https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/
+Sources: https://support.google.com/websearch/answer/12719076 ; https://support.google.com/websearch/answer/9673730 ; https://support.google.com/business/answer/2853879
+
+### What is a Google Local Guide, and do their reviews count for more?
+
+A Local Guide is a member of Google's Local Guides program, a community of individuals who contribute reviews, photos, edits and facts to Google Maps; each contribution earns points, and from Level 4, at 250 points, Google shows a Local Guide badge. Google says the badge helps contributions get noticed, while its review score is the average of all ratings published on Google. Treat a guide's review like any other, and never offer a guide anything: Google says "Soliciting Local Guides is strictly prohibited".
+
+Full answer: https://ascentvision.org/answers/what-is-a-google-local-guide/
+Sources: https://support.google.com/maps/answer/6225846 ; https://support.google.com/maps/answer/6225851 ; https://support.google.com/maps/answer/10287202 ; https://support.google.com/maps/answer/7358351 ; https://support.google.com/business/answer/4801187 ; https://support.google.com/contributionpolicy/answer/7400114
+
+### What is a large language model (LLM), in plain terms?
+
+A large language model, or LLM, is software trained on a huge amount of text to predict which words are likely to come next, which lets it write, summarize and answer questions in plain language. LLMs are the basis of chatbots such as ChatGPT, Claude and Gemini. Because an LLM predicts likely wording rather than looking facts up, it can sound certain and still be wrong, and the same question can get a different answer each time.
+
+Full answer: https://ascentvision.org/answers/what-is-a-large-language-model/
+Sources: https://cloud.google.com/ai/llms ; https://en.wikipedia.org/wiki/Large_language_model ; https://gemini.google/overview/ ; https://developers.google.com/machine-learning/crash-course/llm/transformers
 
 ## Questions and answers
 
