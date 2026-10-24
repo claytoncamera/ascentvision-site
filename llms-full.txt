@@ -49,9 +49,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
+- [Can You Remove or Turn Off Facebook Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/): A Facebook Page can switch recommendations off, which removes its rating and reviews. How the setting works, how to report one and how to ask for more.
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
+- [Can You Turn Off Google Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-turn-off-google-reviews/): Google's help pages show no owner switch to turn reviews off, and removing the profile leaves them up. What Google says, and what to do instead.
 - [Can You Use AI Images on Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/): Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.
 - [Can You Use Photos Found Online? | Ascent Vision](https://ascentvision.org/answers/can-you-use-photos-from-the-internet-on-your-website/): Copyright basics for owners: why a photo found online is usually not free to use, what an image license covers, and what to do about a demand letter.
+- [Change Your Name or Address on Google | Ascent Vision](https://ascentvision.org/answers/change-your-business-name-or-address-on-google/): Moving or renaming? Google says to edit the profile you have, not start a new one. When reviews move with you, and when a rename counts as a new business.
 - [Check What ChatGPT Says About Your Business | Ascent Vision](https://ascentvision.org/answers/check-what-ai-says-about-your-business/): A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.
 - [Cost per Click, Impressions and Reach | Ascent Vision](https://ascentvision.org/answers/cost-per-click-impressions-and-reach-explained/): What Google and Meta mean by cost per click, pay per click, impressions, clicks and reach, and why cost per inquiry and per job won matter more.
 - [Do Accessibility Overlays Ensure Compliance? | Ascent Vision](https://ascentvision.org/answers/do-accessibility-widgets-make-a-website-compliant/): The FTC alleged a plug-in seller's compliance claims were false or unsupported. What the case said, what a widget may miss, and what to do instead.
@@ -71,6 +74,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Follow Up With a Lead That Goes Quiet | Ascent Vision](https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/): A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.
 - [Freelancer or Agency for SEO? | Ascent Vision](https://ascentvision.org/answers/freelancer-or-agency-for-seo/): A fair comparison of freelancers and agencies for SEO and marketing: cost structure, cover, skills, who you talk to, continuity and what to ask.
 - [GEO vs SEO: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/geo-vs-seo/): SEO aims for a ranked link; GEO aims for a recommendation inside an AI answer. How they differ, where they overlap and why most businesses need both.
+- [Give Someone Access to Your Google Profile | Ascent Vision](https://ascentvision.org/answers/give-someone-access-to-your-google-business-profile/): Add staff or an agency as a manager on your Google Business Profile, keep primary ownership yourself, and remove access cleanly when someone leaves.
 - [Google Ads or Facebook Ads: Which Is Better? | Ascent Vision](https://ascentvision.org/answers/google-ads-or-facebook-ads/): Google search ads can reach people looking for your service now; Facebook ads usually reach people scrolling. Which jobs suit each, and how to judge both.
 - [Wrong Hours or Closed on Google? | Ascent Vision](https://ascentvision.org/answers/google-changed-your-hours-or-says-you-are-closed/): Why Google can change your hours or mark you closed, how to review and reject suggested edits, how to fix your hours, and how to reopen a closed profile.
 - [Options for 'How Did You Hear About Us?' | Ascent Vision](https://ascentvision.org/answers/how-did-you-hear-about-us-options/): A ready list of answer options for 'How did you hear about us?', each mapped to a lead channel, with advice on the write-in box and where to ask.
@@ -115,6 +119,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Switch Marketing Agencies Safely | Ascent Vision](https://ascentvision.org/answers/how-to-switch-marketing-agencies/): How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.
 - [Did a Customer Find You Through ChatGPT? | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-customer-found-you-through-chatgpt/): Customers who find you through ChatGPT often look like direct visits or ordinary searches. Why that happens and the one question to ask every inquiry.
 - [How to Tell If a Website Change Worked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/): Note the date of each change, compare inquiries over the same weeks before and after, change one thing at a time, allow for seasons, and count customers.
+- [How to Tell if Your SEO Agency Is Working | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-your-seo-agency-is-working/): You do not need to know SEO to check it: a dated list of changes, logins in your name and search inquiries by quarter show whether an agency is working.
 - [How to Tell If Your Website Was Hacked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-your-website-was-hacked/): The signs owners actually notice when a business website has been hacked, and the first steps to take, drawing on federal guidance, before you delete anything.
 - [Tracking Leads From Flyers, Signs and Wraps | Ascent Vision](https://ascentvision.org/answers/how-to-track-leads-from-flyers-signs-and-vehicles/): Give every flyer, yard sign and truck wrap its own way back to you, ask every caller how they found you, and judge each item by the jobs it wins.
 - [Tracking Leads From Social Media Messages | Ascent Vision](https://ascentvision.org/answers/how-to-track-leads-from-social-media-messages/): Leads in Facebook, Instagram and WhatsApp messages are easy to lose. How to get them into one lead list, reply on time and keep history when staff leave.
@@ -123,6 +128,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Win Back Past Customers | Ascent Vision](https://ascentvision.org/answers/how-to-win-back-past-customers/): How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.
 - [How to Write a Quote That Wins the Job | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/): A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.
 - [Is a Website Template Good Enough? | Ascent Vision](https://ascentvision.org/answers/is-a-website-template-good-enough/): When a website template is enough for a small service business, when custom design can be worth it, and the few things that matter more than either one.
+- [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
 - [Is It Too Late to Start SEO? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Search is more crowded and AI answers have changed it, but customers still look before they hire. Where a late starter can still win, and how to begin.
@@ -167,6 +173,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
+- [What Does a Marketing Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-marketing-agency-do/): The common kinds of marketing agency, what each one should hand a small business owner, and how to choose by the problem you actually have.
 - [What Is a Google Partner Agency? | Ascent Vision](https://ascentvision.org/answers/what-does-google-partner-mean/): A Google Partner badge reflects Google Ads skills and activity. What it takes to earn it, and what it does not tell you about free rankings or AI answers.
 - [What Does Website Maintenance Involve? | Ascent Vision](https://ascentvision.org/answers/what-does-website-maintenance-involve/): The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.
 - [What Happens If You Stop Paying for SEO? | Ascent Vision](https://ascentvision.org/answers/what-happens-if-you-stop-seo/): What stays and what slips when a small business stops its SEO work, why ownership decides how much you keep, and how to stop without losing ground.
@@ -206,10 +213,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Put on Your About Page | Ascent Vision](https://ascentvision.org/answers/what-should-be-on-an-about-page/): A small business About page should show who is behind the work, real photos, where and how you work, what you will not do and how to get in touch.
 - [What Should a Website Review Include? | Ascent Vision](https://ascentvision.org/answers/what-should-you-get-from-a-website-review/): A useful website review is a plain, ranked list of what to keep, fix or replace, with reasons. What it should check and the red flags to watch for.
 - [What to Ask Customers After the Job | Ascent Vision](https://ascentvision.org/answers/what-to-ask-customers-after-the-job/): After the job, ask how it went, how they found you, whether they will share a review and who else might need you. Ask everyone, and record the answers.
+- [What to Do About Review Extortion | Ascent Vision](https://ascentvision.org/answers/what-to-do-about-review-extortion/): A sudden wave of bad reviews, then a demand for money to remove them. Why not to pay, what evidence to keep, and where Google and the FTC take reports.
 - [What If Someone Copies Your Website? | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-someone-copies-your-website/): If someone copies your website's words or photos: save proof, ask first, then a DMCA takedown notice and Google's legal removal request.
 - [What to Do With a Lead You Cannot Serve | Ascent Vision](https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/): Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.
 - [What to Have in Place Before Starting SEO | Ascent Vision](https://ascentvision.org/answers/what-to-have-before-starting-seo/): Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.
 - [What to Look For in Website Hosting | Ascent Vision](https://ascentvision.org/answers/what-to-look-for-in-website-hosting/): Good hosting is in your name, keeps backups you can restore, has support you can reach and clear renewal terms. What to check before you sign up or switch.
+- [What to Tell a New Marketing Agency | Ascent Vision](https://ascentvision.org/answers/what-to-tell-a-marketing-agency-before-it-starts/): A one-page brief for a new marketing agency: what you sell and where, what a customer is worth, where inquiries come from and who approves the work.
 - [When a Customer Repeats a Wrong AI Answer | Ascent Vision](https://ascentvision.org/answers/when-a-customer-repeats-something-wrong-an-ai-told-them/): A customer quotes a price, service or policy an AI assistant got wrong. How to correct it calmly, confirm it in writing and fix what your own site says.
 - [When a Lead Asks for the Price First | Ascent Vision](https://ascentvision.org/answers/when-a-lead-asks-for-the-price-first/): Answer price questions honestly: a range and what drives it, or the two questions you need first. Never dodge it, and never invent a discount to close.
 - [Where Does ChatGPT Get Its Information? | Ascent Vision](https://ascentvision.org/answers/where-does-chatgpt-get-its-information/): ChatGPT draws on what its models learned in training, live web searches and, in one beta, partner business records. What each means for an owner.
@@ -231,6 +240,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why ChatGPT Answers Differ by Person | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/): Memory, location and live web search can all change what ChatGPT says, so one check from your own account proves little. What OpenAI says, and what to do.
 - [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
+- [Why Does Yelp Hide Some Reviews? | Ascent Vision](https://ascentvision.org/answers/why-does-yelp-hide-some-reviews/): Yelp's automated software picks which reviews it recommends. Why some are hidden, where they go, and why Yelp, unlike Google, says not to ask for reviews.
 - [Why Isn't My Business Showing Up on Google? | Ascent Vision](https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/): The usual reasons a business does not appear on Google, in the order an owner can check them, plus what to fix this month and what not to pay for.
 - [Why Is My Business Not on Google Maps? | Ascent Vision](https://ascentvision.org/answers/why-is-your-business-not-showing-on-google-maps/): When a business is missing from Google Maps: an unverified, suspended or duplicate profile, a hidden address, a new profile, and what to check first.
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
@@ -1625,6 +1635,75 @@ Partly. An AI tool can help an owner draft pages, list the questions customers a
 
 Full answer: https://ascentvision.org/answers/can-ai-do-your-seo/
 Sources: https://developers.google.com/search/blog/2023/02/google-search-and-ai-content ; https://developers.google.com/search/docs/essentials/spam-policies ; https://developers.google.com/search/docs/fundamentals/creating-helpful-content ; https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+### How do you change your business name or address on Google without losing your reviews?
+
+For a move or a minor rename, edit the profile you already have rather than starting a new one. Google says a business that moves and keeps its name has its reviews transferred automatically, though for some categories, such as hotels, they might not move, and that a minor name change keeps them too. For a bigger rename, Google says to mark the old profile closed and create a new one. Google reviews changes before they go live, and a business that moves after it is verified must verify again.
+
+Full answer: https://ascentvision.org/answers/change-your-business-name-or-address-on-google/
+Sources: https://support.google.com/business/answer/3039617 ; https://support.google.com/business/answer/2853879 ; https://support.google.com/business/answer/3098204 ; https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/15300571
+
+### How do you give an employee or agency access to your Google Business Profile without giving up ownership?
+
+Invite them from People and access in your profile's settings, using their own Google Account, and choose Manager rather than Owner. Google says managers have mostly the same access as owners, such as editing info, replying to reviews and posting, but cannot add or remove users or remove the profile. Keep primary ownership yourself, and when someone leaves, remove them from the same screen.
+
+Full answer: https://ascentvision.org/answers/give-someone-access-to-your-google-business-profile/
+Sources: https://support.google.com/business/answer/3403100 ; https://support.google.com/business/answer/3415281 ; https://support.google.com/business/answer/13763036
+
+### What should you do if someone threatens to post bad reviews unless you pay?
+
+Do not pay, and do not negotiate. Google says these scams may involve a sudden rise in 1-star and 2-star reviews, followed by a demand for money, goods or services to remove them, and that paying can encourage further attempts. Screenshot every message with its date and sender, link each suspect review, and report it on Google's merchant extortion form. The FTC asks businesses to report scams at ReportFraud.ftc.gov. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/what-to-do-about-review-extortion/
+Sources: https://support.google.com/business/answer/16404809 ; https://www.ftc.gov/business-guidance/resources/scams-your-small-business-guide-business ; https://www.yelp.com/guidelines
+
+### Is BBB accreditation worth it for a small business?
+
+It can be, if your customers check the Better Business Bureau before they hire, but judge it by the inquiries it brings, not the seal. Accreditation is a paid status: the business affirms it meets the BBB's standards, such as honest advertising and answering complaints the BBB forwards, and needs at least a B rating. The rating is separate: the BBB grades businesses from A+ to F, and says customer reviews are not used in that grade.
+
+Full answer: https://ascentvision.org/answers/is-bbb-accreditation-worth-it/
+Sources: https://www.bbb.org/business/accreditation/standards ; https://www.bbb.org/about/overview-of-ratings ; https://www.bbb.org/get-listed
+
+### Why does Yelp hide some of my reviews, and can I ask customers to review me there?
+
+Yelp's automated recommendation software decides which reviews to recommend. Reviews it does not recommend, such as ones from less active users, from people with ties to the business, or ones it thinks the business asked for, sit behind a link at the bottom of the page and do not count toward the star rating or review count. No Yelp employee can override it, and unlike Google, Yelp says businesses should never ask customers to write reviews.
+
+Full answer: https://ascentvision.org/answers/why-does-yelp-hide-some-reviews/
+Sources: https://www.yelp-support.com/article/Why-would-a-review-not-be-recommended?l=en_US ; https://trust.yelp.com/recommendation-software/ ; https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US ; https://www.yelp.com/guidelines ; https://support.google.com/business/answer/3474122
+
+### What does a marketing agency actually do for a small business?
+
+A marketing agency does outside work meant to bring a business more customers: its website, being found on Google and in AI answers, ads, social media, the handling of new inquiries, or several of these at once. What matters to an owner is what it hands over: a plan in plain words, a dated record of the work, accounts kept in the business's name, and a monthly count of inquiries by source. Choose the kind by the problem you have.
+
+Full answer: https://ascentvision.org/answers/what-does-a-marketing-agency-do/
+
+### How can you tell whether your SEO agency is actually doing anything?
+
+Check what you can see without knowing the technique. A working SEO agency can give you a dated list of what it changed and published, which you can confirm through logins held in your own name. Over quarters, more inquiries should arrive from search, each tagged with its source and followed to won, lost or still open. If a month shows nothing, ask what was done, what changed and what comes next, and expect a plain answer.
+
+Full answer: https://ascentvision.org/answers/how-to-tell-if-your-seo-agency-is-working/
+Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### Can you turn off Google reviews for your business?
+
+Not as an owner. Google's help page on managing reviews, as of October 2026, covers reading, replying to and reporting reviews, with no setting to turn them off. Google itself may temporarily disable reviews for certain profiles or business categories. Removing the profile does not clear them either: Google says reviews remain, while the owners' replies are permanently removed. What works instead is replying calmly, reporting reviews that break Google's policies and asking every customer for one.
+
+Full answer: https://ascentvision.org/answers/can-you-turn-off-google-reviews/
+Sources: https://support.google.com/business/answer/3474050 ; https://support.google.com/business/answer/10313341 ; https://support.google.com/business/answer/14114287 ; https://support.google.com/business/answer/4669092 ; https://support.google.com/business/answer/3098204 ; https://support.google.com/business/answer/4596773 ; https://support.google.com/contributionpolicy/answer/7400114
+
+### Can you remove or turn off reviews on your Facebook business page?
+
+Yes, a Facebook Page can switch them off as a whole. Meta's help page says turning Recommendations off "will disable Recommendations and remove the rating and reviews from your Page". The setting sits in the Page's Settings, under Page and tagging. To get a single recommendation taken down, Meta's route is to report it for breaking its Community Standards. On Facebook, a review is a recommendation: the customer picks Yes or No and writes a recommendation.
+
+Full answer: https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/
+Sources: https://www.facebook.com/help/548274415377576 ; https://www.facebook.com/help/664755856965602 ; https://www.facebook.com/help/500762053364226 ; https://www.facebook.com/help/439579999521224
+
+### What should you tell a marketing agency before it starts?
+
+Before any work starts, give the agency a one-page brief: what you sell and to whom, the areas you serve, what a typical customer is worth to you, what has worked and what has not, where inquiries come from today, what you will and will not do yourself, and who approves work. A clear brief can save weeks of guessing, and it gives both sides something to judge the work against later.
+
+Full answer: https://ascentvision.org/answers/what-to-tell-a-marketing-agency-before-it-starts/
+Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo
 
 ## Questions and answers
 
