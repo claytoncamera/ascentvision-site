@@ -89,8 +89,11 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Count Google Business Profile Leads | Ascent Vision](https://ascentvision.org/answers/how-to-count-leads-from-your-google-business-profile/): What Google's profile performance numbers show and leave out, and how to count profile calls and messages as real leads, each with a source and an outcome.
 - [How to Cut No-Shows for Estimates | Ascent Vision](https://ascentvision.org/answers/how-to-cut-no-shows/): Confirmations, reminders, easy rescheduling and a stated policy can often cut no-shows for estimates and appointments. Record each one by its source, too.
 - [How to Describe Your Services Online | Ascent Vision](https://ascentvision.org/answers/how-to-describe-your-services-on-your-website/): Describe each service in your customers' words: what is included, who it is for, how it works and what happens next, with real examples of past jobs.
+- [How to Get ChatGPT to Recommend You | Ascent Vision](https://ascentvision.org/answers/how-to-get-chatgpt-to-recommend-your-business/): No one can make ChatGPT name your business. What an owner controls: a plain description, the exact services, mentions elsewhere and current facts.
 - [How to Get Found for a New Service | Ascent Vision](https://ascentvision.org/answers/how-to-get-found-for-a-new-service/): Say the new service plainly on your site, tell the customers you already have, ask for the first reviews of it, and give it a few months to be noticed.
 - [How to Get Leads Without Paying for Ads | Ascent Vision](https://ascentvision.org/answers/how-to-get-leads-without-ads/): The channels that bring a small business inquiries without ad spend, from search and AI answers to referrals, reviews and partners, and how to tell which works.
+- [How to Get Mentioned in Google AI Overviews | Ascent Vision](https://ascentvision.org/answers/how-to-get-mentioned-in-google-ai-overviews/): Google says AI Overviews ask nothing beyond its regular search guidance. What that means for a service business, and what an owner can check today.
+- [How to Get More Leads for a Service Business | Ascent Vision](https://ascentvision.org/answers/how-to-get-more-leads-for-a-service-business/): Two levers bring more leads: more inquiries, and losing fewer of the ones you get. The eight lead channels compared, and where to start in your situation.
 - [How to Get More Reviews the Right Way | Ascent Vision](https://ascentvision.org/answers/how-to-get-more-reviews-the-right-way/): How a small business can ask every customer for a review, what the FTC rule and Google's policy forbid, and how to reply to good and bad reviews.
 - [How to Get Referrals From Other Businesses | Ascent Vision](https://ascentvision.org/answers/how-to-get-referrals-from-other-businesses/): Partner with businesses that serve the same customers, make referring you easy, send work back, and record each referral with the partner's name.
 - [Getting Your Website Back From a Designer | Ascent Vision](https://ascentvision.org/answers/how-to-get-your-website-back-from-a-designer/): What to do when a web designer disappears with your logins: domain recovery through the registrar, hosting and platform account recovery, or a rebuild.
@@ -151,6 +154,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should Your Site Show License and Insurance? | Ascent Vision](https://ascentvision.org/answers/should-your-website-show-your-license-and-insurance/): How customers check a license with the state, what Florida's law says about license numbers in contractor ads, and how to mention insurance honestly.
 - [Should Your Website Use Pop-Ups? | Ascent Vision](https://ascentvision.org/answers/should-your-website-use-pop-ups/): What Nielsen Norman Group found about pop-ups, how they can get in the way of inquiries, and gentler ways to ask for an email address or feedback.
 - [Upgrade or Rebuild Your Website? How to Decide | Ascent Vision](https://ascentvision.org/answers/upgrade-or-rebuild-your-website/): When to fix the website you have and when to build a new one: the signs for each, what to keep either way, and the questions to settle first.
+- [Traffic but No Customers: Who Fixes It? | Ascent Vision](https://ascentvision.org/answers/website-gets-traffic-but-no-customers/): Find where your website loses people: visits that never ask, inquiries that go cold, or quotes that never close. A quick test for each, and who to hire.
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Are Google Local Services Ads? | Ascent Vision](https://ascentvision.org/answers/what-are-google-local-services-ads/): Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.
 - [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
@@ -183,6 +187,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is Meta AI? | Ascent Vision](https://ascentvision.org/answers/what-is-meta-ai/): Meta AI is the assistant inside WhatsApp, Instagram, Facebook and Messenger. What Meta says it does, whether it can recommend businesses, and who uses it.
 - [What Is Microsoft Copilot? | Ascent Vision](https://ascentvision.org/answers/what-is-microsoft-copilot/): Copilot is Microsoft’s AI assistant, built into apps like Word and Outlook and offered in a mobile app. What Microsoft says it is, and who uses it.
 - [What Is Perplexity? | Ascent Vision](https://ascentvision.org/answers/what-is-perplexity/): Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.
+- [What to Automate in Lead Generation | Ascent Vision](https://ascentvision.org/answers/what-parts-of-lead-generation-can-you-automate/): Automate the alert, the first reply, follow-up reminders, source tags and the monthly count. Keep quotes, fit calls and apologies in human hands.
 - [What Photos Should a Service Website Use? | Ascent Vision](https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/): Use real photos of your team and your work, with permission from anyone shown. Avoid stock presented as your own, and keep images light for fast phones.
 - [Business Voicemail Greeting: What to Say | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/): A short script for a business voicemail greeting: your name, when you call back, a faster way to reach you and what to leave. Then keep the promise.
 - [What Should a Contact Form Ask? | Ascent Vision](https://ascentvision.org/answers/what-should-a-contact-form-ask/): The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.
@@ -203,6 +208,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Where to Start With Small Business Marketing | Ascent Vision](https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/): Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.
 - [Which Social Media Should a Business Use? | Ascent Vision](https://ascentvision.org/answers/which-social-media-should-a-service-business-use/): Pick one or two platforms your customers use, using Pew's 2026 figures by age, and post on a rhythm you can keep. How to choose, and how to judge it.
 - [First Touch or Last Touch: Who Gets Credit? | Ascent Vision](https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/): First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.
+- [Who Can Help Improve Your Online Presence? | Ascent Vision](https://ascentvision.org/answers/who-can-help-improve-your-online-presence/): Web designer, SEO or GEO agency, lead handling, social media manager, or you: how to match the help to the problem, and what to insist on from anyone.
 - [Who Owns the Website a Designer Built? | Ascent Vision](https://ascentvision.org/answers/who-owns-a-website-a-designer-built/): Paying for a website does not automatically make you the copyright owner. What the U.S. Copyright Office says, and how a written contract settles it.
 - [Who Should Handle New Leads on a Small Team? | Ascent Vision](https://ascentvision.org/answers/who-should-handle-new-leads-on-a-small-team/): Simple rules for sharing new leads on a small team: one named owner for each lead, a backup for days off, and a short handoff note.
 - [Who Should Own Your Ad Accounts? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-ad-accounts/): Your Google Ads and Facebook ad accounts, with their history and billing, should be in your business's name. Why, and what to collect if an agency leaves.
@@ -210,11 +216,13 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Who Should Own Your Domain Name? | Ascent Vision](https://ascentvision.org/answers/who-should-own-your-domain-name/): Your business should own its domain name, in its own name and its own registrar account. What goes wrong otherwise, and how to check who holds yours today.
 - [Why Are My Leads Not Turning Into Customers? | Ascent Vision](https://ascentvision.org/answers/why-are-leads-not-turning-into-customers/): When leads do not become customers, one stage usually leaks. How to read your own lead list to find it, from wrong-fit sources to quotes that stall.
 - [Why Business Emails Go to Spam | Ascent Vision](https://ascentvision.org/answers/why-are-your-business-emails-going-to-spam/): Business email often goes to spam when it cannot be verified or is unwanted. What Gmail and Yahoo ask of senders, what to ask your provider and how to test.
+- [Why Competitors Show Up on Google, Not You | Ascent Vision](https://ascentvision.org/answers/why-competitors-show-up-on-google-instead-of-you/): A twenty-minute side-by-side check of your Google results against a competitor's, what you can change this quarter, and what no outsider can see.
 - [Why Business Calls Show as Spam Likely | Ascent Vision](https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/): Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
 - [Why ChatGPT Answers Differ by Person | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/): Memory, location and live web search can all change what ChatGPT says, so one check from your own account proves little. What OpenAI says, and what to do.
 - [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
+- [Why Isn't My Business Showing Up on Google? | Ascent Vision](https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/): The usual reasons a business does not appear on Google, in the order an owner can check them, plus what to fix this month and what not to pay for.
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
@@ -1482,6 +1490,61 @@ Be wary of any email that asks you to pay a new account, change bank details or 
 
 Full answer: https://ascentvision.org/answers/how-to-spot-a-fake-invoice-or-payment-change-email/
 Sources: https://www.ic3.gov/CrimeInfo/BEC ; https://www.ic3.gov/PSA/2024/PSA240911
+
+### Why isn't my business showing up on Google?
+
+Usually for a reason you can check. You may have searched your name, while customers search the service and the town. Your site may have no page that names that service and place in plain words. Your Google Business Profile may be missing, unverified or suspended. The site may lose the visitors it gets because it is slow or broken on a phone. Few people may search the words you expect. Or competitors may have more going for them. Check in that order, and beware anyone promising page one.
+
+Full answer: https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/
+Sources: https://developers.google.com/search/docs/fundamentals/how-search-works ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### Why are my competitors showing up on Google instead of me?
+
+Usually because Google judges their page a closer fit for what the customer typed, or the business behind it looks better established. Most of the visible differences take about twenty minutes to find: search the way customers do, then compare their page, reviews and profile with yours. Some gaps can close in a quarter; others, such as a long history of reviews, take longer. No outsider can see exactly how Google weighs any of it.
+
+Full answer: https://ascentvision.org/answers/why-competitors-show-up-on-google-instead-of-you/
+Sources: https://developers.google.com/search/docs/fundamentals/creating-helpful-content ; https://developers.google.com/search/docs/fundamentals/how-search-works ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### How do I get ChatGPT to recommend my business?
+
+You cannot make ChatGPT recommend you, and you should be wary of anyone who offers to sell you a place inside its written answer. What you control is what it can find: a website that says plainly what you do, where and for whom; the exact services customers ask for, named in their words; honest reviews and mentions on other sites; and facts about your business that are current. Then ask ChatGPT yourself each month and note what it says.
+
+Full answer: https://ascentvision.org/answers/how-to-get-chatgpt-to-recommend-your-business/
+Sources: https://www.brightlocal.com/research/local-consumer-review-survey/
+
+### How do I get my business mentioned in Google AI Overviews?
+
+By being a plain, complete answer to the questions your customers ask, on a page that can already show up in ordinary Google results. Google says "There are no additional requirements to appear in AI Overviews or AI Mode", so the route runs through its regular search advice. Search three customer questions today to see whether an Overview appears and who it names, and be wary of anyone who promises you a mention.
+
+Full answer: https://ascentvision.org/answers/how-to-get-mentioned-in-google-ai-overviews/
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### My website gets traffic but no customers. Who can fix that?
+
+It depends on where people drop out, so find that first. Look at three stages: visits that never become inquiries, inquiries that arrive but go cold, and inquiries that do not close. The first is the page and its ask, usually fixed by you or a web designer. The second is lead handling: slow replies, missed calls, after-hours gaps. The third is the offer, the price conversation and the fit, which usually rest with the owner.
+
+Full answer: https://ascentvision.org/answers/website-gets-traffic-but-no-customers/
+Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads
+
+### How can I generate more leads for my service business?
+
+Pull two levers: get more inquiries, and lose fewer of the ones you already get. Losing fewer usually comes first, since those people already asked: reply fast, follow up, cover after hours, and tag every inquiry with its source so you can repeat what works. For more inquiries, choose among eight channels (search, AI answer, social, referral, paid, email, campaign and direct) by what each takes from you and how soon it tends to pay.
+
+Full answer: https://ascentvision.org/answers/how-to-get-more-leads-for-a-service-business/
+
+### How can I automate my lead generation process?
+
+Automate the steps that are the same every time: an alert to your phone the minute an inquiry lands, a short first reply that says when you will call, a reminder to follow up, the source tag on every inquiry, and a monthly count by source and outcome. Keep the quote, the decision on fit, apologies and anything a customer may quote back in human hands. Send automatic texts or calls only with the person's consent.
+
+Full answer: https://ascentvision.org/answers/what-parts-of-lead-generation-can-you-automate/
+Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads
+
+### Who can help me improve my online presence and attract more clients?
+
+Match the help to the problem. A web designer or developer fixes the site; an SEO or GEO agency or consultant works on being found on Google and named in AI answers; someone who sets up lead handling fixes inquiries that are lost, slow or untracked; a social media manager helps only if customers come from social. Owners can often do much of it alone. Insist that every inquiry is tagged with its source and that you own your domain, content and data.
+
+Full answer: https://ascentvision.org/answers/who-can-help-improve-your-online-presence/
+Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo
 
 ## Questions and answers
 
