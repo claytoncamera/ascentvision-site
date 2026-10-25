@@ -57,15 +57,19 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can Customers Review You Without Gmail? | Ascent Vision](https://ascentvision.org/answers/can-customers-review-you-without-a-gmail-account/): A Google review needs a Google Account, not a Gmail address. What Google says customers need, what to tell one with no account, and what never to do.
 - [Can You Add Customers to Your Email List? | Ascent Vision](https://ascentvision.org/answers/can-you-add-customers-to-your-email-list/): What the federal email law asks, why permission is not on its list but mailbox providers expect it anyway, and a simple way to ask at booking.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
+- [Can You Ask a Customer to Change a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-ask-a-customer-to-change-a-bad-review/): Once a problem is fixed, can you ask the customer to update a bad review? Where the FTC and Google draw the line, and how a customer edits or deletes one.
 - [Can You Find Out Who Left a Google Review? | Ascent Vision](https://ascentvision.org/answers/can-you-find-out-who-left-a-google-review/): You see a reviewer's public name and contributions, not their account details. What Google shows, what it keeps private, and what to do about a stranger.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
 - [Can You Offer a Discount for a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-give-customers-a-discount-for-a-review/): Google bans discounts, gifts or payment for any review. What the FTC's review rule adds, why asking only happy customers is risky and what to do instead.
+- [Can Gemini Manage Your Google Profile? | Ascent Vision](https://ascentvision.org/answers/can-you-manage-your-google-business-profile-with-gemini/): Google's help page says Gemini can update hours, draft review replies and summarize feedback. Who can use it, and what to check before you rely on it.
 - [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
 - [Can You Put Customer Data Into ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/): Pasting customer details into an AI tool shares them with another company. What the SBA and the FTC say, what never to paste and a one-line staff rule.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Remove or Turn Off Facebook Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/): A Facebook Page can switch recommendations off, which removes its rating and reviews. How the setting works, how to report one and how to ask for more.
+- [Can You Remove Your Business From Yelp? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-your-business-from-yelp/): Yelp says it does not remove business pages on request. What an owner can do instead: correct details, mark a business closed, or hand off the page.
 - [Can You See Who Visits Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-see-who-visits-your-website/): What website analytics can and cannot show about visitors, why Google Analytics bars personal details, and how a visitor tells you who they are.
+- [Can You Sue Someone for a Bad Review? | Ascent Vision](https://ascentvision.org/answers/can-you-sue-someone-for-a-bad-review/): Whether a business can sue over a bad review depends on the facts, and only a lawyer can say. What the FTC's review guidance covers, and what to try first.
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
 - [Can You Turn Off Google Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-turn-off-google-reviews/): Google's help pages show no owner switch to turn reviews off, and removing the profile leaves them up. What Google says, and what to do instead.
 - [Can You Use AI Images on Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/): Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.
@@ -126,6 +130,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Set a Small Business Marketing Budget | Ascent Vision](https://ascentvision.org/answers/how-much-should-a-small-business-spend-on-marketing/): A way to set a marketing budget from your own numbers: what a customer is worth, the jobs you want, proven channels first, one fixed test at a time.
 - [How Much Owner Time Do SEO and GEO Take? | Ascent Vision](https://ascentvision.org/answers/how-much-time-does-seo-take-from-an-owner/): What an owner usually has to give to SEO and GEO work: answers, approvals, photos, review requests and a monthly read, plus how to keep it light.
 - [How Much Website Traffic Should You Get? | Ascent Vision](https://ascentvision.org/answers/how-much-website-traffic-should-a-small-business-get/): Why no single traffic number fits a service business, the comparisons that say more, and what Google Analytics' peer benchmarks can show.
+- [How to Add a Second Location on Google | Ascent Vision](https://ascentvision.org/answers/how-to-add-a-second-location-on-google/): When a second place earns its own Google Business Profile, what each location needs, and why a new profile usually starts fresh. Moves are different.
 - [How to Answer the Phone for a New Customer | Ascent Vision](https://ascentvision.org/answers/how-to-answer-the-phone-for-a-new-customer/): Open with your business name, capture the need, area and timing, ask how they found you, agree one next step, and text only with the person's consent.
 - [How to Choose a Domain Name | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-domain-name/): Pick a domain that is short, easy to say and spell, and close to your business name, then check for trademark conflicts before you register it.
 - [How to Choose a Website Platform | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-website-platform/): What matters when picking a website platform: ownership, ease of editing, speed on a phone, how hard it is to leave, and cost over time.
@@ -154,6 +159,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Reply to a New Inquiry | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/): A good first reply thanks the person, answers their question, offers one next step and says when. A short example, and the mistakes that cost jobs.
 - [How to Reply to a Positive Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-positive-google-review/): A short, personal reply to a good Google review: what to say, what Google says to leave out, why copied thank-yous fall flat and how to handle old reviews.
 - [How to Report a Fake Business on Google Maps | Ascent Vision](https://ascentvision.org/answers/how-to-report-a-fake-business-on-google-maps/): Google lets you report a business listing that does not exist, and has a separate form for fraud. Your options, and the evidence that helps.
+- [How to Respond to a BBB Complaint | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-bbb-complaint/): What the BBB does with a complaint, how long a business is given to answer, and a calm three-part reply, plus why leaving it unanswered usually costs more.
 - [How to Respond to a Customer Complaint | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-customer-complaint/): Answer fast, listen before fixing, make one clear offer, put it in writing and log the outcome: handling a complaint before it becomes a public review.
 - [How to Respond to a Negative Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-negative-google-review/): A calm reply structure for fair and unfair bad Google reviews, what Google says to leave out, old reviews, and where the FTC draws the line on replies.
 - [How to Set Up a Simple Lead Tracker | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/): A simple lead tracker is one shared sheet with eight columns and one rule: every inquiry goes in the same day. What to record and how to review it.
@@ -181,6 +187,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
+- [Is It Legal to Use AI to Call Customers? | Ascent Vision](https://ascentvision.org/answers/is-it-legal-to-use-ai-to-call-customers/): The FCC's 2024 ruling treats AI-generated voices as artificial under the TCPA, so calls need consent. What that means for an owner calling leads.
 - [Is SEO Dead, or Too Late to Start? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Is SEO dead now that AI answers reply first? Customers still look before they hire. Where a late starter can still win, and how to begin.
 - [Is a Chamber of Commerce Worth Joining? | Ascent Vision](https://ascentvision.org/answers/is-joining-a-chamber-of-commerce-worth-it/): A chamber can bring referrals if its members serve your customers. What chambers usually offer, what to ask before joining, and how to judge membership.
 - [Is Marketing Tax Deductible? | Ascent Vision](https://ascentvision.org/answers/is-marketing-tax-deductible/): What the IRS small-business tax guide says about deducting advertising, the costs owners often mix up, and the records to keep. A plain summary.
@@ -206,6 +213,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Remove Your Home Address or Phone on Google | Ascent Vision](https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/): Google's Results about you tool can drop your home address or phone from search results. What it removes, what it will not, and what to fix at the source.
 - [SEO vs SEM: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/seo-or-sem-whats-the-difference/): SEO is work on the unpaid results; SEM often means paid search ads, though sellers use it loosely. What you are buying under each label, and what to ask.
 - [SEO or Social Media for a Service Business? | Ascent Vision](https://ascentvision.org/answers/seo-or-social-media-for-a-service-business/): Search reaches people who need a job done now; social mostly reaches people who are not looking yet. Where a service business should put its time first.
+- [Should a Home Business Show Its Address? | Ascent Vision](https://ascentvision.org/answers/should-a-home-based-business-show-its-address-online/): Usually not. What Google says about hiding a home address, what a Facebook Page needs, and the FTC's postal-address option for commercial email.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
 - [Should Customers Be Able to Text You? | Ascent Vision](https://ascentvision.org/answers/should-customers-be-able-to-text-your-business/): Why a text line on the business number can catch more inquiries, how to set it up, who should answer, and what consent covers a reply.
@@ -276,6 +284,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Sales Pipeline? | Ascent Vision](https://ascentvision.org/answers/what-is-a-sales-pipeline/): A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.
 - [What Is a Tagged Campaign Link? | Ascent Vision](https://ascentvision.org/answers/what-is-a-tagged-campaign-link/): A tagged campaign link is an ordinary web address with short labels added, so your analytics can show which email, ad or QR code sent each visit.
 - [What Is a Unique Selling Proposition? | Ascent Vision](https://ascentvision.org/answers/what-is-a-unique-selling-proposition/): A plain definition of a unique selling proposition, how a service business finds one in its real jobs, the tests it should pass and where it belongs.
+- [What Is an AI Agent, and Should You Use One? | Ascent Vision](https://ascentvision.org/answers/what-is-an-ai-agent/): An AI agent is software that decides its own steps toward a goal. What that means for an owner, what to keep a person on, and what to ask a seller.
 - [What Is Ask Maps in Google Maps? | Ascent Vision](https://ascentvision.org/answers/what-is-ask-maps/): Ask Maps lets people ask Google Maps detailed questions about places. What Google says it draws on, where it works and what a business owner controls.
 - [What Is Claude? | Ascent Vision](https://ascentvision.org/answers/what-is-claude/): Claude is Anthropic’s AI assistant. What Anthropic says it is, whether it can search the web, and how many U.S. adults use it, according to Pew.
 - [What Is Direct Traffic in Analytics? | Ascent Vision](https://ascentvision.org/answers/what-is-direct-traffic/): In Google Analytics, direct traffic means visits by a saved link or a typed address. What else can land there, and why lead records tell you more.
@@ -2548,6 +2557,69 @@ There is no right number. A plumber serving one town and a national online shop 
 
 Full answer: https://ascentvision.org/answers/how-much-website-traffic-should-a-small-business-get/
 Sources: https://support.google.com/analytics/answer/16388466 ; https://support.google.com/analytics/answer/12253918
+
+### Can you ask a customer to change or remove a bad review after you fix the problem?
+
+Carefully, yes. Once the problem is fixed, a business can tell the customer and say the review is theirs to update. The FTC says its review rule does not prohibit simply asking satisfied customers to update reviews, but Google bans incentives for revising or removing a negative review, and the FTC says offering one could be unfair. Only the customer can edit or delete it. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-ask-a-customer-to-change-a-bad-review/
+Sources: https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers ; https://support.google.com/contributionpolicy/answer/7400114 ; https://support.google.com/maps/answer/6230175
+
+### How should a small business respond to a BBB complaint?
+
+Answer it. The BBB forwards a complaint to the business, asks for a response within 10-15 days and makes a second request if none arrives. Reply once and calmly: acknowledge the problem, explain what happened and offer a fix you can keep. The BBB says it is a nonprofit, not a government agency, and cannot force a business to act, but an unanswered complaint can affect the rating.
+
+Full answer: https://ascentvision.org/answers/how-to-respond-to-a-bbb-complaint/
+Sources: https://www.bbb.org/process-of-complaints-and-reviews/complaints ; https://www.bbb.org/faq ; https://www.bbb.org/article/business/27259-bbb-tips-answering-customer-complaints
+
+### Can a business sue a customer over a bad review?
+
+It depends on the facts and the state, and only a lawyer can say. The FTC's Consumer Review Fairness Act guide is the agency's position on contract clauses that gag reviewers; it does not decide whether a lawsuit over a review would succeed. A false statement of fact is usually treated differently from an opinion. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-sue-someone-for-a-bad-review/
+Sources: https://www.ftc.gov/business-guidance/resources/consumer-review-fairness-act-what-businesses-need-know ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers ; https://support.google.com/legal/troubleshooter/1114905
+
+### Can you remove your business from Yelp?
+
+Not on request, according to Yelp. Yelp says on its support pages that it does not remove business pages on request, because business information is typically a matter of public record and public concern. An owner can correct the details, report a closed business, or stop managing the page, but closing a business account does not remove the page from Yelp.
+
+Full answer: https://ascentvision.org/answers/can-you-remove-your-business-from-yelp/
+Sources: https://www.yelp-support.com/article/Can-I-remove-my-business-page-from-Yelp?l=en_US ; https://biz.yelp.com/support-center/Yelp_Business_Page/Updating_your_Page/How-to-close-your-Yelp-business-page/en-US ; https://www.yelp-support.com/article/How-do-I-close-my-account?l=en_US
+
+### How do you get a second location on Google when your business opens another one?
+
+A second place usually gets its own Google Business Profile when it is a real location the business operates from. Google says not to create more than one page for each location, to give each location a phone number or website for that individual location, and not to create a new profile because a business moved. A business that only travels to customers is allowed one service-area profile.
+
+Full answer: https://ascentvision.org/answers/how-to-add-a-second-location-on-google/
+Sources: https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/2911778 ; https://support.google.com/business/answer/7655842 ; https://support.google.com/business/answer/3098204
+
+### Should a home-based business show its home address on its website, Facebook page and listings?
+
+Usually not. Google's guidelines say a business that travels to customers should hide its address, and they do not accept remote mailboxes or virtual offices as a profile address. A home-based business can show the towns it serves and say it works by appointment. The FTC's position is that commercial email needs a valid postal address, which can be a registered mailbox. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/should-a-home-based-business-show-its-address-online/
+Sources: https://support.google.com/business/answer/3038177 ; https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business ; https://www.facebook.com/help/197254963682414
+
+### What is an AI agent, and should a small business use one?
+
+An AI agent is software built on a large language model that decides its own steps and uses tools to reach a goal, instead of following a fixed script. Vendors apply the word to many products, so ask what a tool actually does. A small business can try one on routine work, and should usually keep a person on anything said or promised to a customer in its name.
+
+Full answer: https://ascentvision.org/answers/what-is-an-ai-agent/
+Sources: https://www.anthropic.com/engineering/building-effective-agents ; https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes
+
+### Is it legal for a small business to use an AI voice to call customers or leads?
+
+Only with the person's consent. In a February 2024 ruling, the FCC's position is that AI technologies that generate human-sounding voices fall under the Telephone Consumer Protection Act's limits on artificial or prerecorded voices, so a caller needs the called person's prior express consent. Marketing calls need written consent. Other rules can apply too. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/is-it-legal-to-use-ai-to-call-customers/
+Sources: https://docs.fcc.gov/public/attachments/FCC-24-17A1.pdf ; https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule
+
+### Can you manage your Google Business Profile with Gemini, and should you?
+
+Yes, for some owners. Google's help page says that once a Business Profile is connected to the Gemini web app, Gemini can help update profile details, draft review replies, create posts, summarize review feedback and show performance metrics. It is limited to people who own or manage only one verified profile. Check anything it changes or posts before relying on it.
+
+Full answer: https://ascentvision.org/answers/can-you-manage-your-google-business-profile-with-gemini/
+Sources: https://support.google.com/business/answer/17142585
 
 ## Calculators
 
