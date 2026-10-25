@@ -43,6 +43,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Are AI Search Visibility Tools Worth It? | Ascent Vision](https://ascentvision.org/answers/are-ai-visibility-tracking-tools-worth-it/): What AI search visibility tools measure, why their numbers are a sample and not your customers' real chats, and when a monthly check by hand is enough.
 - [Are Business Award Emails Legit? | Ascent Vision](https://ascentvision.org/answers/are-business-award-emails-legit/): Many 'you have won' award emails are pay-to-claim vanity awards. How the scheme works, the BBB's checks, the FTC's scam advice and where to report one.
 - [Are Facebook Lead Ads Worth It? | Ascent Vision](https://ascentvision.org/answers/are-facebook-lead-ads-worth-it/): How Meta's lead ads and instant forms work, why a very easy form can bring weaker leads, and how to judge them by the jobs they win, not form fills.
+- [Are Google Review Cards and Stands Worth It? | Ascent Vision](https://ascentvision.org/answers/are-google-review-cards-and-tap-stands-worth-it/): A review card or tap stand only carries the review link Google already gives you. When one helps, what to check before buying, and the rules it follows.
 - [Is a Networking Group Like BNI Worth It? | Ascent Vision](https://ascentvision.org/answers/are-networking-groups-like-bni-worth-it/): When a weekly referral group can pay off for a service business, what BNI says membership involves, the time it costs, and how to judge it.
 - [Are Paid Directory Listings Worth It? | Ascent Vision](https://ascentvision.org/answers/are-paid-directory-listings-worth-it/): How to judge a paid directory listing by the inquiries and jobs it sends, when the free version is enough, and the red flags to check before you sign.
 - [Are You Paying for Fake Google Ads Clicks? | Ascent Vision](https://ascentvision.org/answers/are-you-paying-for-fake-ad-clicks/): Google says it filters invalid clicks out of your bill and may credit some found later. What counts, how to ask for a review, and why calls are the check.
@@ -184,6 +185,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Write a Quote That Wins the Job | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/): A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.
 - [Inbound vs Outbound Marketing: Which Fits? | Ascent Vision](https://ascentvision.org/answers/inbound-or-outbound-marketing-for-a-service-business/): Inbound marketing gets you found; outbound reaches out first. How that differs from traditional vs digital, the rules on calls and email, and which fits.
 - [Instagram Creator or Business Account? | Ascent Vision](https://ascentvision.org/answers/instagram-creator-or-business-account/): What Instagram says each professional account type is for, which one a service business usually wants, what changes when you switch, and who holds it.
+- [Is a Google Virtual Tour Worth It? | Ascent Vision](https://ascentvision.org/answers/is-a-google-virtual-tour-worth-it/): A Google virtual tour can suit a showroom, studio or venue that customers visit. It rarely suits work done at the customer's home. Photos come first.
 - [Is a Website Template Good Enough? | Ascent Vision](https://ascentvision.org/answers/is-a-website-template-good-enough/): When a website template is enough for a small service business, when custom design can be worth it, and the few things that matter more than either one.
 - [Is a Wix or Squarespace Site Bad for Google? | Ascent Vision](https://ascentvision.org/answers/is-a-wix-or-squarespace-site-bad-for-google/): Wix and Squarespace sites can show up on Google. What Google and both builders say, the limits owners hit, and why a rebuild pitched on fear is a red flag.
 - [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
@@ -237,6 +239,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Text Back Missed Calls? | Ascent Vision](https://ascentvision.org/answers/should-you-text-back-missed-calls-automatically/): When an automatic text after a missed call can help, what it should say, why it needs the person's consent, and why every missed call is a lead.
 - [Should You Turn On Domain Privacy? | Ascent Vision](https://ascentvision.org/answers/should-you-turn-on-domain-privacy/): Domain privacy hides your contact details from the public record. The catch is who is listed as owner. Privacy vs proxy, and how to stay the registrant.
 - [Should You Use a Chatbot on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/): When a chatbot helps a small service business website, when it gets in the way, and what to check before you add one to your site.
+- [Should You Use AI to Make Your Ads? | Ascent Vision](https://ascentvision.org/answers/should-you-use-ai-to-make-your-ads/): AI can draft ads and image variations a person checks, but never invent customers or results. What Google Ads, Meta and the FTC say about AI-made ads.
 - [Should You Use AI to Reply to Reviews? | Ascent Vision](https://ascentvision.org/answers/should-you-use-ai-to-reply-to-reviews/): AI can draft a review reply, but a person should check the facts, keep customer details out and post it. What Google offers, and why copied replies hurt.
 - [Should Customers Be Able to Book Online? | Ascent Vision](https://ascentvision.org/answers/should-you-use-an-online-booking-tool/): Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.
 - [Should You Use Video on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-use-video-on-your-website/): When video helps a service business website, what it can cost in page weight and slow loading, and why videos with speech need captions.
@@ -2692,6 +2695,27 @@ Usually, yes. A short, plain policy where people book or accept a quote prevents
 
 Full answer: https://ascentvision.org/answers/should-your-website-show-a-cancellation-or-refund-policy/
 Sources: https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help ; https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-429
+
+### Is a Google virtual tour or 360 photo shoot worth it for a small business?
+
+A Google virtual tour is usually worth considering only when customers come to your place and want to see inside first, such as a showroom, salon or venue. It rarely suits a business that works at the customer's home. Ordinary, current photos on your Business Profile come first, and any photographer's pitch should say who owns the images and where they will appear.
+
+Full answer: https://ascentvision.org/answers/is-a-google-virtual-tour-worth-it/
+Sources: https://www.google.com/streetview/business/ ; https://www.google.com/streetview/contribute/ ; https://support.google.com/business/answer/6123536?hl=en ; https://www.google.com/intl/en-US/help/maps/businessphotos/faq.html
+
+### Are Google review cards, tap stands and QR codes worth buying?
+
+A review card, tap stand or QR sign only carries the review link that Google already gives a Business Profile owner, so it is worth buying only if it makes asking easier for you. It should open your profile, be handed to every customer the same way and offer nothing in return. Google's policy bars incentives and asking only for positive reviews.
+
+Full answer: https://ascentvision.org/answers/are-google-review-cards-and-tap-stands-worth-it/
+Sources: https://support.google.com/business/answer/16816815 ; https://support.google.com/contributionpolicy/answer/7400114
+
+### Should a small business use AI to make its ads, videos or phone greeting?
+
+Yes for drafts and variations a person checks, with care for anything a customer could take as real. Google Ads and Meta both build AI image tools into their ad products, and AI-made ads can carry an AI label. Never use AI to invent customers, results or before-and-after pictures; the FTC's position is that AI has no exemption from existing laws. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/should-you-use-ai-to-make-your-ads/
+Sources: https://support.google.com/google-ads/answer/14150986?hl=en ; https://www.meta.com/help/artificial-intelligence/355108217670024/ ; https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
 
 ## Calculators
 
