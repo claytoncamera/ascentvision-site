@@ -157,6 +157,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Make Your Website Easy for Older Customers | Ascent Vision](https://ascentvision.org/answers/how-to-make-your-website-easy-for-older-customers/): What W3C's guidance on older web users points to: text that enlarges, strong contrast, clear links, time and simple forms, plus phone checks.
 - [Marketing a Mobile or Home-Based Business | Ascent Vision](https://ascentvision.org/answers/how-to-market-a-mobile-or-home-based-business/): Without a storefront, show where you go instead of where you are: a service-area profile on Google, a clear website, a recognizable vehicle and referrals.
 - [Duplicate Google Listings: Merge or Remove? | Ascent Vision](https://ascentvision.org/answers/how-to-merge-or-remove-duplicate-google-listings/): Two Google listings for one business? How to tell a true duplicate from an allowed second profile, and what Google says about merging or removing one.
+- [How to Name a Service Business | Ascent Vision](https://ascentvision.org/answers/how-to-name-a-service-business/): A good business name is easy to say and spell and leaves room to grow. The official checks to run first: state records, trademark search and web address.
 - [How to Tell Whether a New Lead Is a Good Fit | Ascent Vision](https://ascentvision.org/answers/how-to-qualify-a-lead/): A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.
 - [How to Reply to a New Inquiry | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-new-inquiry/): A good first reply thanks the person, answers their question, offers one next step and says when. A short example, and the mistakes that cost jobs.
 - [How to Reply to a Positive Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-reply-to-a-positive-google-review/): A short, personal reply to a good Google review: what to say, what Google says to leave out, why copied thank-yous fall flat and how to handle old reviews.
@@ -172,6 +173,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Spot Spam and Scam Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/): Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.
 - [How to Cut Spam Calls to Your Business Line | Ascent Vision](https://ascentvision.org/answers/how-to-stop-spam-calls-to-your-business/): Use phone spam filters and call screening without silencing new customers, and what the federal do-not-call rules do and do not cover for business lines.
 - [How to Switch Marketing Agencies Safely | Ascent Vision](https://ascentvision.org/answers/how-to-switch-marketing-agencies/): How to switch marketing agencies without losing ground: what to secure before giving notice, a handover checklist, timing, and what to ask the old agency.
+- [Telling Customers About a Price Increase | Ascent Vision](https://ascentvision.org/answers/how-to-tell-customers-about-a-price-increase/): Give notice before the change, tell regulars first, state the date and what stays the same, honor quotes already given, and answer pushback calmly.
 - [How to Tell Customers You Are Closed | Ascent Vision](https://ascentvision.org/answers/how-to-tell-customers-you-are-closed/): Put one closed message everywhere customers check: Google, the website, voicemail, email and social. Say when you reopen and who to call if it is urgent.
 - [Did a Customer Find You Through ChatGPT? | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-customer-found-you-through-chatgpt/): Customers who find you through ChatGPT often look like direct visits or ordinary searches. Why that happens and the one question to ask every inquiry.
 - [How to Tell If a Website Change Worked | Ascent Vision](https://ascentvision.org/answers/how-to-tell-if-a-website-change-worked/): Note the date of each change, compare inquiries over the same weeks before and after, change one thing at a time, allow for seasons, and count customers.
@@ -182,6 +184,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Track Leads That Come In by Phone | Ascent Vision](https://ascentvision.org/answers/how-to-track-phone-call-leads/): How a small business can record phone inquiries alongside form leads, find out where callers heard about you, and stop losing calls.
 - [How to Verify a Google Business Profile | Ascent Vision](https://ascentvision.org/answers/how-to-verify-a-google-business-profile/): What Google Business Profile verification is for, the methods Google offers, what a verification video must show, and what to do when it is not accepted.
 - [How to Win Back Past Customers | Ascent Vision](https://ascentvision.org/answers/how-to-win-back-past-customers/): How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.
+- [How to Write a Short Business Bio | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-business-bio/): Write one short business bio from four plain facts, then trim it for Instagram, Facebook and Google. What Google's rules allow, plus three examples.
 - [How to Write a Quote That Wins the Job | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/): A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.
 - [Inbound vs Outbound Marketing: Which Fits? | Ascent Vision](https://ascentvision.org/answers/inbound-or-outbound-marketing-for-a-service-business/): Inbound marketing gets you found; outbound reaches out first. How that differs from traditional vs digital, the rules on calls and email, and which fits.
 - [Instagram Creator or Business Account? | Ascent Vision](https://ascentvision.org/answers/instagram-creator-or-business-account/): What Instagram says each professional account type is for, which one a service business usually wants, what changes when you switch, and who holds it.
@@ -190,7 +193,9 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is a Wix or Squarespace Site Bad for Google? | Ascent Vision](https://ascentvision.org/answers/is-a-wix-or-squarespace-site-bad-for-google/): Wix and Squarespace sites can show up on Google. What Google and both builders say, the limits owners hit, and why a rebuild pitched on fear is a red flag.
 - [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
+- [Is Jobber or Housecall Pro Worth It? | Ascent Vision](https://ascentvision.org/answers/is-field-service-software-like-jobber-worth-it/): What field service software like Jobber and Housecall Pro says it does, the marketing parts, and what to check before you sign. No ranking or prices.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
+- [Is the GoDaddy Website Builder Good? | Ascent Vision](https://ascentvision.org/answers/is-godaddy-website-builder-good-for-a-service-business/): What GoDaddy says its builders do, how domain and site are kept apart, and what to check about ownership and leaving later. No prices or ranking.
 - [Is It Legal to Use AI to Call Customers? | Ascent Vision](https://ascentvision.org/answers/is-it-legal-to-use-ai-to-call-customers/): The FCC's 2024 ruling treats AI-generated voices as artificial under the TCPA, so calls need consent. What that means for an owner calling leads.
 - [Is SEO Dead, or Too Late to Start? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Is SEO dead now that AI answers reply first? Customers still look before they hire. Where a late starter can still win, and how to begin.
 - [Is a Chamber of Commerce Worth Joining? | Ascent Vision](https://ascentvision.org/answers/is-joining-a-chamber-of-commerce-worth-it/): A chamber can bring referrals if its members serve your customers. What chambers usually offer, what to ask before joining, and how to judge membership.
@@ -203,6 +208,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [Is Text Message Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-text-message-marketing-worth-it/): Where marketing texts help a service business and where they annoy, the consent the FCC and the wireless industry describe, and how to count results.
 - [Is Trustpilot Worth It for a Local Business? | Ascent Vision](https://ascentvision.org/answers/is-trustpilot-worth-it-for-a-service-business/): Trustpilot is free to claim and reply on, with paid plans for extra tools. Who it suits, why local customers read Google first, and its rules for asking.
+- [Is Valpak Worth It for a Service Business? | Ascent Vision](https://ascentvision.org/answers/is-valpak-worth-it-for-a-service-business/): What Valpak says it sells, how a shared coupon mailer differs from your own mailing, and how to judge it by booked jobs and tracked codes. No prices.
 - [Is WordPress Good for a Small Business Site? | Ascent Vision](https://ascentvision.org/answers/is-wordpress-good-for-a-small-business-website/): WordPress.org against WordPress.com, what WordPress gives a small business, the upkeep it asks for, and who it usually suits. Upkeep matters most.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
 - [Knowledge Panel or Business Profile? | Ascent Vision](https://ascentvision.org/answers/knowledge-panel-or-business-profile/): Google generates knowledge panels itself; a local business claims its Business Profile. How they differ, who can claim each.
@@ -261,6 +267,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
 - [What Are Vanity Metrics? | Ascent Vision](https://ascentvision.org/answers/what-are-vanity-metrics/): Vanity metrics such as followers, likes and raw visits look good but do not show whether customers came. Here is what each one hides and what to watch.
 - [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
+- [What Counts as a Google Ads Conversion? | Ascent Vision](https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/): A Google Ads conversion is whatever action the account is set to count, such as a call or form. Why that is not your customer count, and what to ask.
 - [CAC, ROI and ROAS Explained for Owners | Ascent Vision](https://ascentvision.org/answers/what-do-cac-roi-and-roas-mean/): Customer acquisition cost, ROI and ROAS in plain words, with one worked example, why ROAS can look good while you lose money, and what to ask.
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
@@ -282,6 +289,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Drip Campaign? | Ascent Vision](https://ascentvision.org/answers/what-is-a-drip-campaign/): A drip campaign in plain words, the few a service business might use, when one hurts more than it helps, and the email rules every message follows.
 - [What Is a Favicon? | Ascent Vision](https://ascentvision.org/answers/what-is-a-favicon/): The small icon in a browser tab and beside your site's name on Google: what it is, what Google asks of it, how it fits your logo, and when to check it.
+- [What Is a Good Cost Per Lead? | Ascent Vision](https://ascentvision.org/answers/what-is-a-good-cost-per-lead/): No outside average fits every trade. Work out the most a lead is worth to you from your close rate and a typical job, then judge ads by jobs won.
 - [What Is a Google Business Profile? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-business-profile/): A Google Business Profile is the free listing that shows a business on Google Search and Maps: what it is, who it suits, and what the owner controls.
 - [What Is a Google Local Guide? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-local-guide/): Local Guides earn points for Google Maps reviews and photos, and a badge at Level 4. What the badge means, and why it changes nothing about your reply.
 - [What Is a Landing Page? | Ascent Vision](https://ascentvision.org/answers/what-is-a-landing-page/): A landing page is a single page built for one campaign, ad or flyer, with one offer and one next step. When it helps, and when the homepage is enough.
@@ -355,6 +363,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Can't You Reply to a Google Review? | Ascent Vision](https://ascentvision.org/answers/why-cant-you-reply-to-a-google-review/): No Reply button, or a reply that never appears? Google's own reasons: an unverified profile, the wrong account, a reply under review or a removed review.
 - [Why Competitors Show Up on Google, Not You | Ascent Vision](https://ascentvision.org/answers/why-competitors-show-up-on-google-instead-of-you/): A twenty-minute side-by-side check of your Google results against a competitor's, what you can change this quarter, and what no outsider can see.
 - [Google or Facebook Ads Stopped Working? | Ascent Vision](https://ascentvision.org/answers/why-did-my-google-or-facebook-ads-stop-working/): Ads that stopped running and ads that stopped bringing inquiries are different problems. The checks for each, and what not to do first.
+- [Why Did Your Website Traffic Drop? | Ascent Vision](https://ascentvision.org/answers/why-did-my-website-traffic-drop/): A drop in website visits usually has an ordinary cause: the season, a change to the site, a Google update. How to check each in order and when it matters.
 - [Why Did Your Business Email Stop Working? | Ascent Vision](https://ascentvision.org/answers/why-did-your-business-email-stop-working/): The usual reasons business email stops arriving, the order to check them in, who to call, and how to keep a website move from cutting off your email.
 - [Why Business Calls Show as Spam Likely | Ascent Vision](https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/): Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
@@ -373,6 +382,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
 - [Will a New Website or Domain Hurt Rankings? | Ascent Vision](https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/): A rebuild or a new domain can cause a dip on Google for a while. What owners can expect, what to keep, and what to insist the builder takes care of.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
+- [Will AI Replace Google Search? | Ascent Vision](https://ascentvision.org/answers/will-ai-replace-google-search/): No one can say. Google puts AI answers inside Search, and Pew found many U.S. adults read AI summaries and use chatbots to look things up.
 - [Will AI Replace Marketing Agencies? | Ascent Vision](https://ascentvision.org/answers/will-ai-replace-marketing-agencies/): No one can say for sure. What AI now does inside agency work, what still needs a person, and what to ask any agency about how it uses AI.
 
 ## Calculators
@@ -2716,6 +2726,75 @@ Yes for drafts and variations a person checks, with care for anything a customer
 
 Full answer: https://ascentvision.org/answers/should-you-use-ai-to-make-your-ads/
 Sources: https://support.google.com/google-ads/answer/14150986?hl=en ; https://www.meta.com/help/artificial-intelligence/355108217670024/ ; https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
+
+### Why did my website traffic drop, and should I worry?
+
+A drop in website traffic usually has an ordinary cause, so check the plain ones first: the time of year, a recent change to the site, anything that broke, and a shift in Google's results. Compare with the same weeks last year, then look at inquiries. If calls and forms held steady, the drop may matter little; if they fell too, it needs attention.
+
+Full answer: https://ascentvision.org/answers/why-did-my-website-traffic-drop/
+Sources: https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops ; https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history
+
+### How do you write a short business bio for Instagram, Facebook and your Google profile?
+
+Write one short bio from four plain facts, in this order: what you do, who it is for, where you work, and what to do next. Then trim it for each place, because every platform sets its own length. Google's profile description rules bar links and a focus on promotions or prices, so the Google version is the plainest. Leave out claims you cannot show.
+
+Full answer: https://ascentvision.org/answers/how-to-write-a-business-bio/
+Sources: https://support.google.com/business/answer/3038177
+
+### How do you choose a name for a service business?
+
+Choose a name customers can say and spell after hearing it once, that does not box you into one service or town if you may grow, and that no one else already uses in your field. Before committing, check your state's business-name records, the federal trademark database and the matching web address. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-to-name-a-service-business/
+Sources: https://www.sba.gov/business-guide/launch-your-business/choose-your-business-name ; https://www.uspto.gov/trademarks/basics/what-trademark ; https://www.uspto.gov/trademarks/search ; https://efile.sunbiz.org/ficinfo.html
+
+### Will AI assistants replace Google search?
+
+No one can say. What is measurable today is that the two overlap: Google puts AI answers inside its own Search, and in a February 2026 Pew Research Center survey about six in ten U.S. adults said they ever read AI summaries in search results, while about four in ten said they use chatbots to search for information. For a service business, the sensible plan is to be easy to find and described correctly in both.
+
+Full answer: https://ascentvision.org/answers/will-ai-replace-google-search/
+Sources: https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/ ; https://developers.google.com/search/docs/appearance/ai-features
+
+### What counts as a conversion in Google Ads, and why does it not match your new customers?
+
+In Google Ads, a conversion is whatever action the account has been set to count, such as a purchase, a sign-up or a phone call. Google says you choose what to count, so a conversion is not automatically a customer. A counted call can be a short call or a repeat caller. Ask whoever runs the account which actions count and how they are checked against real jobs.
+
+Full answer: https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/
+Sources: https://support.google.com/google-ads/answer/1722022 ; https://support.google.com/google-ads/answer/11461796 ; https://support.google.com/google-ads/answer/7381968
+
+### What is a good cost per lead for a small service business?
+
+There is no good cost per lead that fits every service business, because published averages mix trades, regions and different meanings of the word lead. A useful number is your own: the most you can pay for a lead is what a typical job leaves you after costs, multiplied by the share of leads you win. Then check cost per job won, because a cheap lead that never books is the expensive one.
+
+Full answer: https://ascentvision.org/answers/what-is-a-good-cost-per-lead/
+Sources: https://support.google.com/google-ads/answer/6396841 ; https://support.google.com/google-ads/answer/6331314
+
+### Is field service software like Jobber or Housecall Pro worth it for a small service business?
+
+It can be, if you will use the quoting, scheduling, invoicing and payment parts every week. Jobber and Housecall Pro describe themselves as running those jobs in one place, with some marketing extras added. Whether it is worth it depends on your volume and habits, so compare what each does, whether you can export your customer list, and whether a simple tracker would already do.
+
+Full answer: https://ascentvision.org/answers/is-field-service-software-like-jobber-worth-it/
+Sources: https://www.getjobber.com/ ; https://www.getjobber.com/features/marketing-tools/ ; https://help.getjobber.com/hc/en-us/articles/360046586294-A-Guide-for-Your-Clients-How-to-Navigate-Client-Hub ; https://help.getjobber.com/en/articles/export-client-information/ ; https://www.housecallpro.com/features/ ; https://help.housecallpro.com/en/articles/6797101-how-to-import-export-jobs-and-customers
+
+### Is Valpak advertising worth it for a service business?
+
+Valpak can be worth it if the jobs it brings in cover what it costs, and only your own records can show that. Valpak sells printed coupons in a shared envelope mailed to chosen neighborhoods, plus postcards and digital ads. Give your ad its own phone number or code, log every lead it produces, and judge it by booked jobs, not by how many envelopes went out.
+
+Full answer: https://ascentvision.org/answers/is-valpak-worth-it-for-a-service-business/
+Sources: https://www.valpak.com/advertise/solutions/blue-envelope ; https://www.valpak.com/advertise/ ; https://www.valpak.com/advertise/blog/how-to-choose-the-best-valpak-advertising-for-your-local-business
+
+### How do you tell customers about a price increase without losing them?
+
+Tell customers before the new price starts, regulars first and in your own words. Say the date, what changes, one honest reason and what stays the same, and honor quotes you have already given. When someone pushes back, listen, repeat the date and explain once. Some customers may leave, and that is a cost to plan for, not a reason to hide the change.
+
+Full answer: https://ascentvision.org/answers/how-to-tell-customers-about-a-price-increase/
+
+### Is the GoDaddy website builder good enough for a service business?
+
+It can be good enough for a small service business that needs a simple site quickly. The better test is what happens later: whether you own your domain, whether you can take your content with you, and whether leaving means a rebuild. GoDaddy's own help pages describe its builders, domain steps and cancellation, and those are the pages to read before you commit.
+
+Full answer: https://ascentvision.org/answers/is-godaddy-website-builder-good-for-a-service-business/
+Sources: https://www.godaddy.com/help/what-is-websites-marketing-24509 ; https://www.godaddy.com/help/rebuild-my-website-in-airo-ai-builder-42965 ; https://www.godaddy.com/help/connect-my-websites-marketing-site-to-a-domain-24748 ; https://www.godaddy.com/help/transfer-my-domain-away-from-godaddy-3560 ; https://www.godaddy.com/help/download-my-airo-ai-builder-files-and-code-42993 ; https://www.godaddy.com/help/back-up-my-website-32228 ; https://www.godaddy.com/help/cancel-a-subscription-for-my-godaddy-product-20008 ; https://www.godaddy.com/help/improve-my-websites-seo-20110
 
 ## Calculators
 
