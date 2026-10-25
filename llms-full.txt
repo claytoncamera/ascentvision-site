@@ -96,8 +96,13 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Google Workspace or Microsoft 365? | Ascent Vision](https://ascentvision.org/answers/google-workspace-or-microsoft-365-for-business-email/): What Google Workspace and Microsoft 365 business plans include, how a small business usually chooses between them, and how to keep the account in its name.
 - [How AI Assistants Find Local Businesses | Ascent Vision](https://ascentvision.org/answers/how-chatgpt-perplexity-gemini-and-google-ai-find-local-businesses/): In their own words: do ChatGPT, Perplexity, Google's AI answers, Gemini, Copilot and Claude search the web, cite sources, show listings?
 - [Options for 'How Did You Hear About Us?' | Ascent Vision](https://ascentvision.org/answers/how-did-you-hear-about-us-options/): A ready list of answer options for 'How did you hear about us?', each mapped to a lead channel, with advice on the write-in box and where to ask.
+- [How Accountants and Bookkeepers Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-accountants-get-clients/): Accountants and bookkeepers usually grow by referral first, then directories, and adjust the website around tax season. Includes Florida's CPA title rule.
 - [How Customers Compare Businesses Online | Ascent Vision](https://ascentvision.org/answers/how-do-customers-compare-businesses-online/): Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.
 - [How Customers Find Businesses Through AI | Ascent Vision](https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/): What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.
+- [How HVAC Companies Get Leads | Ascent Vision](https://ascentvision.org/answers/how-do-hvac-companies-get-leads/): HVAC leads follow the weather. How a maintenance-plan page, Local Services Ads, commercial bids, dealer locators and lead companies fit, judged by jobs.
+- [How Personal Trainers Get Clients Online | Ascent Vision](https://ascentvision.org/answers/how-do-personal-trainers-get-clients-online/): Trainers usually get found on Instagram and convert on a website with an application and a page per kind of client, keeping public claims on firm ground.
+- [How Photographers Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-photographers-get-clients/): Photographers usually win clients with a portfolio page per kind of work, visual platforms, a hidden-address Google profile and a form that asks the date.
+- [How Plumbers Get More Leads | Ascent Vision](https://ascentvision.org/answers/how-do-plumbers-get-more-leads/): Plumbers usually win leads by answering the emergency call, weighing paid options and keeping free ones sound. Includes Florida's license number rule.
 - [How Do You Know If Your Marketing Is Working? | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
 - [How Google Calculates Your Star Rating | Ascent Vision](https://ascentvision.org/answers/how-google-calculates-your-star-rating/): Google's star score averages its published ratings. Why one review moves a small profile more, what changes the score and whether old reviews expire.
@@ -2160,6 +2165,41 @@ Because Google's ad rules allow it. Google's trademark policy says it will not r
 
 Full answer: https://ascentvision.org/answers/competitor-ads-on-your-business-name/
 Sources: https://support.google.com/adspolicy/answer/6118 ; https://support.google.com/adspolicy/troubleshooter/14327740 ; https://support.google.com/adspolicy/answer/6020955 ; https://support.google.com/My-Ad-Center-Help/answer/13861201 ; https://www.google.com/search/howsearchworks/our-approach/ads-on-search/
+
+### How do photographers get clients?
+
+Photographers usually get clients by showing the work where people look at pictures, then making it easy to ask. A portfolio page for each kind of work, an Instagram and Pinterest presence, a Google profile with a home address hidden, and an inquiry form that asks the date and venue first are a good start. There is no fast route; most of it builds slowly.
+
+Full answer: https://ascentvision.org/answers/how-do-photographers-get-clients/
+Sources: https://support.google.com/business/answer/9157481 ; https://support.google.com/business/answer/3038177 ; https://www.facebook.com/business/instagram/getting-started ; https://help.pinterest.com/en/business/article/pin-performance-and-distribution
+
+### How do accountants and bookkeepers get clients?
+
+Accountants and bookkeepers usually get clients through referrals first, then through directories a buyer may check, such as a state CPA society, QuickBooks ProAdvisor and Xero. Tax season changes what a website should offer. In Florida, the statute bars knowingly using the title CPA without an active license or practice privileges. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-accountants-get-clients/
+Sources: https://www.ficpa.org/find-a-firm ; https://quickbooks.intuit.com/find-an-accountant ; https://www.xero.com/us/advisors/ ; https://support.google.com/localservices/answer/6224841 ; https://www.flsenate.gov/Laws/Statutes/2026/473.322
+
+### How do plumbers get more leads?
+
+Plumbers usually get more leads by answering the emergency call, because an urgent customer often takes whoever replies first. Local Services Ads are one paid option; a complete Google profile, past customers and fairly asked reviews cost only time. In Florida, the statute puts a contractor's license number in offers and advertisements. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-plumbers-get-more-leads/
+Sources: https://support.google.com/localservices/answer/6224841 ; https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/9157481 ; https://www.flsenate.gov/Laws/Statutes/2026/489.119 ; https://www.flsenate.gov/Laws/Statutes/2026/489.105
+
+### How do HVAC companies get leads?
+
+HVAC companies usually get leads from demand that follows the weather, so the work is to be easy to find and easy to choose when it arrives. That means Google Local Services Ads where eligible, a maintenance-plan page that works between seasons, manufacturer dealer-locator listings, and any lead company judged by booked jobs. Commercial work is a different buyer, often asking for bids rather than calls.
+
+Full answer: https://ascentvision.org/answers/how-do-hvac-companies-get-leads/
+Sources: https://support.google.com/localservices/answer/6224841 ; https://www.trane.com/residential/en/dealer-locator/
+
+### How do personal trainers and fitness coaches get clients online?
+
+Personal trainers and fitness coaches usually get clients online by being found on Instagram and converting on a website: a page for each kind of client, a short next step, and public claims that do not promise results. In the FTC's view, objective product claims need adequate substantiation, and its health-products guidance covers products, not coaching as such. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-personal-trainers-get-clients-online/
+Sources: https://www.facebook.com/business/instagram/getting-started ; https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance ; https://support.google.com/localservices/answer/6224841
 
 ## Calculators
 
