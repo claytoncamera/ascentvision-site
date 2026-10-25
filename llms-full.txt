@@ -47,7 +47,9 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can a Small Business Compete With Big Companies? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
+- [Google Profile for an Online-Only Business? | Ascent Vision](https://ascentvision.org/answers/can-an-online-only-business-have-a-google-business-profile/): Google's rules require in-person contact with customers and list online-only businesses as ineligible. Where common setups fall, and what to do instead.
 - [Can Customers Book You From Google? | Ascent Vision](https://ascentvision.org/answers/can-customers-book-you-from-google/): Google lets many businesses take bookings from their Business Profile, through a booking link or a provider. Who it suits and what to check first.
+- [Can Customers Review You Without Gmail? | Ascent Vision](https://ascentvision.org/answers/can-customers-review-you-without-a-gmail-account/): A Google review needs a Google Account, not a Gmail address. What Google says customers need, what to tell one with no account, and what never to do.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
 - [Can You Offer a Discount for a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-give-customers-a-discount-for-a-review/): Google bans discounts, gifts or payment for any review. What the FTC's review rule adds, why asking only happy customers is risky and what to do instead.
@@ -60,6 +62,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
 - [Can You Turn Off Google Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-turn-off-google-reviews/): Google's help pages show no owner switch to turn reviews off, and removing the profile leaves them up. What Google says, and what to do instead.
 - [Can You Use AI Images on Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-generated-images-on-your-website/): Using AI-generated images on a business website: what the U.S. Copyright Office says about ownership, the honesty line and what to check first.
+- [Can AI Write Reviews or Testimonials? | Ascent Vision](https://ascentvision.org/answers/can-you-use-ai-to-write-reviews-or-testimonials/): No. The FTC's rule bans fake reviews, AI-generated ones included, and Google removes reviews not based on a real experience. What AI can fairly do instead.
 - [Can You Use Photos Found Online? | Ascent Vision](https://ascentvision.org/answers/can-you-use-photos-from-the-internet-on-your-website/): Copyright basics for owners: why a photo found online is usually not free to use, what an image license covers, and what to do about a demand letter.
 - [Change Your Name or Address on Google | Ascent Vision](https://ascentvision.org/answers/change-your-business-name-or-address-on-google/): Moving or renaming? Google says to edit the profile you have, not start a new one. When reviews move with you, and when a rename counts as a new business.
 - [Check What ChatGPT Says About Your Business | Ascent Vision](https://ascentvision.org/answers/check-what-ai-says-about-your-business/): A 20-minute check any owner can run on ChatGPT, Perplexity and Google's AI: the questions to ask, what to write down, and what to do with the results.
@@ -70,6 +73,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
+- [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules vary by state and by use. What the SBA says, what Utah's code requires of AI that talks with customers, and a plain way to tell them.
 - [Do You Need a Logo Before a Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/): A new website needs a clear name, one or two colors and real photos at the start. A logo can usually wait, and a plain-text stand-in works until then.
 - [Website or Just Social Media? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/): Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.
 - [Do You Need Consent to Record Calls? | Ascent Vision](https://ascentvision.org/answers/do-you-need-consent-to-record-customer-calls/): Federal law lets one person on a call consent to recording, but Florida, and possibly other states, require everyone to agree. A plain line to ask with.
@@ -93,6 +97,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Customers Find Businesses Through AI | Ascent Vision](https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/): What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.
 - [How Do You Know If Your Marketing Is Working? | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
+- [How Google Calculates Your Star Rating | Ascent Vision](https://ascentvision.org/answers/how-google-calculates-your-star-rating/): Google's star score averages its published ratings. Why one review moves a small profile more, what changes the score and whether old reviews expire.
 - [How Long Does a Website Take to Build? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/): How long a small business website takes depends on content, decisions and approvals more than the build itself. Where projects stall and how to speed it up.
 - [How Long Until You Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-show-up-in-ai-answers/): Showing up in AI answers usually takes months, and no one can give a date. Why timing varies by assistant and what early progress tends to look like.
 - [How Long Does SEO Take to Work? | Ascent Vision](https://ascentvision.org/answers/how-long-does-seo-take/): An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.
@@ -165,6 +170,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Ask Before Hiring a Web Designer | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-a-web-designer/): What to ask a web designer before you hire: who owns the domain, design and logins, who writes the words, phone speed, inquiries and what follows launch.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Remove Your Home Address or Phone on Google | Ascent Vision](https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/): Google's Results about you tool can drop your home address or phone from search results. What it removes, what it will not, and what to fix at the source.
+- [SEO vs SEM: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/seo-or-sem-whats-the-difference/): SEO is work on the unpaid results; SEM often means paid search ads, though sellers use it loosely. What you are buying under each label, and what to ask.
 - [SEO or Social Media for a Service Business? | Ascent Vision](https://ascentvision.org/answers/seo-or-social-media-for-a-service-business/): Search reaches people who need a job done now; social mostly reaches people who are not looking yet. Where a service business should put its time first.
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
@@ -173,6 +179,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Buy an Email List? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-an-email-list/): Why buying an email list is usually a poor idea: what Google's sender guidelines and the FTC's CAN-SPAM guide say, and better ways to build a list.
 - [Should You Buy Leads From Angi or Thumbtack? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/): Lead sites can bring work, but leads are often shared. How to judge Angi or Thumbtack by jobs won, ask for credits and keep the customer as your own.
 - [Should You Call or Email a New Lead First? | Ascent Vision](https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/): Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.
+- [Should You Delete Your Google Profile? | Ascent Vision](https://ascentvision.org/answers/should-you-delete-your-google-business-profile/): Removing a Google Business Profile can leave the listing and its reviews up. What removal does, when it fits, and the better fix for each usual reason.
 - [Should You Have a Referral Program? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-referral-program/): A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.
 - [Hire a Marketing Employee or an Agency? | Ascent Vision](https://ascentvision.org/answers/should-you-hire-a-marketing-employee-or-an-agency/): A marketing employee, a part-time fractional lead or an agency: what each suits, who manages them, and why your accounts stay in your name either way.
 - [Should You Offer Free Estimates? | Ascent Vision](https://ascentvision.org/answers/should-you-offer-free-estimates/): Free estimates can bring more inquiries but cost time on poor fits. The trade-offs, two common alternatives, and how to state your policy on your site.
@@ -201,6 +208,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Does a Marketing Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-marketing-agency-do/): The common kinds of marketing agency, what each one should hand a small business owner, and how to choose by the problem you actually have.
 - [What Is a Google Partner Agency? | Ascent Vision](https://ascentvision.org/answers/what-does-google-partner-mean/): A Google Partner badge reflects Google Ads skills and activity. What it takes to earn it, and what it does not tell you about free rankings or AI answers.
 - [What Does Website Maintenance Involve? | Ascent Vision](https://ascentvision.org/answers/what-does-website-maintenance-involve/): The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.
+- [What Online Assets Go With a Business Sale? | Ascent Vision](https://ascentvision.org/answers/what-goes-with-your-business-when-you-sell-or-buy-it-online/): Selling or buying a business? The domain, website, Google profile, reviews, ad accounts and phone number each move separately. What to check first.
 - [What Happens If You Stop Paying for SEO? | Ascent Vision](https://ascentvision.org/answers/what-happens-if-you-stop-seo/): What stays and what slips when a small business stops its SEO work, why ownership decides how much you keep, and how to stop without losing ground.
 - [What Happens If Your Domain Name Expires? | Ascent Vision](https://ascentvision.org/answers/what-happens-if-your-domain-expires/): ICANN's policy makes registrars send reminders and sets renewal rules after expiry. What stops working, how long you have and the risk of losing the name.
 - [Someone Else Controls Your Google Profile? | Ascent Vision](https://ascentvision.org/answers/what-if-someone-else-controls-your-google-business-profile/): If a former agency, employee or stranger owns your Google Business Profile, Google has a process to request ownership. The steps, and what to expect.
@@ -278,12 +286,14 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Does Yelp Hide Some Reviews? | Ascent Vision](https://ascentvision.org/answers/why-does-yelp-hide-some-reviews/): Yelp's automated software picks which reviews it recommends. Why some are hidden, where they go, and why Yelp, unlike Google, says not to ask for reviews.
 - [Why Customers See Different Google Results | Ascent Vision](https://ascentvision.org/answers/why-google-results-look-different-for-you-and-your-customers/): Location, device, history and settings change what Google shows, so a search from your own phone proves little. How to see results as a customer does.
 - [Why Isn't My Business Showing Up on Google? | Ascent Vision](https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/): The usual reasons a business does not appear on Google, in the order an owner can check them, plus what to fix this month and what not to pay for.
+- [Business Pin in the Wrong Place on Maps? | Ascent Vision](https://ascentvision.org/answers/why-is-your-business-in-the-wrong-place-on-google-maps/): When your Google Maps pin sits in the wrong spot: why it happens, how an owner moves it, what happens after the edit and what anyone else can report.
 - [Why Is My Business Not on Google Maps? | Ascent Vision](https://ascentvision.org/answers/why-is-your-business-not-showing-on-google-maps/): When a business is missing from Google Maps: an unverified, suspended or duplicate profile, a hidden address, a new profile, and what to check first.
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
 - [Will a New Website or Domain Hurt Rankings? | Ascent Vision](https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/): A rebuild or a new domain can cause a dip on Google for a while. What owners can expect, what to keep, and what to insist the builder takes care of.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
+- [Will AI Replace Marketing Agencies? | Ascent Vision](https://ascentvision.org/answers/will-ai-replace-marketing-agencies/): No one can say for sure. What AI now does inside agency work, what still needs a person, and what to ask any agency about how it uses AI.
 
 ## Calculators
 
@@ -1996,6 +2006,76 @@ First work out which problem you have. If the ads stopped running, the cause is 
 
 Full answer: https://ascentvision.org/answers/why-did-my-google-or-facebook-ads-stop-working/
 Sources: https://support.google.com/google-ads/answer/7378077 ; https://support.google.com/google-ads/answer/1722129
+
+### Will AI replace marketing agencies, and do you still need one?
+
+No one can say for certain how far AI will change marketing work. AI tools can already help with drafts, summaries and first checks, while knowing the business, checking facts and answering for results usually still need a person. So the useful question for an owner is how an agency uses AI: which parts it hands to a tool, who checks the output, and what it can actually show you.
+
+Full answer: https://ascentvision.org/answers/will-ai-replace-marketing-agencies/
+Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about
+
+### Can you use AI to write reviews or testimonials for your business?
+
+No. The FTC says its rule on consumer reviews and testimonials, in effect since October 21, 2024, bars businesses from creating or selling reviews or testimonials that falsely claim to come from someone who does not exist, such as AI-generated fake reviews, or from someone with no actual experience of the business. Google's Maps policy also removes content not based on a real experience. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-use-ai-to-write-reviews-or-testimonials/
+Sources: https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers ; https://www.ftc.gov/business-guidance/blog/2025/12/warning-letter-or-ten-businesses-comply-ftcs-consumer-review-rule ; https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-reopens-sets-aside-rytr-final-order-response-trump-administrations-ai-action-plan ; https://support.google.com/contributionpolicy/answer/7400114
+
+### Do you have to tell customers when you use AI to answer or write to them?
+
+It depends on the state and the use. The U.S. Small Business Administration's guide says no federal or state laws currently require businesses to disclose AI use, and that disclosure is becoming an expected best practice. Utah's code, though, requires a supplier whose generative AI interacts with a person in a consumer transaction to say so when the person clearly asks. As general advice, tell customers plainly anyway. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/
+Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S103_2025050720250507.html ; https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S104_2025050720250507.html ; https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/ ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
+
+### What happens to your website, Google profile, phone number and reviews when you sell a business?
+
+Usually only what the sale agreement lists, and only once each account is actually handed over. The domain, website and hosting, Google Business Profile, ad accounts, social pages, business phone number and customer records usually each sit in a separate account with its own handover. Google says transferring primary ownership of the profile to the new owner keeps its information, such as reviews. List every account before either side signs. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/what-goes-with-your-business-when-you-sell-or-buy-it-online/
+Sources: https://support.google.com/business/answer/3415281 ; https://support.google.com/business/answer/3098204 ; https://support.google.com/business/answer/3038177 ; https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business
+
+### What is the difference between SEO and SEM?
+
+SEO, search engine optimization, is work aimed at being found in the unpaid search results. SEM, search engine marketing, is used loosely: it often means paid search ads, and some sellers use it for paid and unpaid search work together. With paid search ads you usually pay for each click on an ad shown in a labeled ad spot, and Google says no one can buy a better place in its unpaid results. Because the label varies, ask any seller exactly what SEM includes.
+
+Full answer: https://ascentvision.org/answers/seo-or-sem-whats-the-difference/
+Sources: https://developers.google.com/search/docs/fundamentals/seo-starter-guide ; https://support.google.com/google-ads/answer/116495 ; https://support.google.com/google-ads/answer/1722047 ; https://www.google.com/search/howsearchworks/our-approach/ads-on-search/
+
+### Should you delete your Google Business Profile and start over?
+
+Usually not. Google's page on removing a Business Profile says the posts, photos and review replies of its owners and managers are permanently removed, while customer reviews remain and the business might still show on Search and Maps. Removal fits a copy you created by mistake. For a closure, a sale, a move or a suspension, Google's pages point to a better route, and a fresh profile for the same business can end up treated as a duplicate.
+
+Full answer: https://ascentvision.org/answers/should-you-delete-your-google-business-profile/
+Sources: https://support.google.com/business/answer/4669092 ; https://support.google.com/business/answer/16043467 ; https://support.google.com/business/answer/15300196 ; https://support.google.com/business/answer/3415281 ; https://support.google.com/business/answer/3098204 ; https://support.google.com/business/answer/4569145 ; https://support.google.com/business/answer/12756178
+
+### Can an online-only business have a Google Business Profile?
+
+Usually not. Google's eligibility guidelines say a business must make in-person contact with customers during its stated hours, and they list online-only businesses among the examples that are not eligible. A business that travels to customers can still qualify as a service-area business, with its address hidden. One that deals with customers only online is usually better served by its own website and by being easy to describe wherever customers look it up.
+
+Full answer: https://ascentvision.org/answers/can-an-online-only-business-have-a-google-business-profile/
+Sources: https://support.google.com/business/answer/13763036 ; https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/9157481 ; https://support.google.com/business/answer/4569145
+
+### Can customers leave a Google review without a Gmail account?
+
+Yes, as long as they have a Google Account. Google's tips for getting reviews say customers must be signed in to a Google Account to leave a review, and that they can set one up with a non-Gmail email address. There is no anonymous option: Google's Maps help says all reviews are public. Tell customers that plainly, send a direct link, and never offer anything in return for the review.
+
+Full answer: https://ascentvision.org/answers/can-customers-review-you-without-a-gmail-account/
+Sources: https://support.google.com/business/answer/3474122 ; https://support.google.com/business/answer/16816815 ; https://support.google.com/business/answer/10313341 ; https://support.google.com/maps/answer/6230175 ; https://support.google.com/contributionpolicy/answer/7400114
+
+### Why is your business pin in the wrong place on Google Maps, and how do you fix it?
+
+Google says it decides how to show a business's address from the owner's information and other sources, and lets an owner pin the location directly when the address has no street number or cannot be found. To move the pin, open your Business Profile, select Edit profile, then Location, Edit next to Business location, then Adjust; move the map and save. Google reviews the change, which usually takes about 10 minutes and can take up to 30 days.
+
+Full answer: https://ascentvision.org/answers/why-is-your-business-in-the-wrong-place-on-google-maps/
+Sources: https://support.google.com/business/answer/2853879 ; https://support.google.com/business/answer/3038177 ; https://support.google.com/business/answer/3038311 ; https://support.google.com/business/answer/3480441 ; https://support.google.com/business/answer/3039617 ; https://support.google.com/maps/answer/7084895 ; https://support.google.com/maps/answer/6194894
+
+### How does Google work out your star rating, and do old reviews ever expire?
+
+Google says the review score is the average of all ratings published on Google for the business, on a scale of one to five stars, and that a new review can take up to 2 weeks to show in it. On old reviews, Google's Maps help tells reviewers that a review shows up until they take it down, and names no expiry. The score moves when ratings are added, edited, deleted or removed, and a profile with few ratings moves the most.
+
+Full answer: https://ascentvision.org/answers/how-google-calculates-your-star-rating/
+Sources: https://support.google.com/business/answer/4801187 ; https://support.google.com/maps/answer/6230175 ; https://support.google.com/business/answer/10313341 ; https://support.google.com/business/answer/14114287 ; https://support.google.com/business/answer/12756178 ; https://support.google.com/business/answer/3098204 ; https://support.google.com/business/answer/10286840 ; https://support.google.com/business/answer/3474122 ; https://trust.yelp.com/recommendation-software/
 
 ## Calculators
 
