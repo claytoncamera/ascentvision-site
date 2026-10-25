@@ -21,6 +21,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [About Ascent Vision and Its Founders](https://ascentvision.org/about/): Ascent Vision LLC is a Florida marketing company founded in October 2026 by Clayton Camera and Grayson Sorrentino.
 - [Answers: SEO, GEO, Leads and Websites | Ascent Vision](https://ascentvision.org/answers/): Plain answers to the questions business owners ask about SEO, GEO and AI answers, lead tracking and websites. Each one stands on its own.
 - [FAQ: SEO, GEO and Working With Us | Ascent Vision](https://ascentvision.org/faq/): Straight answers on what Ascent Vision does, how GEO differs from SEO, how results are tracked and who owns the work.
+- [Glossary: Marketing, Lead and AI-Answer Terms | Ascent Vision](https://ascentvision.org/glossary/): Plain definitions of the marketing, lead, website and AI-answer terms a service business owner meets, each linked to the answer that explains it.
 - [Privacy Notice | Ascent Vision](https://ascentvision.org/privacy/): What Ascent Vision collects through its application form, why, who sees it and how to have it deleted.
 - [Apply to Work With Ascent Vision: Start a Marketing Project](https://ascentvision.org/work-with-us/): Apply in about two minutes: tell Ascent Vision about your business, how customers find you today and what you need. One of the founders replies.
 - [Our Work: Client Websites and SEO | Ascent Vision](https://ascentvision.org/work/): What Ascent Vision has built for its clients: websites, search and AI-answer groundwork, and lead tracking. Facts only, no invented results.
@@ -86,6 +87,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Wrong Hours or Closed on Google? | Ascent Vision](https://ascentvision.org/answers/google-changed-your-hours-or-says-you-are-closed/): Why Google can change your hours or mark you closed, how to review and reject suggested edits, how to fix your hours, and how to reopen a closed profile.
 - [Google or Yelp Reviews: Which Matter More? | Ascent Vision](https://ascentvision.org/answers/google-reviews-or-yelp-reviews/): Google lets you ask customers for reviews; Yelp says never ask. The two sites side by side, and where a service business should send its customers.
 - [Google Workspace or Microsoft 365? | Ascent Vision](https://ascentvision.org/answers/google-workspace-or-microsoft-365-for-business-email/): What Google Workspace and Microsoft 365 business plans include, how a small business usually chooses between them, and how to keep the account in its name.
+- [How AI Assistants Find Local Businesses | Ascent Vision](https://ascentvision.org/answers/how-chatgpt-perplexity-gemini-and-google-ai-find-local-businesses/): In their own words: do ChatGPT, Perplexity, Google's AI answers, Gemini, Copilot and Claude search the web, cite sources, show listings?
 - [Options for 'How Did You Hear About Us?' | Ascent Vision](https://ascentvision.org/answers/how-did-you-hear-about-us-options/): A ready list of answer options for 'How did you hear about us?', each mapped to a lead channel, with advice on the write-in box and where to ask.
 - [How Customers Compare Businesses Online | Ascent Vision](https://ascentvision.org/answers/how-do-customers-compare-businesses-online/): Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.
 - [How Customers Find Businesses Through AI | Ascent Vision](https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/): What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.
@@ -99,6 +101,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Many People Use AI Assistants? | Ascent Vision](https://ascentvision.org/answers/how-many-people-use-ai-assistants/): About half of U.S. adults now use AI chatbots, Pew Research Center found in 2026. What the numbers say and what they mean for a service business.
 - [How Much Does SEO Cost for a Small Business? | Ascent Vision](https://ascentvision.org/answers/how-much-does-seo-cost/): What decides the cost of SEO for a small service business, the common ways agencies charge, and the questions that tell you whether a quote is fair.
 - [How Much Marketing to Do Yourself | Ascent Vision](https://ascentvision.org/answers/how-much-marketing-should-you-do-yourself/): Keep what only the owner does well, like customer conversations, reviews and referrals. Hand off work that keeps slipping, and keep your own accounts.
+- [How to Set a Small Business Marketing Budget | Ascent Vision](https://ascentvision.org/answers/how-much-should-a-small-business-spend-on-marketing/): A way to set a marketing budget from your own numbers: what a customer is worth, the jobs you want, proven channels first, one fixed test at a time.
 - [How Much Owner Time Do SEO and GEO Take? | Ascent Vision](https://ascentvision.org/answers/how-much-time-does-seo-take-from-an-owner/): What an owner usually has to give to SEO and GEO work: answers, approvals, photos, review requests and a monthly read, plus how to keep it light.
 - [How to Answer the Phone for a New Customer | Ascent Vision](https://ascentvision.org/answers/how-to-answer-the-phone-for-a-new-customer/): Open with your business name, capture the need, area and timing, ask how they found you, agree one next step, and text only with the person's consent.
 - [How to Choose a Domain Name | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-domain-name/): Pick a domain that is short, easy to say and spell, and close to your business name, then check for trademark conflicts before you register it.
@@ -152,6 +155,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is Nextdoor Worth It for a Service Business? | Ascent Vision](https://ascentvision.org/answers/is-nextdoor-worth-it-for-a-service-business/): Nextdoor gives a business a free page, free posts and neighbor recommendations. Who uses it, by Pew's 2026 figures, and how to tell if it brings you work.
 - [Google Ads or SEO for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-paid-search-better-than-seo/): Paid search ads work fast and stop when you stop paying. SEO is slower but tends to last. An honest comparison, and when each one fits a small business.
 - [Is Pay-for-Performance SEO a Good Deal? | Ascent Vision](https://ascentvision.org/answers/is-pay-for-performance-seo-a-good-deal/): Why deals that charge only when you rank tend to favor easy, low-value searches, and what to tie payment to instead: inquiries traced to a source.
+- [Are Radio, TV and Billboard Ads Worth It? | Ascent Vision](https://ascentvision.org/answers/is-radio-tv-or-billboard-advertising-worth-it/): When radio, TV and billboard ads can suit a service business, why they are hard to trace, and how to tell whether a run paid for itself.
 - [Is SEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-seo-worth-it-for-a-small-business/): When SEO pays off for a small service business, when it does not, and a simple way to work out whether it is worth it for yours before you spend anything.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
 - [Local or Toll-Free Number for a Business? | Ascent Vision](https://ascentvision.org/answers/local-number-or-toll-free-number/): A local number often suits a business serving one area; toll-free can suit callers in many states. What FCC rules say toll-free means, and what to avoid.
@@ -172,6 +176,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Have a Referral Program? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-referral-program/): A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.
 - [Hire a Marketing Employee or an Agency? | Ascent Vision](https://ascentvision.org/answers/should-you-hire-a-marketing-employee-or-an-agency/): A marketing employee, a part-time fractional lead or an agency: what each suits, who manages them, and why your accounts stay in your name either way.
 - [Should You Offer Free Estimates? | Ascent Vision](https://ascentvision.org/answers/should-you-offer-free-estimates/): Free estimates can bring more inquiries but cost time on poor fits. The trade-offs, two common alternatives, and how to state your policy on your site.
+- [Paying Local Influencers: What to Disclose | Ascent Vision](https://ascentvision.org/answers/should-you-pay-influencers-to-promote-your-business/): When a local creator can suit a service business, what the FTC's Endorsement Guides say about paid or free posts, and how to track what a post brings.
 - [Keywords or a City in Your Business Name? | Ascent Vision](https://ascentvision.org/answers/should-you-put-keywords-in-your-business-name/): Google's guidelines say your profile name should be your real-world name, and extra words can lead to suspension. What that means for a service business.
 - [Should You Put Prices on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-put-prices-on-your-website/): Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.
 - [Should You Text Back Missed Calls? | Ascent Vision](https://ascentvision.org/answers/should-you-text-back-missed-calls-automatically/): When an automatic text after a missed call can help, what it should say, why it needs the person's consent, and why every missed call is a lead.
@@ -233,6 +238,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show an Owner? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page marketing report a small business owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
+- [What a Simple Marketing Plan Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-small-business-marketing-plan-include/): A one-page marketing plan for a service business: the customer, the area, why you, the channels, the budget, who does what and the date you check it.
 - [What Should a Thank-You Page Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-thank-you-page-say/): After someone sends an inquiry, your site should confirm it arrived, say when and how you will reply, and what to do if it is urgent. What to include.
 - [What a Website Contract Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-website-design-contract-include/): The points a website design contract should pin down: scope, revisions, who supplies content, ownership of the design and files, logins and handover.
 - [What to Look at in Google Analytics | Ascent Vision](https://ascentvision.org/answers/what-should-an-owner-look-at-in-google-analytics/): The few Google Analytics numbers worth a monthly look for a service business, what Google means by a session, and the reports most owners can skip.
@@ -263,6 +269,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Business Emails Go to Spam | Ascent Vision](https://ascentvision.org/answers/why-are-your-business-emails-going-to-spam/): Business email often goes to spam when it cannot be verified or is unwanted. What Gmail and Yahoo ask of senders, what to ask your provider and how to test.
 - [Why Can't You Reply to a Google Review? | Ascent Vision](https://ascentvision.org/answers/why-cant-you-reply-to-a-google-review/): No Reply button, or a reply that never appears? Google's own reasons: an unverified profile, the wrong account, a reply under review or a removed review.
 - [Why Competitors Show Up on Google, Not You | Ascent Vision](https://ascentvision.org/answers/why-competitors-show-up-on-google-instead-of-you/): A twenty-minute side-by-side check of your Google results against a competitor's, what you can change this quarter, and what no outsider can see.
+- [Google or Facebook Ads Stopped Working? | Ascent Vision](https://ascentvision.org/answers/why-did-my-google-or-facebook-ads-stop-working/): Ads that stopped running and ads that stopped bringing inquiries are different problems. The checks for each, and what not to do first.
 - [Why Business Calls Show as Spam Likely | Ascent Vision](https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/): Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
 - [Why ChatGPT Answers Differ by Person | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/): Memory, location and live web search can all change what ChatGPT says, so one check from your own account proves little. What OpenAI says, and what to do.
@@ -277,6 +284,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
 - [Will a New Website or Domain Hurt Rankings? | Ascent Vision](https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/): A rebuild or a new domain can cause a dip on Google for a while. What owners can expect, what to keep, and what to insist the builder takes care of.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
+
+## Calculators
+
+- [Customer Lifetime Value Calculator | Ascent Vision](https://ascentvision.org/tools/customer-lifetime-value-calculator/): Average sale, purchases a year, years a customer stays and margin give lifetime value, the most to spend to win a customer and the figure per inquiry.
+- [How Many Inquiries Do You Need? Calculator | Ascent Vision](https://ascentvision.org/tools/how-many-inquiries-do-you-need/): Turn a monthly revenue or jobs goal, job value, close rate and show rate into the inquiries you need each month and week, and the gap by channel.
+- [Marketing ROI Calculator for Small Business | Ascent Vision](https://ascentvision.org/tools/marketing-roi-calculator/): Enter spend, inquiries, close rate, job value and margin to see cost per inquiry, cost per customer, net return and your break-even close rate.
 
 ## Services
 
@@ -1941,6 +1954,69 @@ AI is usually safe for drafts, ideas, summaries and tidying your own words, as l
 
 Full answer: https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/
 Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
+
+### How do ChatGPT, Perplexity, Google's AI answers, Gemini, Copilot and Claude find local businesses?
+
+ChatGPT, Perplexity, Google's AI Overviews and AI Mode, Gemini, Copilot and Claude all say they can draw on the live web and show links or citations, with conditions that vary by plan and setting. Of the platform pages read on 2026-10-24, only Google's describe a listing a business can claim: its Business Profile. The others describe no way for a business to add or claim a listing. No platform is ranked here.
+
+Full answer: https://ascentvision.org/answers/how-chatgpt-perplexity-gemini-and-google-ai-find-local-businesses/
+Sources: https://learn.chatgpt.com/docs/web-search ; https://developers.openai.com/plugins/guides/local-services-request-quote-conversion-spec ; https://developers.openai.com/chatgpt ; https://www.perplexity.ai/help-center/en/articles/10352895-how-does-perplexity-work ; https://www.perplexity.ai/help-center/en/articles/10352155-what-is-perplexity ; https://www.perplexity.ai/help-center/en/articles/20260806-understanding-source-labels ; https://support.google.com/websearch/answer/14901683?hl=en ; https://support.google.com/websearch/answer/16011537?hl=en ; https://support.google.com/websearch/answer/17104441?hl=en ; https://developers.google.com/search/docs/appearance/ai-features ; https://support.google.com/business/answer/2911778?hl=en ; https://support.google.com/business/answer/7690269?hl=en ; https://support.google.com/gemini/answer/13695044?hl=en ; https://support.google.com/gemini/answer/14143489?hl=en ; https://support.google.com/gemini/answer/14579631?hl=en ; https://support.google.com/business/answer/17142585?hl=en ; https://support.microsoft.com/en-us/microsoft-copilot/privacy-faq-for-microsoft-copilot ; https://support.microsoft.com/en-us/microsoft-365-copilot/how-web-search-works-in-microsoft-365-copilot-chat-and-agents ; https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-microsoft-copilot-app ; https://support.claude.com/en/articles/10684626-enable-and-use-web-search ; https://support.claude.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on ; https://support.claude.com/en/articles/10684638-report-block-and-remove-content-from-claude ; https://support.claude.com/en/articles/13641943-visual-and-interactive-content
+
+### Is radio, TV or billboard advertising worth it for a service business?
+
+Sometimes. Radio, TV and billboard ads can reach a whole area at once, so they can suit a service business with a wide service area, a service most households need sooner or later, and room for more work. They are hard to trace, because many people who hear or see them get in touch days later, often by searching your name. Give the ad its own phone number or short web address, ask every new customer how they heard of you, and judge the run by jobs won.
+
+Full answer: https://ascentvision.org/answers/is-radio-tv-or-billboard-advertising-worth-it/
+Sources: https://www.sba.gov/counseling/manage-your-business/
+
+### Should a local business pay influencers, and what do they have to disclose?
+
+Paying a local creator can make sense when a creator's followers are mostly people in your area who could hire you. The Federal Trade Commission's Endorsement Guides, its interpretation of the laws it enforces, say a payment, a free or discounted service or another benefit can be a connection that must be disclosed clearly and conspicuously when it could materially affect how much weight followers give the post and they would not expect it. They say the business can be liable too. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/should-you-pay-influencers-to-promote-your-business/
+Sources: https://www.law.cornell.edu/cfr/text/16/255.0 ; https://www.law.cornell.edu/cfr/text/16/255.1 ; https://www.law.cornell.edu/cfr/text/16/255.5
+
+### What should a simple marketing plan for a service business include?
+
+A simple marketing plan for a service business fits on one page. It names the customers you want and the area you serve, why they should choose you, the few channels you will use and what each should bring in, what you will spend, who does the work, and the date you check the results. Most of these match sections the U.S. Small Business Administration suggests, and it says a marketing plan should be maintained at least once a year.
+
+Full answer: https://ascentvision.org/answers/what-should-a-small-business-marketing-plan-include/
+Sources: https://www.sba.gov/counseling/manage-your-business/
+
+### How should a small business decide how much to spend on marketing?
+
+Set the budget from your own numbers. Work out what a new customer is worth and how much of that you would spend to win one, then how many new jobs you want and how many inquiries that takes. Put most of the money into channels your records show bring jobs at that cost, keep a smaller fixed amount to test one new channel with an end date, count your own hours as well as money, and adjust after each review.
+
+Full answer: https://ascentvision.org/answers/how-much-should-a-small-business-spend-on-marketing/
+Sources: https://www.sba.gov/counseling/manage-your-business/
+
+### Why did my Google or Facebook ads stop working?
+
+First work out which problem you have. If the ads stopped running, the cause is usually in the ad account: Google's help pages list a paused, ended or removed ad, a disapproved ad, a budget that limits the campaign, and missing or invalid billing information among the reasons. If the ads still run but stopped bringing inquiries, look at what happens after the click: the page, the form, the phone, your reply time, the season and competitors. Hold off on raising the budget until you know which.
+
+Full answer: https://ascentvision.org/answers/why-did-my-google-or-facebook-ads-stop-working/
+Sources: https://support.google.com/google-ads/answer/7378077 ; https://support.google.com/google-ads/answer/1722129
+
+## Calculators
+
+### Marketing ROI calculator
+
+This calculator turns five numbers you already have (what you spent on marketing in a period, the inquiries it brought, the share you won, your average job value and your margin) into cost per inquiry, cost per customer, gross and net return, margin earned per dollar spent and the close rate at which the spend breaks even. It is arithmetic on your own numbers, not a forecast, and the numbers you type are not stored or sent anywhere.
+
+Calculator: https://ascentvision.org/tools/marketing-roi-calculator/
+
+### Customer lifetime value calculator
+
+This calculator works out what a typical customer is worth over the time they stay with you: average sale times purchases a year times years, with your margin applied and, if you want, one round of referrals. From that it gives the most you can spend to win one customer at a target return you choose, and what that allows per inquiry at your close rate. It is arithmetic on your own numbers, not a forecast, and the numbers you type are not stored or sent anywhere.
+
+Calculator: https://ascentvision.org/tools/customer-lifetime-value-calculator/
+
+### How many inquiries do you need? A calculator
+
+This calculator works backwards from a monthly goal. A revenue goal divided by your average job value gives the jobs you need; dividing by your close rate gives the appointments or quotes that must happen; dividing by your show rate gives the inquiries you need each month and each week. Add the inquiries each channel brings today and it shows the gap. It is arithmetic on your own numbers, not a forecast, and the numbers you type are not stored or sent anywhere.
+
+Calculator: https://ascentvision.org/tools/how-many-inquiries-do-you-need/
+Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads ; https://www.smartcompany.com.au/marketing/20110704-are-you-letting-online-leads-go-cold/
 
 ## Questions and answers
 

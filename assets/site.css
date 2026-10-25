@@ -298,3 +298,35 @@ p { margin: 0 0 1em; }
 /* Without JavaScript every step shows at once, separated by a rule. */
 html:not(.js) .astep { padding-top: 24px; border-top: 1px solid var(--line); }
 html:not(.js) .achip kbd { display: none; }
+
+/* ---- glossary ------------------------------------------------------------------------------------------------- */
+.glossary__index { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; padding: 0; margin: 0 0 12px; }
+.glossary__index a { display: inline-block; min-width: 36px; padding: 6px 8px; text-align: center; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; font-weight: 650; }
+.glossary__index a:hover { border-color: var(--accent); }
+.glossary__group { margin-bottom: 28px; scroll-margin-top: 80px; }
+.glossary__group h2 { font-size: 1.25rem; margin: 0 0 4px; padding-bottom: 4px; border-bottom: 2px solid var(--ink); }
+.glossary__group dl { margin: 0; }
+.glossary__entry { padding: 12px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 80px; }
+.glossary__entry dt { font-weight: 700; }
+.glossary__entry dd { margin: 4px 0 0; color: var(--ink-2); }
+.glossary__more { margin: 6px 0 0; font-size: 0.95rem; }
+/* ---- calculators under /tools/ ---- */
+.calc { margin: 24px 0 8px; padding: 22px 24px; background: #fff; border: 1px solid var(--line); border-radius: 12px; }
+.calc h2 { margin-top: 0; }
+.calc h3 { font-size: 1.05rem; margin: 18px 0 10px; }
+.calc__fields { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+.calc__fields .field input, .calc__fields .field select { width: 100%; padding: 10px 12px; border: 1.5px solid var(--line); border-radius: 8px; background: #fff; font: inherit; color: inherit; }
+.calc__fields .field select:focus { border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px rgba(31, 91, 216, 0.18); }
+.calc__fields .field > span { font-size: 0.9rem; }
+.calc__channels { grid-column: 1 / -1; border: 0; padding: 0; margin: 4px 0 0; }
+.calc__channels legend { font-weight: 700; margin-bottom: 10px; }
+.calc__channels legend em { font-weight: 400; color: var(--muted); font-style: normal; }
+.calc__out { display: grid; gap: 10px 16px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 0 0 8px; }
+.calc__out div { padding: 10px 12px; background: var(--paper-2); border-radius: 8px; }
+.calc__out dt { font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.calc__out dd { margin: 2px 0 0; font-size: 1.2rem; font-weight: 750; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.calc.is-invalid .calc__out { opacity: 0.45; }
+.calc .form__error:empty { display: none; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.only-nojs { display: none; }
+html:not(.js) .only-nojs { display: block; }
