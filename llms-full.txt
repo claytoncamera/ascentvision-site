@@ -76,6 +76,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for a Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
+- [Do You Pay to Be Listed for Voice Search? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-pay-to-be-listed-for-voice-search/): No. Several listings Gemini, Siri and Alexa draw on are free to claim. What each maker says, what a voice search registration sells and how to check one.
 - [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules vary by state and by use. What the SBA says, what Utah's code requires of AI that talks with customers, and a plain way to tell them.
 - [Do You Need a Logo Before a Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/): A new website needs a clear name, one or two colors and real photos at the start. A logo can usually wait, and a plain-text stand-in works until then.
 - [Website or Just Social Media? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/): Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.
@@ -197,6 +198,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Have a Referral Program? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-referral-program/): A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.
 - [Hire a Marketing Employee or an Agency? | Ascent Vision](https://ascentvision.org/answers/should-you-hire-a-marketing-employee-or-an-agency/): A marketing employee, a part-time fractional lead or an agency: what each suits, who manages them, and why your accounts stay in your name either way.
 - [Should You Offer Free Estimates? | Ascent Vision](https://ascentvision.org/answers/should-you-offer-free-estimates/): Free estimates can bring more inquiries but cost time on poor fits. The trade-offs, two common alternatives, and how to state your policy on your site.
+- [Should You Pay for Links to Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-pay-for-links-to-your-website/): No. Google treats buying links to lift rankings as link spam. What its policy says, when a paid link is fine, and how to read a link-package pitch.
 - [Paying Local Influencers: What to Disclose | Ascent Vision](https://ascentvision.org/answers/should-you-pay-influencers-to-promote-your-business/): When a local creator can suit a service business, what the FTC's Endorsement Guides say about paid or free posts, and how to track what a post brings.
 - [Keywords or a City in Your Business Name? | Ascent Vision](https://ascentvision.org/answers/should-you-put-keywords-in-your-business-name/): Google's guidelines say your profile name should be your real-world name, and extra words can lead to suspension. What that means for a service business.
 - [Should You Put Prices on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-put-prices-on-your-website/): Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.
@@ -207,6 +209,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should Customers Be Able to Book Online? | Ascent Vision](https://ascentvision.org/answers/should-you-use-an-online-booking-tool/): Online booking suits fixed-length visits like consultations, not jobs that need a quote first. When it helps, when it does not and what to check first.
 - [Should You Use Video on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-use-video-on-your-website/): When video helps a service business website, what it can cost in page weight and slow loading, and why videos with speech need captions.
 - [Should Business Email Use Your Own Domain? | Ascent Vision](https://ascentvision.org/answers/should-your-business-email-use-your-own-domain/): Why a service business usually does better with email at its own domain than a free address: customer trust, control when staff leave, mail that stays put.
+- [Should Your Business Have a Wikipedia Page? | Ascent Vision](https://ascentvision.org/answers/should-your-business-have-a-wikipedia-page/): Usually not. What Wikipedia asks of a company, why owners are told not to write their own article, and what paid page-writing offers leave out.
 - [Should Your SEO Agency Serve Competitors? | Ascent Vision](https://ascentvision.org/answers/should-your-seo-agency-work-for-your-competitors/): An agency that also works for your competitors is not always a problem, but ask before you sign. What to ask, and what to get in writing.
 - [Should Your Website Have a Spanish Version? | Ascent Vision](https://ascentvision.org/answers/should-your-website-have-a-spanish-version/): When a Spanish version of a business website is worth it, what Census data on home languages shows, and why unchecked machine translation can backfire.
 - [Should Your Site Show License and Insurance? | Ascent Vision](https://ascentvision.org/answers/should-your-website-show-your-license-and-insurance/): How customers check a license with the state, what Florida's law says about license numbers in contractor ads, and how to mention insurance honestly.
@@ -221,6 +224,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
 - [What Does a Marketing Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-marketing-agency-do/): The common kinds of marketing agency, what each one should hand a small business owner, and how to choose by the problem you actually have.
+- [What Does Google Mean by Helpful Content? | Ascent Vision](https://ascentvision.org/answers/what-does-google-mean-by-helpful-content/): Google's people-first content guide in plain terms: the questions it asks, the warning signs it lists, what E-E-A-T stands for and what owners can take.
 - [What Is a Google Partner Agency? | Ascent Vision](https://ascentvision.org/answers/what-does-google-partner-mean/): A Google Partner badge reflects Google Ads skills and activity. What it takes to earn it, and what it does not tell you about free rankings or AI answers.
 - [What Does Website Maintenance Involve? | Ascent Vision](https://ascentvision.org/answers/what-does-website-maintenance-involve/): The routine jobs that keep a small business website working, safe and current, how often to do each, and who should own them.
 - [What Online Assets Go With a Business Sale? | Ascent Vision](https://ascentvision.org/answers/what-goes-with-your-business-when-you-sell-or-buy-it-online/): Selling or buying a business? The domain, website, Google profile, reviews, ad accounts and phone number each move separately. What to check first.
@@ -244,6 +248,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Sales Pipeline? | Ascent Vision](https://ascentvision.org/answers/what-is-a-sales-pipeline/): A sales pipeline is the set of stages every inquiry passes through, from new to won or lost. The stages for a service business and what they show you.
 - [What Is a Tagged Campaign Link? | Ascent Vision](https://ascentvision.org/answers/what-is-a-tagged-campaign-link/): A tagged campaign link is an ordinary web address with short labels added, so your analytics can show which email, ad or QR code sent each visit.
 - [What Is a Unique Selling Proposition? | Ascent Vision](https://ascentvision.org/answers/what-is-a-unique-selling-proposition/): A plain definition of a unique selling proposition, how a service business finds one in its real jobs, the tests it should pass and where it belongs.
+- [What Is Ask Maps in Google Maps? | Ascent Vision](https://ascentvision.org/answers/what-is-ask-maps/): Ask Maps lets people ask Google Maps detailed questions about places. What Google says it draws on, where it works and what a business owner controls.
 - [What Is Claude? | Ascent Vision](https://ascentvision.org/answers/what-is-claude/): Claude is Anthropic’s AI assistant. What Anthropic says it is, whether it can search the web, and how many U.S. adults use it, according to Pew.
 - [What Is Direct Traffic in Analytics? | Ascent Vision](https://ascentvision.org/answers/what-is-direct-traffic/): In Google Analytics, direct traffic means visits by a saved link or a typed address. What else can land there, and why lead records tell you more.
 - [What Is GEO (Generative Engine Optimization)? | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
@@ -2200,6 +2205,41 @@ Personal trainers and fitness coaches usually get clients online by being found 
 
 Full answer: https://ascentvision.org/answers/how-do-personal-trainers-get-clients-online/
 Sources: https://www.facebook.com/business/instagram/getting-started ; https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance ; https://support.google.com/localservices/answer/6224841
+
+### Should your business have a Wikipedia page?
+
+Usually not, and an owner should not write one. Wikipedia's guideline for companies says a business qualifies only with significant coverage in several reliable, independent sources, and that attention solely from local media does not count. Its conflict-of-interest guideline strongly discourages editing articles about your own business, and anyone paid to edit must disclose who is paying. For most small service businesses, a Google Business Profile usually does more for customers than an encyclopedia entry.
+
+Full answer: https://ascentvision.org/answers/should-your-business-have-a-wikipedia-page/
+Sources: https://en.wikipedia.org/wiki/Wikipedia:Notability_(organizations_and_companies) ; https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest ; https://en.wikipedia.org/wiki/Wikipedia:Paid-contribution_disclosure
+
+### What is Ask Maps in Google Maps, and what does it mean for a local business?
+
+Ask Maps is a conversational feature in Google Maps, built with Google's Gemini models, that answers detailed questions about places with a written reply and a customized map. Google announced it on March 12, 2026, rolling out in the U.S. and India on Android and iOS. Google says it taps into Maps' information about the world, so a business's Maps listing and the reviews customers leave are likely part of what it can say about that business.
+
+Full answer: https://ascentvision.org/answers/what-is-ask-maps/
+Sources: https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/ ; https://support.google.com/maps/answer/16842041?hl=en ; https://support.google.com/business/answer/2721884?hl=en
+
+### Should you pay other websites to link to yours?
+
+No. Google's spam policies treat buying or selling links for ranking purposes as link spam, including exchanging money, goods or services for links, and say sites that break those policies may rank lower or not appear in results at all. Google does accept paid links for advertising and sponsorship when they are marked so they pass no ranking credit. A package of links sold to lift your rankings is the kind of thing Google describes as spam, so it puts your site at risk.
+
+Full answer: https://ascentvision.org/answers/should-you-pay-for-links-to-your-website/
+Sources: https://developers.google.com/search/docs/essentials/spam-policies ; https://developers.google.com/search/docs/fundamentals/do-i-need-seo
+
+### What does Google mean by 'helpful, people-first' content?
+
+Google means content made mainly to help people rather than to rank. Its guide, "Creating helpful, reliable, people-first content", gives owners questions to ask of their own pages: would your audience find it useful if they came to you directly, does it show first-hand expertise, will a reader leave knowing enough to act, and is it clear who wrote it? For a service business, that usually means pages written for customers by people who know the work.
+
+Full answer: https://ascentvision.org/answers/what-does-google-mean-by-helpful-content/
+Sources: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+
+### Do you have to pay to be listed for voice search, and are those offers real?
+
+No. Several of the listings assistants such as Gemini, Siri and Alexa draw on can be claimed free. Google says a Business Profile is free and that Gemini uses public information from Google Maps to find places. Apple calls Apple Business a free service and says place cards appear in Siri. Amazon announced that Alexa+ would search partners such as Yelp and Angi for local home services, and Yelp says it is free to be on Yelp. A paid voice search registration usually sells what an owner can do free.
+
+Full answer: https://ascentvision.org/answers/do-you-have-to-pay-to-be-listed-for-voice-search/
+Sources: https://support.google.com/gemini/answer/16622866?hl=en&co=GENIE.Platform%3DAndroid ; https://business.google.com/us/business-profile/ ; https://support.apple.com/guide/business/intro-to-apple-business-axm7909096bf/web ; https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/ ; https://business.apple.com/grow ; https://www.aboutamazon.com/news/devices/alexa-plus-voice-booking-integrations ; https://business.yelp.com/ ; https://www.ftc.gov/business-guidance/resources/scams-your-small-business-guide-business
 
 ## Calculators
 
