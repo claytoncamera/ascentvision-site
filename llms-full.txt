@@ -50,8 +50,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Are You Paying for Fake Google Ads Clicks? | Ascent Vision](https://ascentvision.org/answers/are-you-paying-for-fake-ad-clicks/): Google says it filters invalid clicks out of your bill and may credit some found later. What counts, how to ask for a review, and why calls are the check.
 - [Best Time to Post or Run Ads | Ascent Vision](https://ascentvision.org/answers/best-time-to-post-or-run-ads/): No single hour works for every business. Post when your own followers are active, run ads when someone can answer, and plan around the season first.
 - [Brand Awareness or Leads: Which Comes First? | Ascent Vision](https://ascentvision.org/answers/brand-awareness-or-leads/): What brand awareness and lead generation mean for a small service business, why most start with traceable leads, and how to tell if awareness pays off.
+- [Branding vs Marketing vs Advertising | Ascent Vision](https://ascentvision.org/answers/branding-marketing-and-advertising-whats-the-difference/): Branding, marketing and advertising on one map for a small service business: what each word means, where a logo fits, and what brings in leads.
 - [Can a Business Stop Bad Reviews? | Ascent Vision](https://ascentvision.org/answers/can-a-business-stop-bad-reviews/): The FTC says contract terms that bar or punish honest reviews are illegal. What a business may still remove, what the law skips and what to do instead.
 - [Can a New Business Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-a-new-business-show-up-in-ai-answers/): A new business can appear in AI answers, but rarely in its first weeks. What slows it down, what an owner controls early on, and what to expect over time.
+- [Can You Run a Giveaway on Social Media? | Ascent Vision](https://ascentvision.org/answers/can-a-service-business-run-a-giveaway-on-social-media/): Running a giveaway or contest on Instagram or Facebook: the promotion rules, no-purchase and state law, disclosure in entrants' posts, and tracking.
 - [Can a Small Business Compete With Big Firms? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
@@ -95,6 +97,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do Yard Signs and Vehicle Wraps Work? | Ascent Vision](https://ascentvision.org/answers/do-yard-signs-and-vehicle-wraps-work/): Yard signs and truck wraps make a name familiar where the work is. What they do well, what they cannot do, how to tell if they bring work, and sign rules.
 - [Do You Pay to Be Listed for Voice Search? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-pay-to-be-listed-for-voice-search/): No. Several listings Gemini, Siri and Alexa draw on are free to claim. What each maker says, what a voice search registration sells and how to check one.
 - [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules vary by state and by use. What the SBA says, what Utah's code requires of AI that talks with customers, and a plain way to tell them.
+- [Do You Need a Cookie Banner on Your Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-cookie-banner-on-your-website/): Whether a small US business website needs a cookie banner: what one is, where the rules come from, what California's privacy law covers, and what to do.
 - [Do You Need a Logo Before a Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/): A new website needs a clear name, one or two colors and real photos at the start. A logo can usually wait, and a plain-text stand-in works until then.
 - [Do You Need a Separate Business Phone Line? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-separate-business-phone-line/): What a separate business line or an internet phone (VoIP) service adds, the trade-offs the FCC lists, and the questions to ask a provider first.
 - [Website or Just Social Media? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-website-if-you-use-social-media/): Social media can bring in work, but a profile is rented space. What a website gives a business that social cannot, and when social alone is enough.
@@ -202,10 +205,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is a Wix or Squarespace Site Bad for Google? | Ascent Vision](https://ascentvision.org/answers/is-a-wix-or-squarespace-site-bad-for-google/): Wix and Squarespace sites can show up on Google. What Google and both builders say, the limits owners hit, and why a rebuild pitched on fear is a red flag.
 - [Is Bark Worth It for a Service Business? | Ascent Vision](https://ascentvision.org/answers/is-bark-worth-it-for-a-service-business/): How Bark's credits work for professionals, what to check before you buy them, and how to judge Bark by the jobs you actually win from it.
 - [Is BBB Accreditation Worth It? | Ascent Vision](https://ascentvision.org/answers/is-bbb-accreditation-worth-it/): What BBB accreditation means under the BBB's own standards, how it differs from a BBB rating, and how to judge it by the inquiries it actually brings.
+- [Is Door-to-Door Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-door-to-door-marketing-worth-it/): When knocking on doors can pay off for a service business, what it really costs, Florida's home solicitation permit and cancel rules, and how to track it.
 - [Is Email Marketing Worth It? | Ascent Vision](https://ascentvision.org/answers/is-email-marketing-worth-it-for-a-service-business/): Email works best for a service business when it goes to past customers and people who asked. Who to email, what to send, how often and the main rules.
 - [Is Jobber or Housecall Pro Worth It? | Ascent Vision](https://ascentvision.org/answers/is-field-service-software-like-jobber-worth-it/): What field service software like Jobber and Housecall Pro says it does, the marketing parts, and what to check before you sign. No ranking or prices.
 - [Is GEO Worth It for a Small Business? | Ascent Vision](https://ascentvision.org/answers/is-geo-worth-it-for-a-small-business/): When GEO is worth it for a small business and when it can wait: customer age, considered versus emergency jobs, and whether AI inquiries already arrive.
 - [Is the GoDaddy Website Builder Good? | Ascent Vision](https://ascentvision.org/answers/is-godaddy-website-builder-good-for-a-service-business/): What GoDaddy says its builders do, how domain and site are kept apart, and what to check about ownership and leaving later. No prices or ranking.
+- [Is Groupon Worth It for a Service Business? | Ascent Vision](https://ascentvision.org/answers/is-groupon-worth-it-for-a-service-business/): How Groupon works for a service business, who a voucher deal can suit, the limits to set first, and why repeat customers are the real test.
 - [Is Houzz Pro Worth It for Contractors? | Ascent Vision](https://ascentvision.org/answers/is-houzz-pro-worth-it/): What Houzz Pro is, how its free plan, paid plans and advertising differ, which trades it tends to suit, and what to check before you sign up.
 - [Is It Legal to Use AI to Call Customers? | Ascent Vision](https://ascentvision.org/answers/is-it-legal-to-use-ai-to-call-customers/): The FCC's 2024 ruling treats AI-generated voices as artificial under the TCPA, so calls need consent. What that means for an owner calling leads.
 - [Is SEO Dead, or Too Late to Start? | Ascent Vision](https://ascentvision.org/answers/is-it-too-late-to-start-seo/): Is SEO dead now that AI answers reply first? Customers still look before they hire. Where a late starter can still win, and how to begin.
@@ -225,6 +230,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Is WordPress Good for a Small Business Site? | Ascent Vision](https://ascentvision.org/answers/is-wordpress-good-for-a-small-business-website/): WordPress.org against WordPress.com, what WordPress gives a small business, the upkeep it asks for, and who it usually suits. Upkeep matters most.
 - [What Is Website Accessibility? | Ascent Vision](https://ascentvision.org/answers/is-your-website-accessible/): Website accessibility means people with disabilities can use your site. What the Justice Department's guidance says, and simple checks any owner can run.
 - [Knowledge Panel or Business Profile? | Ascent Vision](https://ascentvision.org/answers/knowledge-panel-or-business-profile/): Google generates knowledge panels itself; a local business claims its Business Profile. How they differ, who can claim each.
+- [Lead vs Prospect vs Qualified Lead | Ascent Vision](https://ascentvision.org/answers/lead-prospect-and-qualified-lead-whats-the-difference/): Plain definitions of a lead, a prospect and a qualified lead for a service business, plus warm and cold leads and what to ask when a report counts leads.
 - [Local or Toll-Free Number for a Business? | Ascent Vision](https://ascentvision.org/answers/local-number-or-toll-free-number/): A local number often suits a business serving one area; toll-free can suit callers in many states. What FCC rules say toll-free means, and what to avoid.
 - [Local or Remote Marketing Agency? | Ascent Vision](https://ascentvision.org/answers/local-or-remote-marketing-agency/): Whether a small business should hire a marketing agency nearby or one that works remotely, what actually matters more than distance, and what to ask.
 - [Marketing for Seasonal Businesses | Ascent Vision](https://ascentvision.org/answers/marketing-for-seasonal-businesses/): Start before the busy season, stay visible when it is quiet, use the off season for the website and reviews, and compare results season by season.
@@ -287,6 +293,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [The Parts of a Google Results Page | Ascent Vision](https://ascentvision.org/answers/what-are-the-parts-of-a-google-results-page/): A plain map of a Google results page: which parts are paid ads and which are earned, from map results and AI Overviews to the ordinary links.
 - [What Are Vanity Metrics? | Ascent Vision](https://ascentvision.org/answers/what-are-vanity-metrics/): Vanity metrics such as followers, likes and raw visits look good but do not show whether customers came. Here is what each one hides and what to watch.
 - [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
+- [What Can You Claim in Your Ads? | Ascent Vision](https://ascentvision.org/answers/what-claims-can-a-service-business-make-in-its-ads/): The FTC's ad basics for a small service business: proof before an ad runs, 'number one' and price claims, guarantees, free offers and naming competitors.
 - [What Counts as a Google Ads Conversion? | Ascent Vision](https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/): A Google Ads conversion is whatever action the account is set to count, such as a call or form. Why that is not your customer count, and what to ask.
 - [CAC, ROI and ROAS Explained for Owners | Ascent Vision](https://ascentvision.org/answers/what-do-cac-roi-and-roas-mean/): Customer acquisition cost, ROI and ROAS in plain words, with one worked example, why ROAS can look good while you lose money, and what to ask.
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
@@ -396,6 +403,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
 - [Why Does Yelp Hide Some Reviews? | Ascent Vision](https://ascentvision.org/answers/why-does-yelp-hide-some-reviews/): Yelp's automated software picks which reviews it recommends. Why some are hidden, where they go, and why Yelp, unlike Google, says not to ask for reviews.
 - [Why Customers See Different Google Results | Ascent Vision](https://ascentvision.org/answers/why-google-results-look-different-for-you-and-your-customers/): Location, device, history and settings change what Google shows, so a search from your own phone proves little. How to see results as a customer does.
+- [Why Has My Small Business Stopped Growing? | Ascent Vision](https://ascentvision.org/answers/why-has-my-small-business-stopped-growing/): A plain diagnosis for a service business that has stalled: flat inquiries, leads that do not become jobs, a full calendar, or fading repeat work.
 - [Why Isn't My Business Showing Up on Google? | Ascent Vision](https://ascentvision.org/answers/why-is-my-business-not-showing-up-on-google/): The usual reasons a business does not appear on Google, in the order an owner can check them, plus what to fix this month and what not to pay for.
 - [Why Your Contact Form Is Not Sending Emails | Ascent Vision](https://ascentvision.org/answers/why-is-my-website-contact-form-not-sending-emails/): The owner's test for a contact form that has gone quiet, the usual causes you can check yourself, and a backup so no inquiry is lost meanwhile.
 - [Why Is My Website Down? What to Check First | Ascent Vision](https://ascentvision.org/answers/why-is-my-website-down/): The owner's order of checks when a business website will not load: you or everyone, the domain, the hosting, a recent change, a hack, an outage.
@@ -3000,6 +3008,59 @@ It can be a fair start. Wix and Squarespace say their AI tools draft a site's co
 
 Full answer: https://ascentvision.org/answers/are-ai-website-builders-good-enough-for-a-service-business/
 Sources: https://support.wix.com/en/article/wix-editor-creating-an-ai-generated-site ; https://support.squarespace.com/hc/en-us/articles/16282290976013-Using-Squarespace-AI ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
+
+### Is Groupon worth it for a service business?
+
+It can be, for a service business with slow days to fill and a first visit that can lead to repeat work. Groupon sells your offer as a prepaid voucher. Its merchant FAQ says there is no upfront fee, and that Groupon pays you the revenue minus a commission after each voucher is redeemed, at a rate agreed before launch. Cap how many vouchers sell, record every voucher customer as a lead, and judge it by who comes back at your normal price.
+
+Full answer: https://ascentvision.org/answers/is-groupon-worth-it-for-a-service-business/
+Sources: https://www.groupon.com/merchant/frequently-asked-questions
+
+### What is the difference between a lead, a prospect and a qualified lead?
+
+In a small service business, a lead is anyone who has got in touch or asked about a service: a call, a form or a message. A prospect is a lead you have replied to who could still hire you. A qualified lead is one you have checked against a few questions, such as the service, the area and the timing, and found to be a good fit. The words matter most when an agency or lead seller reports leads: ask what it counted.
+
+Full answer: https://ascentvision.org/answers/lead-prospect-and-qualified-lead-whats-the-difference/
+
+### What is the difference between branding, marketing and advertising?
+
+Branding is what people think and feel about your business, and the name, look, voice and service that shape it. Marketing is everything that helps customers find you and choose you, from your website and reviews to referrals and follow-up. Advertising is the paid part of marketing, where you pay for space or attention. For a small service business, branding supports the other two, but it is rarely a source of leads by itself.
+
+Full answer: https://ascentvision.org/answers/branding-marketing-and-advertising-whats-the-difference/
+
+### Is door-to-door marketing worth it for a service business, and what rules apply?
+
+It can be, when the work is tied to a street: storm repairs, a job the neighbors can see, or a seasonal service most homes need. It usually costs people's time more than money, so judge it by jobs won per hour at the door. Rules apply: Florida, for example, requires a home solicitation sale permit from the county clerk of court for many sales made at the door, and gives buyers three business days to cancel. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/is-door-to-door-marketing-worth-it/
+Sources: https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.022.html ; https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.021.html ; https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.025.html
+
+### What can you claim in your ads: 'best', 'guaranteed', 'lowest price', or naming a competitor?
+
+Anything truthful that you can back up before the ad runs, with nothing misleading left out. The FTC says ads must be truthful and not deceptive, and advertisers must have evidence for their claims. Its guide says opinions people can judge for themselves draw less attention than claims they would have trouble checking. An ad that mentions a guarantee must make its conditions clear, and naming a competitor is legal when the comparison is truthful. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/what-claims-can-a-service-business-make-in-its-ads/
+Sources: https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business ; https://www.ecfr.gov/current/title-16/chapter-I/subchapter-A/part-14/section-14.15
+
+### Why has my small business stopped growing?
+
+Usually one of four things has changed, and your own records can show which. Fewer people are finding you, so inquiries are flat. Inquiries still arrive but fewer become jobs, often because replies are slow or quotes go quiet. You are already at capacity, so more leads would not help. Or repeat and referral work is thinning. Check a year of inquiries and jobs against each in turn, and fix the one that moved.
+
+Full answer: https://ascentvision.org/answers/why-has-my-small-business-stopped-growing/
+
+### Can a service business run a giveaway or contest on Facebook or Instagram, and what rules apply?
+
+Yes, within the rules. Instagram's promotion guidelines make the business responsible for running a promotion lawfully, with official rules, eligibility terms and a statement that Instagram does not sponsor it. The FTC says sweepstakes that require a purchase are illegal in the United States, and state laws vary. If entrants post to enter, the FTC suggests a hashtag with the word contest or sweepstakes in it. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-a-service-business-run-a-giveaway-on-social-media/
+Sources: https://help.instagram.com/179379842258600 ; https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business ; https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0849/Sections/0849.094.html ; https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking
+
+### Does a small business website in the US need a cookie banner?
+
+It depends on what the site collects and who visits. Much of the push for cookie banners comes from rules outside the US: the UK's privacy regulator says sites must get clear consent before setting cookies that are not essential. In the US, California's privacy law, as its Attorney General describes it, applies to for-profit businesses that meet a revenue or data test, which many small local businesses may not. A short, honest privacy policy matters either way. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/do-you-need-a-cookie-banner-on-your-website/
+Sources: https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/cookies-and-similar-technologies/ ; https://oag.ca.gov/privacy/ccpa ; https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business
 
 ## Calculators
 
