@@ -50,6 +50,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Best Time to Post or Run Ads | Ascent Vision](https://ascentvision.org/answers/best-time-to-post-or-run-ads/): No single hour works for every business. Post when your own followers are active, run ads when someone can answer, and plan around the season first.
 - [Brand Awareness or Leads: Which Comes First? | Ascent Vision](https://ascentvision.org/answers/brand-awareness-or-leads/): What brand awareness and lead generation mean for a small service business, why most start with traceable leads, and how to tell if awareness pays off.
 - [Can a Business Stop Bad Reviews? | Ascent Vision](https://ascentvision.org/answers/can-a-business-stop-bad-reviews/): The FTC says contract terms that bar or punish honest reviews are illegal. What a business may still remove, what the law skips and what to do instead.
+- [Can a New Business Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-a-new-business-show-up-in-ai-answers/): A new business can appear in AI answers, but rarely in its first weeks. What slows it down, what an owner controls early on, and what to expect over time.
 - [Can a Small Business Compete With Big Firms? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
@@ -88,6 +89,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do Door Hangers and Direct Mail Still Work? | Ascent Vision](https://ascentvision.org/answers/do-door-hangers-flyers-and-direct-mail-work/): When printed mail and door hangers can suit a service business, what the Postal Service's Every Door Direct Mail offers, and how to judge each drop.
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
 - [Do Online Reviews Matter for Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
+- [Do Reviews Affect What AI Says About You? | Ascent Vision](https://ascentvision.org/answers/do-reviews-affect-what-ai-says-about-your-business/): Review themes can shape the AI summaries customers read about a business. What Google builds from reviews, and why fixing a repeated complaint matters.
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
 - [Do You Pay to Be Listed for Voice Search? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-pay-to-be-listed-for-voice-search/): No. Several listings Gemini, Siri and Alexa draw on are free to claim. What each maker says, what a voice search registration sells and how to check one.
 - [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules vary by state and by use. What the SBA says, what Utah's code requires of AI that talks with customers, and a plain way to tell them.
@@ -242,11 +244,13 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should You Buy Leads From Angi or Thumbtack? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-leads-from-lead-sites/): Lead sites can bring work, but leads are often shared. How to judge Angi or Thumbtack by jobs won, ask for credits and keep the customer as your own.
 - [Should You Call or Email a New Lead First? | Ascent Vision](https://ascentvision.org/answers/should-you-call-or-email-a-new-lead-first/): Reply on the channel the person used, or the one they asked for. When a call helps, consent for calls and texts, and pairing voicemail with email.
 - [Should You Delete Your Google Profile? | Ascent Vision](https://ascentvision.org/answers/should-you-delete-your-google-business-profile/): Removing a Google Business Profile can leave the listing and its reviews up. What removal does, when it fits, and the better fix for each usual reason.
+- [Should You Have a Page for Every Town? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-page-for-every-town-you-serve/): Usually not near-identical ones. Google's spam policies list city pages that funnel visitors to one page as doorway abuse. How to read a town-page pitch.
 - [Should You Have a Referral Program? | Ascent Vision](https://ascentvision.org/answers/should-you-have-a-referral-program/): A referral program helps when happy customers already talk about you. How to keep it simple, thank people well and handle rewards mentioned in public.
 - [Hire a Marketing Employee or an Agency? | Ascent Vision](https://ascentvision.org/answers/should-you-hire-a-marketing-employee-or-an-agency/): A marketing employee, a part-time fractional lead or an agency: what each suits, who manages them, and why your accounts stay in your name either way.
 - [Should You Offer Free Estimates? | Ascent Vision](https://ascentvision.org/answers/should-you-offer-free-estimates/): Free estimates can bring more inquiries but cost time on poor fits. The trade-offs, two common alternatives, and how to state your policy on your site.
 - [Should You Pay for Links to Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-pay-for-links-to-your-website/): No. Google treats buying links to lift rankings as link spam. What its policy says, when a paid link is fine, and how to read a link-package pitch.
 - [Paying Local Influencers: What to Disclose | Ascent Vision](https://ascentvision.org/answers/should-you-pay-influencers-to-promote-your-business/): When a local creator can suit a service business, what the FTC's Endorsement Guides say about paid or free posts, and how to track what a post brings.
+- [Should You Post on Reddit for AI Answers? | Ascent Vision](https://ascentvision.org/answers/should-you-post-on-reddit-to-show-up-in-ai-answers/): Google and OpenAI have Reddit data deals, but Reddit's rules and the FTC both draw lines on hidden promotion. What an owner should know before posting.
 - [Keywords or a City in Your Business Name? | Ascent Vision](https://ascentvision.org/answers/should-you-put-keywords-in-your-business-name/): Google's guidelines say your profile name should be your real-world name, and extra words can lead to suspension. What that means for a service business.
 - [Should You Put Prices on Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-put-prices-on-your-website/): Prices can screen out poor-fit inquiries, but complex jobs are hard to price up front. The trade-offs, and a middle ground most service businesses can use.
 - [Should You Send Customers a Thank-You Note? | Ascent Vision](https://ascentvision.org/answers/should-you-send-customers-a-thank-you-note/): Why a short thank-you after the job is worth sending, whether to use a card, text or email, what to say in two lines, and when the email rules apply.
@@ -274,6 +278,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Are Google's AI Overviews and AI Mode? | Ascent Vision](https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/): What Google's AI Overviews and AI Mode are, how they differ, what Pew found about clicks, and what both mean for a small service business.
 - [What Are Google Local Services Ads? | Ascent Vision](https://ascentvision.org/answers/what-are-google-local-services-ads/): Google Local Services Ads charge for leads such as calls and messages. How they work, the screening checks, credits for poor leads and how to judge them.
 - [What Are Retargeting Ads? Are They Worth It? | Ascent Vision](https://ascentvision.org/answers/what-are-retargeting-ads/): Retargeting shows ads to people who already visited your site or engaged with you. How Google and Meta describe it, the rules, and when it can pay off.
+- [The Parts of a Google Results Page | Ascent Vision](https://ascentvision.org/answers/what-are-the-parts-of-a-google-results-page/): A plain map of a Google results page: which parts are paid ads and which are earned, from map results and AI Overviews to the ordinary links.
 - [What Are Vanity Metrics? | Ascent Vision](https://ascentvision.org/answers/what-are-vanity-metrics/): Vanity metrics such as followers, likes and raw visits look good but do not show whether customers came. Here is what each one hides and what to watch.
 - [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
 - [What Counts as a Google Ads Conversion? | Ascent Vision](https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/): A Google Ads conversion is whatever action the account is set to count, such as a call or form. Why that is not your customer count, and what to ask.
@@ -300,6 +305,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Favicon? | Ascent Vision](https://ascentvision.org/answers/what-is-a-favicon/): The small icon in a browser tab and beside your site's name on Google: what it is, what Google asks of it, how it fits your logo, and when to check it.
 - [What Is a Good Cost Per Lead? | Ascent Vision](https://ascentvision.org/answers/what-is-a-good-cost-per-lead/): No outside average fits every trade. Work out the most a lead is worth to you from your close rate and a typical job, then judge ads by jobs won.
 - [What Is a Google Business Profile? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-business-profile/): A Google Business Profile is the free listing that shows a business on Google Search and Maps: what it is, who it suits, and what the owner controls.
+- [What Is a Google Core Update? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-core-update/): Google's core updates are broad changes made several times a year. Why a drop after one is usually not a penalty, and what an owner should do first.
 - [What Is a Google Local Guide? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-local-guide/): Local Guides earn points for Google Maps reviews and photos, and a badge at Level 4. What the badge means, and why it changes nothing about your reply.
 - [What Is a Landing Page? | Ascent Vision](https://ascentvision.org/answers/what-is-a-landing-page/): A landing page is a single page built for one campaign, ad or flyer, with one offer and one next step. When it helps, and when the homepage is enough.
 - [What Is a Large Language Model (LLM)? | Ascent Vision](https://ascentvision.org/answers/what-is-a-large-language-model/): A large language model is software trained on huge amounts of text to predict likely next words. Why that makes AI answers sound sure, vary and slip up.
@@ -389,6 +395,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Is Your Website Slow? Does It Matter? | Ascent Vision](https://ascentvision.org/answers/why-is-your-website-slow/): A slow website usually has causes an owner can see: heavy photos, too many add-ons or a small plan. Why speed matters, a quick check and what to ask.
 - [Why Was My Google Profile Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-my-google-business-profile-suspended/): Google suspends profiles that break its guidelines. Common rule breaks, profile versus account restrictions, and how the one-time appeal works.
 - [Why Was Your Ad Account Suspended? | Ascent Vision](https://ascentvision.org/answers/why-was-your-ad-account-suspended/): The reasons Google and Meta give for suspending or restricting an ad account, how each appeal works, what to gather first, and how to lower the risk.
+- [Why Facebook Unpublished Your Business Page | Ascent Vision](https://ascentvision.org/answers/why-was-your-facebook-business-page-restricted/): Why Meta takes down or limits a Facebook business Page, how to appeal from the Page, and what an unpublished Page loses, from messages to running ads.
 - [Will a New Website or Domain Hurt Rankings? | Ascent Vision](https://ascentvision.org/answers/will-a-new-website-or-domain-hurt-your-google-results/): A rebuild or a new domain can cause a dip on Google for a while. What owners can expect, what to keep, and what to insist the builder takes care of.
 - [Will AI Call Businesses for Customers? | Ascent Vision](https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/): Google Search can already use AI to phone local businesses about prices and availability for a customer. What the calls are and how an owner can respond.
 - [Will AI Replace Google Search? | Ascent Vision](https://ascentvision.org/answers/will-ai-replace-google-search/): No one can say. Google puts AI answers inside Search, and Pew found many U.S. adults read AI summaries and use chatbots to look things up.
@@ -2629,7 +2636,7 @@ Sources: https://support.google.com/business/answer/3038177 ; https://support.go
 Usually not. Google's guidelines say a business that travels to customers should hide its address, and they do not accept remote mailboxes or virtual offices as a profile address. A home-based business can show the towns it serves and say it works by appointment. The FTC's position is that commercial email needs a valid postal address, which can be a registered mailbox. This is a plain summary, not legal advice.
 
 Full answer: https://ascentvision.org/answers/should-a-home-based-business-show-its-address-online/
-Sources: https://support.google.com/business/answer/3038177 ; https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business ; https://www.facebook.com/help/197254963682414
+Sources: https://support.google.com/business/answer/3038177 ; https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business ; https://www.facebook.com/help/197254963682414 ; https://support.google.com/business/answer/2853879 ; https://support.google.com/business/answer/9157481
 
 ### What is an AI agent, and should a small business use one?
 
@@ -2866,6 +2873,55 @@ You can design one there, but a logo built from Canva's templates or stock eleme
 
 Full answer: https://ascentvision.org/answers/can-you-make-your-business-logo-in-canva/
 Sources: https://www.canva.com/policies/content-license-agreement/ ; https://www.uspto.gov/trademarks/basics/what-trademark
+
+### What are the different parts of a Google results page?
+
+A Google results page mixes paid and earned parts. Ads are paid and labeled, and Google says it shows none for most searches. Map results, AI Overviews and the ordinary text results are earned: Google says no one can buy better placement in its unpaid results, and that there is no way to pay for a better local ranking. Which parts appear, and how they look, varies by search, device and place.
+
+Full answer: https://ascentvision.org/answers/what-are-the-parts-of-a-google-results-page/
+Sources: https://www.google.com/search/howsearchworks/our-approach/ads-on-search/ ; https://support.google.com/business/answer/7091 ; https://developers.google.com/search/docs/appearance/ai-features ; https://developers.google.com/search/docs/appearance/visual-elements-gallery ; https://www.google.com/search/howsearchworks/
+
+### What is a Google core update, and what should an owner do after one?
+
+A core update is a broad change Google makes to its search systems several times a year, announced on its list of ranking updates. Google says core updates don't target specific sites or pages, so a drop afterward is usually not a penalty: other pages may simply have moved up. For an owner, a sensible first step is to check inquiries rather than rankings, and to wait for the update to finish before changing anything.
+
+Full answer: https://ascentvision.org/answers/what-is-a-google-core-update/
+Sources: https://developers.google.com/search/docs/appearance/core-updates ; https://developers.google.com/search/docs/essentials/spam-policies
+
+### Should my website have a separate page for every town I serve?
+
+Usually not, if the pages would say the same thing with the town name swapped. Google's spam policies list pages targeted at specific regions or cities that funnel visitors to one page as an example of doorway abuse, and say sites that violate its policies may rank lower or not appear at all. A pitch for dozens of near-identical town pages is a warning sign, not a plan.
+
+Full answer: https://ascentvision.org/answers/should-you-have-a-page-for-every-town-you-serve/
+Sources: https://developers.google.com/search/docs/essentials/spam-policies
+
+### Do online reviews affect what AI assistants say about your business?
+
+They can. Google says it can use the words and phrases that repeat across a business's reviews to show its main themes on Maps, and in BrightLocal's 2026 survey 82% of consumers said they read AI-generated review summaries. A complaint that keeps coming back is the kind of theme a summary can carry, whatever the star average. The lasting fix is to fix its cause, then keep asking every customer for a review, with nothing offered in return.
+
+Full answer: https://ascentvision.org/answers/do-reviews-affect-what-ai-says-about-your-business/
+Sources: https://support.google.com/business/answer/6088158?hl=en ; https://www.brightlocal.com/research/local-consumer-review-survey/
+
+### Can a brand-new business show up in AI answers?
+
+It can, but usually not in the first weeks, and no one can give you a date. An assistant can only describe what it can find, and a new business often leaves a thin trail: a young website, few reviews, few mentions elsewhere. Google says its AI features have no extra requirements beyond normal search. So the first months are for what you control: a clear website, a verified Google profile, real reviews from every customer and a name no one confuses.
+
+Full answer: https://ascentvision.org/answers/can-a-new-business-show-up-in-ai-answers/
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://support.google.com/business/answer/7091?hl=en
+
+### Should you post on Reddit or forums to show up in AI answers?
+
+Only as yourself, and only where you would take part anyway. Google and OpenAI both have data deals with Reddit, which is why owners get pitched Reddit posting. But Reddit's rules ask people to participate authentically and treat repeated self-promotion as a spam risk, and the FTC's guidance says people should disclose their relationship to a company when they post about its products. Fake accounts or hidden promotion can get you banned and draw legal risk. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/should-you-post-on-reddit-to-show-up-in-ai-answers/
+Sources: https://blog.google/company-news/inside-google/company-announcements/expanded-reddit-partnership/ ; https://redditinc.com/news/reddit-and-oai-partner ; https://redditinc.com/policies/reddit-rules ; https://support.reddithelp.com/hc/en-us/articles/360043504051-Spam ; https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking
+
+### Why did Facebook unpublish or limit your business Page, and how do you appeal?
+
+Meta says Pages may be taken down or limited when they do not follow its Community Standards; Pages that publish spam, for example, may be unpublished or deactivated. Reasons it lists include admins without authentic profiles, a misleading Page name and repeated ad policy breaches. If you think it was a mistake, Meta says to go to the Page and click Appeal at the top. Act quickly: an unpublished Page loses messaging, and its running ads are paused.
+
+Full answer: https://ascentvision.org/answers/why-was-your-facebook-business-page-restricted/
+Sources: https://www.facebook.com/help/348805468517220 ; https://www.facebook.com/help/1828705267910362
 
 ## Calculators
 
