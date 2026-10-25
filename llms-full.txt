@@ -311,6 +311,10 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Many Inquiries Do You Need? Calculator | Ascent Vision](https://ascentvision.org/tools/how-many-inquiries-do-you-need/): Turn a monthly revenue or jobs goal, job value, close rate and show rate into the inquiries you need each month and week, and the gap by channel.
 - [Marketing ROI Calculator for Small Business | Ascent Vision](https://ascentvision.org/tools/marketing-roi-calculator/): Enter spend, inquiries, close rate, job value and margin to see cost per inquiry, cost per customer, net return and your break-even close rate.
 
+## Research
+
+- [96 Florida Service Websites: What They Leave Out | Ascent Vision](https://ascentvision.org/research/florida-service-business-websites-2026/): We read the public home pages of 96 Florida service-business websites. What their first lines, contact options and search results left out, in counts.
+
 ## Services
 
 ### SEO for service businesses
@@ -2177,6 +2181,14 @@ This calculator works backwards from a monthly goal. A revenue goal divided by y
 
 Calculator: https://ascentvision.org/tools/how-many-inquiries-do-you-need/
 Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads ; https://www.smartcompany.com.au/marketing/20110704-are-you-letting-online-leads-go-cold/
+
+## Research
+
+### What 96 Florida service-business websites leave out
+
+On October 24, 2026, Ascent Vision read the public pages of 96 small Florida service-business websites in 10 regions (the home page and up to 6 more pages each). 64 of 96 (67%) did not say, in the first lines of the home page, all three of what the business does, where it works and who it is for; 51 of 96 (53%) left out who it is for and 28 of 96 (29%) left out where. 24 of 96 (25%) offered no way to get in touch on the home page itself, and 32 of 96 (33%) had no tap-to-call phone number on any page read. 29 of 96 (30%) gave search engines and AI assistants no machine-readable summary of the business, and 24 of 96 (25%) had no summary line written for search results.
+
+Full page, with every count and its N: https://ascentvision.org/research/florida-service-business-websites-2026/
 
 ## Questions and answers
 

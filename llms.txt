@@ -310,3 +310,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Customer Lifetime Value Calculator | Ascent Vision](https://ascentvision.org/tools/customer-lifetime-value-calculator/): Average sale, purchases a year, years a customer stays and margin give lifetime value, the most to spend to win a customer and the figure per inquiry.
 - [How Many Inquiries Do You Need? Calculator | Ascent Vision](https://ascentvision.org/tools/how-many-inquiries-do-you-need/): Turn a monthly revenue or jobs goal, job value, close rate and show rate into the inquiries you need each month and week, and the gap by channel.
 - [Marketing ROI Calculator for Small Business | Ascent Vision](https://ascentvision.org/tools/marketing-roi-calculator/): Enter spend, inquiries, close rate, job value and margin to see cost per inquiry, cost per customer, net return and your break-even close rate.
+
+## Research
+
+- [96 Florida Service Websites: What They Leave Out | Ascent Vision](https://ascentvision.org/research/florida-service-business-websites-2026/): We read the public home pages of 96 Florida service-business websites. What their first lines, contact options and search results left out, in counts.

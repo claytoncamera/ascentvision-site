@@ -243,6 +243,9 @@ p { margin: 0 0 1em; }
 .table-wrap th, .table-wrap td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
 .table-wrap thead th { font-weight: 750; border-bottom: 2px solid var(--ink); }
 .table-wrap tbody th { font-weight: 650; white-space: nowrap; }
+.study td.num, .study th.num { white-space: nowrap; text-align: right; }
+.study tbody th[scope="colgroup"] { padding-top: 18px; font-weight: 750; }
+.study caption { caption-side: bottom; text-align: left; padding-top: 8px; }
 .answer-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
 .answer-list a { display: block; padding: 20px 22px; background: #fff; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
 .answer-list a:hover { transform: translateY(-2px); box-shadow: 0 14px 30px -18px rgba(17, 20, 38, 0.35); }
