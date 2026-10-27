@@ -502,10 +502,10 @@ Sources: https://arxiv.org/abs/2311.09735 ; https://www.pewresearch.org/short-re
 
 ### GEO vs SEO: what is the difference, and do you need both?
 
-SEO (search engine optimization) aims to get a business a ranked link on a search results page. GEO (generative engine optimization) aims to get it mentioned or recommended inside an answer written by an AI assistant. They share most of their foundations, but they are measured differently, and a business can do well in one while being absent from the other.
+SEO (search engine optimization) aims to get a business a ranked link on a search results page. GEO (generative engine optimization) aims to get it mentioned inside an answer written by an AI assistant. They share most of their foundations but are measured differently, so a business can do well in one and be absent from the other. Most service businesses are probably better off working on both.
 
 Full answer: https://ascentvision.org/answers/geo-vs-seo/
-Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://arxiv.org/abs/2311.09735
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://developers.google.com/search/docs/fundamentals/ai-optimization-guide ; https://arxiv.org/abs/2311.09735
 
 ### Are AI answers taking clicks away from Google search results?
 
@@ -633,6 +633,7 @@ Sources: https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-tra
 A good monthly marketing report fits on one page and answers four questions: how many inquiries and customers came in, and from which sources; what each source cost; what was done this month and what changed because of it; and what happens next. Traffic and rankings can appear, but only as supporting detail under inquiries and customers.
 
 Full answer: https://ascentvision.org/answers/what-should-a-marketing-report-show/
+Sources: https://www.sba.gov/counseling/manage-your-business/
 
 ### Is SEO worth it for a small business?
 
@@ -656,15 +657,17 @@ Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads ; https://
 
 ### Should a small service business have a blog?
 
-Only if each post answers a question your customers actually ask. A blog of company news and generic tips rarely brings in customers. Clear, useful answers to the questions people ask before they hire you can help them find you and choose you, whatever the section of the site is called.
+Only if each post answers a question your customers actually ask. A blog of company news and generic tips rarely brings in customers. Clear, useful answers to the questions people ask before they hire you can help them find you and choose you, whatever the section of the site is called. A few pages you keep accurate usually beat a long run of posts nobody needed.
 
 Full answer: https://ascentvision.org/answers/should-a-small-business-have-a-blog/
+Sources: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
 
 ### How do you choose a website platform for a small business?
 
 Choose the platform that lets you own your domain and content, edit the basics yourself, load fast on a phone, and leave without losing your site. Brand matters less than those four things. For most small service businesses the right choice is the simplest one that does all four at a cost you can carry for years. If you already have a site, check it against these four before you switch.
 
 Full answer: https://ascentvision.org/answers/how-to-choose-a-website-platform/
+Sources: https://wordpress.com/support/export/
 
 ### What should a small business have in place before starting SEO?
 
@@ -691,6 +694,7 @@ Sources: https://support.google.com/business/answer/3038177
 Often, yes, but not everywhere. A small business usually cannot outspend large companies on broad, national searches. It can compete where it is more specific than they are: a particular service, a particular kind of customer, a particular area, and answers that show real first-hand experience. Choosing that ground is most of the work.
 
 Full answer: https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/
+Sources: https://www.sba.gov/counseling/plan-your-business/ ; https://support.google.com/business/answer/7091
 
 ### How do you work out what a customer is worth to your business?
 
@@ -714,27 +718,31 @@ Sources: https://www.nngroup.com/articles/web-form-design/
 
 ### How do you track leads that come in by phone?
 
-Write down every call that is a new inquiry in the same place as your other leads, with who called, what they wanted, where they heard about you and what happened next. Ask "how did you hear about us?" on every call and write the answer down at the time. For a small business, a consistent habit is a good start. If you record calls, get the caller's consent first.
+Write down every call that is a new inquiry in the same place as your other leads, with who called, what they wanted, where they heard about you and what happened next. Ask "how did you hear about us?" on every call and write the answer down at the time. A consistent habit is a good start for a small business. If you record calls, get the caller's consent first.
 
 Full answer: https://ascentvision.org/answers/how-to-track-phone-call-leads/
+Sources: https://support.google.com/google-ads/answer/6095882
 
 ### How do you tell whether a new lead is a good fit?
 
-A good-fit lead needs what you actually offer, is somewhere you serve, wants it on a timeline you can meet, and expects something you can deliver. A few short questions on the first reply or call will usually tell you, and asking them early saves both sides time.
+A good-fit lead needs what you actually offer, is somewhere you serve, wants it on a timeline you can meet, and expects something you can deliver. A few short questions on the first reply or call will usually tell you, and asking them early saves both sides time. Write the answers next to the lead so the next person who picks it up does not have to ask again.
 
 Full answer: https://ascentvision.org/answers/how-to-qualify-a-lead/
+Sources: https://support.google.com/google-ads/answer/11459091
 
 ### Should a small business use a chatbot on its website?
 
 Only if it helps visitors get in touch faster than your form and phone already do. A chatbot can answer simple questions and take details out of hours, but a bad one gets in the way, gives wrong answers in your name, and loses leads. For many small businesses, a short form and a fast human reply are often enough.
 
 Full answer: https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/
+Sources: https://www.sba.gov/counseling/manage-your-business/ ; https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes
 
 ### What does looking after a small business website involve?
 
 Looking after a small business website means renewing the domain and hosting on time, keeping the software and plugins up to date, checking that forms and phone links work, keeping details such as services and hours current, and keeping a backup. Most checks are quick; skip them and problems can go unnoticed for weeks.
 
 Full answer: https://ascentvision.org/answers/what-does-website-maintenance-involve/
+Sources: https://wordpress.org/documentation/article/updating-wordpress/ ; https://developer.wordpress.org/advanced-administration/security/backup/ ; https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/back-up-business-data
 
 ### How many people use AI assistants like ChatGPT?
 
@@ -799,6 +807,7 @@ Sources: https://support.google.com/contributionpolicy/answer/7400114
 Start with the basics, in order. Know what a customer is worth to you. Make sure every inquiry reaches a person and is recorded with its source. Fix the website basics so visitors can see what you do and how to contact you. Then work on getting found through search, AI answers, referrals and reviews. Finally, check the numbers once a month and adjust.
 
 Full answer: https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/
+Sources: https://www.sba.gov/counseling/manage-your-business/
 
 ### Do you need a website if you already get customers from social media?
 
