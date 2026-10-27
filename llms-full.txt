@@ -443,6 +443,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 ## Research
 
 - [96 Florida Service Websites: What They Leave Out | Ascent Vision](https://ascentvision.org/research/florida-service-business-websites-2026/): We read the public home pages of 96 Florida service-business websites. What their first lines, contact options and search results left out, in counts.
+- [48 Court Builder Websites: What They Leave Out | Ascent Vision](https://ascentvision.org/research/sports-court-builder-websites-2026/): We read the public pages of 48 U.S. sports-court builder and resurfacer websites. What their first lines, contact options and search results left out, in counts.
 
 ## Services
 
@@ -3189,6 +3190,12 @@ Sources: https://hbr.org/2011/03/the-short-life-of-online-sales-leads ; https://
 On October 24, 2026, Ascent Vision read the public pages of 96 small Florida service-business websites in 10 regions (the home page and up to 6 more pages each). 64 of 96 (67%) did not say, in the first lines of the home page, all three of what the business does, where it works and who it is for; 51 of 96 (53%) left out who it is for and 28 of 96 (29%) left out where. 24 of 96 (25%) offered no way to get in touch on the home page itself, and 32 of 96 (33%) had no tap-to-call phone number on any page read. 29 of 96 (30%) gave search engines and AI assistants no machine-readable summary of the business, and 24 of 96 (25%) had no summary line written for search results.
 
 Full page, with every count and its N: https://ascentvision.org/research/florida-service-business-websites-2026/
+
+### What 48 sports-court builder websites leave out
+
+On October 27, 2026, Ascent Vision read the public pages of 48 U.S. sports-court builder and resurfacer websites (pickleball, tennis, basketball and multi-sport courts) in all four U.S. Census regions (the home page and up to 6 more pages each). 36 of 48 (75%) did not say, in the first lines of the home page, all three of what the company builds, where it works and who it builds for; 29 of 48 (60%) left out who it builds for and 19 of 48 (40%) left out where. 13 of 48 (27%) had no inquiry form on any page read, and 10 of 48 (21%) had no tap-to-call phone number. 18 of 48 (38%) gave search engines and AI assistants no machine-readable summary of the company, and 4 of 48 (8%) had no summary line written for search results.
+
+Full page, with every count and its N: https://ascentvision.org/research/sports-court-builder-websites-2026/
 
 ## Questions and answers
 
