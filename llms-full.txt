@@ -82,7 +82,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can Gemini Manage Your Google Profile? | Ascent Vision](https://ascentvision.org/answers/can-you-manage-your-google-business-profile-with-gemini/): Google's help page says Gemini can update hours, draft review replies and summarize feedback. Who can use it, and what to check before you rely on it.
 - [Can You Move a Wix or Squarespace Website? | Ascent Vision](https://ascentvision.org/answers/can-you-move-a-wix-or-squarespace-website/): What Wix and Squarespace say can and cannot leave their platforms, why the domain can usually move when the site cannot, and how to switch safely.
 - [Can You Pay to Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/can-you-pay-to-show-up-in-ai-answers/): Google and OpenAI both sell labeled ads beside AI answers, and both say the ads do not change the answer. What a paid placement buys, and what it cannot.
-- [Can You Put Customer Data Into ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/): Pasting customer details into an AI tool shares them with another company. What the SBA and the FTC say, what never to paste and a one-line staff rule.
+- [Can You Put Customer Data Into ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/): Pasting customer details into an AI tool shares them with another company. What the FTC says, what never to paste and a one-line staff rule.
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Remove or Turn Off Facebook Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/): A Facebook Page can switch recommendations off, which removes its rating and reviews. How the setting works, how to report one and how to ask for more.
 - [Can You Remove Your Business From Yelp? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-your-business-from-yelp/): Yelp says it does not remove business pages on request. What an owner can do instead: correct details, mark a business closed, or hand off the page.
@@ -109,7 +109,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
 - [Do Yard Signs and Vehicle Wraps Work? | Ascent Vision](https://ascentvision.org/answers/do-yard-signs-and-vehicle-wraps-work/): Yard signs and truck wraps make a name familiar where the work is. What they do well, what they cannot do, how to tell if they bring work, and sign rules.
 - [Do You Pay to Be Listed for Voice Search? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-pay-to-be-listed-for-voice-search/): No. Several listings Gemini, Siri and Alexa draw on are free to claim. What each maker says, what a voice search registration sells and how to check one.
-- [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules vary by state and by use. What the SBA says, what Utah's code requires of AI that talks with customers, and a plain way to tell them.
+- [Do You Have to Tell Customers You Use AI? | Ascent Vision](https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/): AI disclosure rules can vary by state and use. What Utah's code requires of AI that talks with customers, why to tell them, and a plain way to do it.
 - [Do You Need a Cookie Banner on Your Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-cookie-banner-on-your-website/): Whether a small US business website needs a cookie banner: what one is, where the rules come from, what California's privacy law covers, and what to do.
 - [Do You Need a Logo Before a Website? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-logo-before-a-website/): A new website needs a clear name, one or two colors and real photos at the start. A logo can usually wait, and a plain-text stand-in works until then.
 - [Does a Business Need a Password Manager? | Ascent Vision](https://ascentvision.org/answers/do-you-need-a-password-manager-for-your-business/): What a password manager does according to CISA, why a shared spreadsheet falls short, who should hold the master login, and what to ask a product.
@@ -332,7 +332,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Steps to Build a Website: Your Part | Ascent Vision](https://ascentvision.org/answers/what-are-the-steps-to-build-a-website/): The steps of a website build in order, from kickoff to the first month after launch, with what the owner supplies, what to approve and what comes back.
 - [What Are Vanity Metrics? | Ascent Vision](https://ascentvision.org/answers/what-are-vanity-metrics/): Vanity metrics such as followers, likes and raw visits look good but do not show whether customers came. Here is what each one hides and what to watch.
 - [What a Small Business Can Automate With AI | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-automate-with-ai/): A plain map of the tasks a small business can hand to AI and automation, such as routing and reminders, and the ones that still need a person's judgment.
-- [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
+- [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with Google's guidance on AI content.
 - [What Can You Claim in Your Ads? | Ascent Vision](https://ascentvision.org/answers/what-claims-can-a-service-business-make-in-its-ads/): The FTC's ad basics for a small service business: proof before an ad runs, 'number one' and price claims, guarantees, free offers and naming competitors.
 - [What Counts as a Google Ads Conversion? | Ascent Vision](https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/): A Google Ads conversion is whatever action the account is set to count, such as a call or form. Why that is not your customer count, and what to ask.
 - [What Decides the Cost of Custom Software? | Ascent Vision](https://ascentvision.org/answers/what-decides-the-cost-of-custom-software/): Custom software costs more or less depending on its scope, users, connections, data and upkeep. See why projects run over and how to keep one on track.
@@ -837,7 +837,7 @@ Sources: https://support.google.com/google-ads/answer/11459091
 Only if it helps visitors get in touch faster than your form and phone already do. A chatbot can answer simple questions and take details out of hours, but a bad one gets in the way, gives wrong answers in your name, and loses leads. For many small businesses, a short form and a fast human reply are often enough.
 
 Full answer: https://ascentvision.org/answers/should-you-use-a-chatbot-on-your-website/
-Sources: https://www.sba.gov/counseling/manage-your-business/ ; https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes
+Sources: https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes
 
 ### What does looking after a small business website involve?
 
@@ -2208,17 +2208,17 @@ Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo
 
 ### Is it safe to put customer information into ChatGPT or another AI tool?
 
-Usually not without care. What you type into an AI chat tool usually goes to the company that runs it, and its terms and settings decide how it is kept and used. The U.S. Small Business Administration advises trying not to feed AI tools sensitive data. As a default, leave out payment, health and account details, and names or contact details unless the task needs them. This is a plain summary, not legal advice.
+Usually not without care. What you type into an AI chat tool usually goes to the company that runs it, and its terms and settings decide how it is kept and used. As a default, leave out payment, health and account details, and names or contact details unless the task needs them. This is a plain summary, not legal advice.
 
 Full answer: https://ascentvision.org/answers/can-you-put-customer-information-into-chatgpt/
-Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+Sources: https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
 
 ### What can a small business safely use AI for in its marketing?
 
-AI is usually safe for drafts, ideas, summaries and tidying your own words, as long as a person checks the result before customers see it. It is risky for facts, prices, claims, review replies and anything holding customer details. Handing it the owner's own conversations with customers is usually not worth it yet. The U.S. Small Business Administration advises starting small and having a person assess every message and outreach campaign that AI generates.
+AI is usually safe for drafts, ideas, summaries and tidying your own words, as long as a person checks the result before customers see it. It is risky for facts, prices, claims, review replies and anything holding customer details. Handing it the owner's own conversations with customers is usually not worth it yet. As general advice, start small, and have a person check every message and campaign AI produces before it goes out.
 
 Full answer: https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/
-Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
+Sources: https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
 
 ### How do ChatGPT, Perplexity, Google's AI answers, Gemini, Copilot and Claude find local businesses?
 
@@ -2267,7 +2267,7 @@ Sources: https://support.google.com/google-ads/answer/7378077 ; https://support.
 No one can say for certain how far AI will change marketing work. AI tools can already help with drafts, summaries and first checks, while knowing the business, checking facts and answering for results usually still need a person. So the useful question for an owner is how an agency uses AI: which parts it hands to a tool, who checks the output, and what it can actually show you.
 
 Full answer: https://ascentvision.org/answers/will-ai-replace-marketing-agencies/
-Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about
+Sources: https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about
 
 ### Can you use AI to write reviews or testimonials for your business?
 
@@ -2278,10 +2278,10 @@ Sources: https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-tra
 
 ### Do you have to tell customers when you use AI to answer or write to them?
 
-It depends on the state and the use. The U.S. Small Business Administration's guide says no federal or state laws currently require businesses to disclose AI use, and that disclosure is becoming an expected best practice. Utah's code, though, requires a supplier whose generative AI interacts with a person in a consumer transaction to say so when the person clearly asks. As general advice, tell customers plainly anyway. This is a plain summary, not legal advice.
+It can depend on the state and the use. Utah's code, for example, requires a supplier whose generative AI interacts with a person in a consumer transaction to say so when the person clearly asks. This answer covers that one rule and does not say what federal law or other states require. As general advice, tell customers plainly anyway. This is a plain summary, not legal advice.
 
 Full answer: https://ascentvision.org/answers/do-you-have-to-tell-customers-you-use-ai/
-Sources: https://www.sba.gov/business-guide/manage-your-business/ai-small-business ; https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S103_2025050720250507.html ; https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S104_2025050720250507.html ; https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/ ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
+Sources: https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S103_2025050720250507.html ; https://le.utah.gov/xcode/Title13/Chapter77/C13-77-S104_2025050720250507.html ; https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/ ; https://developers.google.com/search/docs/fundamentals/using-gen-ai-content
 
 ### What happens to your website, Google profile, phone number and reviews when you sell a business?
 
