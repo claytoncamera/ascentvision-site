@@ -31,12 +31,52 @@
     <description>Questions to put to anyone who offers to build AI for your business: ownership, where your data goes, human review, the off switch, testing and upkeep.</description>
   </item>
   <item>
+    <title>What does it take to keep custom software running after launch?</title>
+    <link>https://ascentvision.org/answers/what-does-it-take-to-keep-custom-software-running/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-does-it-take-to-keep-custom-software-running/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Custom software needs updates, hosting renewals, tested backups, accounts in your name, alerts when it breaks, notes and a written change agreement.</description>
+  </item>
+  <item>
     <title>What can a small business realistically automate with AI?</title>
     <link>https://ascentvision.org/answers/what-can-a-small-business-automate-with-ai/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-can-a-small-business-automate-with-ai/</guid>
     <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>A plain map of the tasks a small business can hand to AI and automation, such as routing and reminders, and the ones that still need a person's judgment.</description>
+  </item>
+  <item>
+    <title>Should a person approve what an AI system sends to customers?</title>
+    <link>https://ascentvision.org/answers/should-a-person-approve-what-ai-sends-to-customers/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/should-a-person-approve-what-ai-sends-to-customers/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Keep a person reviewing AI messages at the start and on anything risky. See when relaxing review is reasonable, what to check first and what to log.</description>
+  </item>
+  <item>
+    <title>How do you tell if a task is worth automating?</title>
+    <link>https://ascentvision.org/answers/how-to-tell-if-a-task-is-worth-automating/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-tell-if-a-task-is-worth-automating/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A six-question test for any task: how often it repeats, how many steps, how fixed they are, what a mistake costs, who approves and how you would notice.</description>
+  </item>
+  <item>
+    <title>How do you stop an AI assistant from making things up?</title>
+    <link>https://ascentvision.org/answers/how-to-stop-an-ai-assistant-from-making-things-up/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-stop-an-ai-assistant-from-making-things-up/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>You cannot make it impossible, but you can reduce it. Owner-level steps: approved facts only, permission to say I don't know, limits, handoff and testing.</description>
+  </item>
+  <item>
+    <title>How do you check a developer's work before paying for more?</title>
+    <link>https://ascentvision.org/answers/how-to-check-a-software-developers-work-before-you-pay-for-more/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-check-a-software-developers-work-before-you-pay-for-more/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Split the project into stages, write plain-words checks first, watch each stage work on your real examples, and know what to do when a stage fails.</description>
   </item>
   <item>
     <title>Should you buy off-the-shelf software or have something built?</title>
