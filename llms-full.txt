@@ -125,6 +125,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Estimate or Quote: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/estimate-or-quote-whats-the-difference/): How the words estimate and quote are usually used, why the written terms matter more than the label, and when a quote can become a binding contract.
 - [Florida Rules for Sales Calls and Texts | Ascent Vision](https://ascentvision.org/answers/florida-rules-for-calling-and-texting-customers/): What Florida's telephone solicitation law and Telemarketing Act say about sales calls and texts: consent, calling hours, stop requests and the state list.
 - [How to Follow Up With a Lead That Goes Quiet | Ascent Vision](https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/): A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.
+- [Freelance Developer or Software Company? | Ascent Vision](https://ascentvision.org/answers/freelance-developer-or-software-company/): A freelance developer and a software company can both build well. Compare cover, who runs the project and handover, and see what to ask either one.
 - [Freelancer or Agency for SEO? | Ascent Vision](https://ascentvision.org/answers/freelancer-or-agency-for-seo/): A fair comparison of freelancers and agencies for SEO and marketing: cost structure, cover, skills, who you talk to, continuity and what to ask.
 - [What Is SEO? GEO vs SEO, Explained | Ascent Vision](https://ascentvision.org/answers/geo-vs-seo/): What SEO is, what GEO is, and how they differ: SEO aims for a ranked link, GEO for a mention inside an AI answer, and why most businesses need both.
 - [Give Someone Access to Your Google Profile | Ascent Vision](https://ascentvision.org/answers/give-someone-access-to-your-google-business-profile/): Add staff or an agency as a manager on your Google Business Profile, keep primary ownership yourself, and remove access cleanly when someone leaves.
@@ -169,6 +170,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Describe Your Services Online | Ascent Vision](https://ascentvision.org/answers/how-to-describe-your-services-on-your-website/): Describe each service in your customers' words: what is included, who it is for, how it works and what happens next, with real examples of past jobs.
 - [How to Find Your Target Customer | Ascent Vision](https://ascentvision.org/answers/how-to-find-your-target-customer/): Work out your target customer from the jobs you already win: area, type of job, urgency and how they find you, checked with the SBA's research questions.
 - [How to Fire a Customer Without a Fight | Ascent Vision](https://ascentvision.org/answers/how-to-fire-a-customer/): When ending work with a customer is the right call, how to do it calmly, a sample message, and what the FTC's review rule means if a bad review follows.
+- [App Store and Google Play: Whose Account? | Ascent Vision](https://ascentvision.org/answers/how-to-get-an-app-into-the-app-store-and-google-play/): The business should usually hold the Apple and Google Play accounts. See what each store asks of an organization and how review affects timing.
 - [How to Get Better-Quality Leads | Ascent Vision](https://ascentvision.org/answers/how-to-get-better-quality-leads/): Why one source sends wrong-fit leads, and the fixes on the source side: who you reach, what you promise, how easy the form is and what you count.
 - [How to Get ChatGPT to Recommend You | Ascent Vision](https://ascentvision.org/answers/how-to-get-chatgpt-to-recommend-your-business/): No one can make ChatGPT name your business. What an owner controls: a plain description, the exact services, mentions elsewhere and current facts.
 - [How to Get Commercial Clients | Ascent Vision](https://ascentvision.org/answers/how-to-get-commercial-clients/): Business buyers often want proof and paperwork before price. How commercial clients differ, where to find them and what government work needs.
@@ -321,6 +323,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with the SBA's and Google's guidance.
 - [What Can You Claim in Your Ads? | Ascent Vision](https://ascentvision.org/answers/what-claims-can-a-service-business-make-in-its-ads/): The FTC's ad basics for a small service business: proof before an ad runs, 'number one' and price claims, guarantees, free offers and naming competitors.
 - [What Counts as a Google Ads Conversion? | Ascent Vision](https://ascentvision.org/answers/what-counts-as-a-conversion-in-google-ads/): A Google Ads conversion is whatever action the account is set to count, such as a call or form. Why that is not your customer count, and what to ask.
+- [What Decides the Cost of Custom Software? | Ascent Vision](https://ascentvision.org/answers/what-decides-the-cost-of-custom-software/): Custom software costs more or less depending on its scope, users, connections, data and upkeep. See why projects run over and how to keep one on track.
 - [CAC, ROI and ROAS Explained for Owners | Ascent Vision](https://ascentvision.org/answers/what-do-cac-roi-and-roas-mean/): Customer acquisition cost, ROI and ROAS in plain words, with one worked example, why ROAS can look good while you lose money, and what to ask.
 - [Organic, Paid and Referral Traffic Explained | Ascent Vision](https://ascentvision.org/answers/what-do-organic-paid-and-referral-traffic-mean/): What Google Analytics means by organic, paid and referral traffic, how those labels line up with the sources of your leads, and where they differ.
 - [What Does a GEO Agency Actually Do? | Ascent Vision](https://ascentvision.org/answers/what-does-a-geo-agency-do/): What a business should get from a GEO agency, what it should not pay for, and how to tell whether the work is doing anything.
@@ -372,9 +375,11 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is Google Gemini? | Ascent Vision](https://ascentvision.org/answers/what-is-google-gemini/): Gemini is Google's AI assistant, first launched as Bard. What Google says it is, how many U.S. adults use it, and what that means for a service business.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
 - [What Is Local SEO? A Plain Explanation | Ascent Vision](https://ascentvision.org/answers/what-is-local-seo/): What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.
+- [What Is Managed IT Support? | Ascent Vision](https://ascentvision.org/answers/what-is-managed-it-support/): Managed IT support means a provider looks after your computers and accounts on an ongoing agreement. See what it usually covers and how to read the terms.
 - [What Is Meta AI? | Ascent Vision](https://ascentvision.org/answers/what-is-meta-ai/): Meta AI is the assistant inside WhatsApp, Instagram, Facebook and Messenger. What Meta says it does, whether it can recommend businesses, and who uses it.
 - [What Is Meta Business Suite? | Ascent Vision](https://ascentvision.org/answers/what-is-meta-business-suite/): What Meta says Business Suite is for, why Business Manager is now called a business portfolio, and when an owner needs Ads Manager instead.
 - [What Is Microsoft Copilot? | Ascent Vision](https://ascentvision.org/answers/what-is-microsoft-copilot/): Copilot is Microsoft’s AI assistant, built into apps like Word and Outlook and offered in a mobile app. What Microsoft says it is, and who uses it.
+- [What Is Multi-Factor Authentication? | Ascent Vision](https://ascentvision.org/answers/what-is-multi-factor-authentication/): Multi-factor authentication asks for a second proof beyond your password. See CISA's types from strongest to weakest and which accounts to start with.
 - [What Is Offline Conversion Tracking? | Ascent Vision](https://ascentvision.org/answers/what-is-offline-conversion-tracking/): What it means to send your won jobs back to Google Ads, what Google says it measures, and when a small service business should bother with it.
 - [What Is Online Reputation Management? | Ascent Vision](https://ascentvision.org/answers/what-is-online-reputation-management/): What reputation management services sell, the parts an owner can do alone, and the FTC and Google rules that close off the shortcuts some offer.
 - [What Is Perplexity? | Ascent Vision](https://ascentvision.org/answers/what-is-perplexity/): Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.
@@ -3377,6 +3382,38 @@ An API is a way for two programs to pass information to each other under rules t
 
 Full answer: https://ascentvision.org/answers/what-is-an-api-and-why-does-it-matter-to-a-business-owner/
 Sources: https://aws.amazon.com/what-is/api/
+
+### Should you hire a freelance developer or a software company?
+
+Either can build good software, so the better question is what the job needs. A freelance developer often suits a small, clearly described job where you want to deal with the person writing the code. A software company often suits a longer job, or software you will rely on every day, because other people can step in. Whichever you choose, ask who will understand the work after it ships and what the handover looks like.
+
+Full answer: https://ascentvision.org/answers/freelance-developer-or-software-company/
+
+### What decides how much custom software costs, and why do projects run over?
+
+The cost of custom software mostly follows how much it has to do and how many other things it must work with: the tasks it handles, the kinds of people who use it, the tools it connects to, the data that must move in, and the testing and upkeep. Projects often run over because the scope grows, decisions come late, or feedback arrives after the work is done. A smaller first version and a written change list help.
+
+Full answer: https://ascentvision.org/answers/what-decides-the-cost-of-custom-software/
+
+### What does it take to put your app in the App Store and Google Play, and whose account should it be in?
+
+The business should usually be the one that holds the accounts on both stores. Apple's organization enrollment asks for a legal entity, not a trade name, a D-U-N-S Number and someone with legal authority to bind the organization. Google Play has personal and organization account types, asks organizations for a D-U-N-S number, and sets a testing step for new personal accounts. Apple reviews every app and update, and Google's pages also refer to review, so allow time for that before a launch date.
+
+Full answer: https://ascentvision.org/answers/how-to-get-an-app-into-the-app-store-and-google-play/
+Sources: https://developer.apple.com/programs/enroll/ ; https://developer.apple.com/distribute/app-review/ ; https://support.google.com/googleplay/android-developer/answer/13634885 ; https://support.google.com/googleplay/android-developer/answer/14151465 ; https://support.google.com/googleplay/android-developer/answer/9859455
+
+### What is managed IT support, and what should it include?
+
+Managed IT support means a provider looks after your computers, accounts and software under an ongoing agreement, instead of fixing things only when you call. A managed service provider usually covers updates, backups, user accounts and help requests from staff. The agreement matters most: check the hours covered, the difference between a response time and a fix time, what is excluded, what stays in your name, and how you can leave.
+
+Full answer: https://ascentvision.org/answers/what-is-managed-it-support/
+
+### What is multi-factor authentication, and should every business account use it?
+
+Multi-factor authentication (MFA) means signing in with two or more kinds of proof, such as a password plus a code from an app or a physical key, so a stolen password alone is usually not enough. CISA recommends requiring it wherever possible, starting with admin accounts and people who handle sensitive data, and ranks text or email codes as the weakest of the methods it lists. It is usually worth turning on for any account that offers it.
+
+Full answer: https://ascentvision.org/answers/what-is-multi-factor-authentication/
+Sources: https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication
 
 ## Calculators
 
