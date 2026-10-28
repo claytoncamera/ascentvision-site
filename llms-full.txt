@@ -67,6 +67,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can a Small Business Compete With Big Firms? | Ascent Vision](https://ascentvision.org/answers/can-a-small-business-compete-with-big-companies-online/): Where a small service business can win against bigger competitors in search and AI answers, where it usually cannot, and how to choose your ground.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Draft Your Quotes and Proposals? | Ascent Vision](https://ascentvision.org/answers/can-ai-draft-quotes-and-proposals/): AI can draft a first version from your price rules, past jobs and scope notes. A person should decide the final price, unusual jobs and every promise.
+- [Can AI Replace Small Business Employees? | Ascent Vision](https://ascentvision.org/answers/can-ai-replace-employees-in-a-small-business/): AI can usually take over steps within a job, not whole jobs. What a Census Bureau survey reported, and how to look at tasks, not people.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
 - [Can an AI Assistant Help Train New Staff? | Ascent Vision](https://ascentvision.org/answers/can-an-ai-assistant-help-train-new-staff/): An assistant that answers from your own procedures can handle how-to questions for new hires. People stay on safety, judgment, feedback, HR and legal.
 - [Google Profile for an Online-Only Business? | Ascent Vision](https://ascentvision.org/answers/can-an-online-only-business-have-a-google-business-profile/): Google's rules require in-person contact with customers and list online-only businesses as ineligible. Where common setups fall, and what to do instead.
@@ -121,6 +122,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Does Your Website Need a Privacy Policy? | Ascent Vision](https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/): If your website form collects names, emails or phone numbers, a privacy policy is often expected. What California's Attorney General and the FTC say.
 - [Does Domain Authority Matter? | Ascent Vision](https://ascentvision.org/answers/does-domain-authority-matter/): Domain authority is a score made by an SEO tool company, not by Google. What the number means, what it does not, and how to judge an agency instead.
 - [Does Your Business Need a Mobile App? | Ascent Vision](https://ascentvision.org/answers/does-your-business-need-a-mobile-app/): Many small businesses do well with a website that works on phones and text messages. See when an app does make sense, with a side-by-side table.
+- [Does a Small Business Need an AI Policy? | Ascent Vision](https://ascentvision.org/answers/does-your-business-need-an-ai-policy-for-employees/): A one-page AI policy for staff names the allowed tools, what stays out, who checks output, whose accounts, and what to do after a mistake.
 - [Do You Need an Accessibility Statement? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-an-accessibility-statement/): What an accessibility statement is, what W3C suggests it include, what it cannot do on its own, and why a working way to report problems matters most.
 - [Does a Small Business Website Need HTTPS? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-https/): HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
@@ -148,6 +150,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Photographers Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-photographers-get-clients/): Photographers usually win clients with a portfolio page per kind of work, visual platforms, a hidden-address Google profile and a form that asks the date.
 - [How Plumbers Get More Leads | Ascent Vision](https://ascentvision.org/answers/how-do-plumbers-get-more-leads/): Plumbers usually win leads by answering the emergency call, weighing paid options and keeping free ones sound. Includes Florida's license number rule.
 - [Is Your Marketing Working? How to Tell | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
+- [How an AI Receptionist Works | Ascent Vision](https://ascentvision.org/answers/how-does-an-ai-receptionist-work/): An AI receptionist should answer from facts you wrote, take messages, alert a person and book only into a calendar it can see. What it connects to.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
 - [How Google Calculates Your Star Rating | Ascent Vision](https://ascentvision.org/answers/how-google-calculates-your-star-rating/): Google's star score averages its published ratings. Why one review moves a small profile more, what changes the score and whether old reviews expire.
 - [How Long Does a Website Take to Build? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-build-a-website/): How long a small business website takes depends on content, decisions and approvals more than the build itself. Where projects stall and how to speed it up.
@@ -430,10 +433,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Small Business Website Launch Checklist | Ascent Vision](https://ascentvision.org/answers/what-to-check-before-a-new-website-goes-live/): A small business website checklist for launch: test every phone link and form, check the details, keep old addresses working and own the logins.
 - [ADA Website Demand Letter: What to Do | Ascent Vision](https://ascentvision.org/answers/what-to-do-about-an-ada-website-demand-letter/): Do not ignore an ADA website demand letter and do not pay before a lawyer reads it. What to keep, what the Justice Department says, and what to fix.
 - [What to Do About Review Extortion | Ascent Vision](https://ascentvision.org/answers/what-to-do-about-review-extortion/): A sudden wave of bad reviews, then a demand for money to remove them. Why not to pay, what evidence to keep, and where Google and the FTC take reports.
+- [What to Do After a Data Breach | Ascent Vision](https://ascentvision.org/answers/what-to-do-after-a-data-breach/): The FTC's order of response after a data breach, plus a plain summary of Florida's notice rule: who must be told, by when, and the exceptions.
 - [What If Someone Copies Your Website? | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-someone-copies-your-website/): If someone copies your website's words or photos: save proof, ask first, then a DMCA takedown notice and Google's legal removal request.
 - [What to Do If Your Business Email Is Hacked | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-business-email-account-is-hacked/): The first-hour steps when a business inbox is taken over, from Google's and Microsoft's own guidance, then who to warn and where to report it.
 - [Facebook Business Page Hacked? What to Do | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-facebook-business-page-is-hacked/): What to do when someone takes over your Facebook business Page: Meta's recovery form, what to check while you wait, and how to lock the Page down after.
 - [If Your Google Ads Account Is Hacked | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-google-ads-account-is-hacked/): Secure the Google Account first, check Google Ads and your card statements for changes you did not make, then ask Google to review the account.
+- [When Your AI Assistant Gets It Wrong | Ascent Vision](https://ascentvision.org/answers/what-to-do-when-your-ai-assistant-gives-a-customer-wrong-information/): An order of response when an AI assistant tells a customer something wrong: contain it, correct it yourself, check before promising, fix the cause, log it.
 - [Website Project Running Late? What to Do | Ascent Vision](https://ascentvision.org/answers/what-to-do-when-your-website-project-is-late/): A late website project usually has a cause on one side or both. Find where the delay sits, what to ask for in writing and how to get it moving again.
 - [What to Do With a Lead You Cannot Serve | Ascent Vision](https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/): Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.
 - [What to Expect After Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/what-to-expect-after-hiring-an-seo-agency/): The first three months with an SEO or GEO agency: what you should receive and when, what the agency needs from you, and what is too early to judge.
@@ -3599,6 +3604,39 @@ Full answer: https://ascentvision.org/answers/no-code-tools-or-custom-software/
 A customer booking page usually lets people pick a time for a visit of a set length and puts it on your calendar. Scheduling software for service work goes further: it assigns jobs to crews, plans routes and sets job times that depend on travel and the work itself. A business with standard appointments is often fine with a booking page. One with several crews, varying job lengths and travel between stops usually needs scheduling software. A simple form can be enough when bookings are few.
 
 Full answer: https://ascentvision.org/answers/online-booking-or-scheduling-software/
+
+### Does a small business need an AI policy for its employees?
+
+Usually yes, once more than one person uses AI tools for work. A one-page policy is enough to start: which tools are allowed, what should stay out of them, who checks the output before a customer sees it, which accounts the tools run on, and what to do after a mistake. Write it in plain words and review it when the tools change. Whether a law or contract requires one for your business is a question for an attorney.
+
+Full answer: https://ascentvision.org/answers/does-your-business-need-an-ai-policy-for-employees/
+Sources: https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### Can AI replace employees in a small business?
+
+AI can usually take over steps within a job, not the whole job. It can draft, sort, remind and copy details, while judgment, relationships and answering for mistakes usually stay with a person. In a Census Bureau survey of employer businesses, the most common report after adopting AI between 2020 and 2022 was that the number of workers did not change overall. Look at the steps in each job, not at the people.
+
+Full answer: https://ascentvision.org/answers/can-ai-replace-employees-in-a-small-business/
+Sources: https://www.census.gov/library/stories/2025/09/technology-impact.html
+
+### What should a small business do after a data breach?
+
+Secure your systems without destroying evidence, find out what was exposed, and tell the people who need to know. The FTC's guide puts securing operations first, fixing weaknesses next, then notifying law enforcement, affected businesses and individuals. Under Florida's statute, notice to affected individuals is generally due within 30 days of determining a breach or having reason to believe one occurred, and notice to the state when a breach affects 500 or more people in Florida. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/what-to-do-after-a-data-breach/
+Sources: https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business ; https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.171.html
+
+### How does an AI receptionist work?
+
+An AI receptionist answers the phone, talks with the caller and then does a few set jobs: takes a message, books a visit or alerts a person. It should work from facts you wrote down, and it can book only into a calendar it can actually see. To do that it usually needs your calls sent to it, your job types and time slots, an on-call list and a place for each lead to land.
+
+Full answer: https://ascentvision.org/answers/how-does-an-ai-receptionist-work/
+
+### What should you do when your AI assistant gives a customer wrong information?
+
+Act in this order. If the error is serious, switch the assistant off or to message-only. Find the conversation and the customer, and correct it yourself in your own words. Check your agreement and policy before promising anything. Then find the cause, fix it, add the customer's question to the questions you test the assistant with, and log it. Fix the cause, not only the one answer, because the same gap can give the next customer the same wrong answer.
+
+Full answer: https://ascentvision.org/answers/what-to-do-when-your-ai-assistant-gives-a-customer-wrong-information/
 
 ## Calculators
 
