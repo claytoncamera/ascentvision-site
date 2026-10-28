@@ -126,6 +126,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
 - [Domain, Hosting and Website: The Difference | Ascent Vision](https://ascentvision.org/answers/domain-hosting-and-website-difference/): A domain is the address, hosting is the space and the website is what visitors see. Who should hold each, and how to find out who hosts your site.
 - [Estimate or Quote: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/estimate-or-quote-whats-the-difference/): How the words estimate and quote are usually used, why the written terms matter more than the label, and when a quote can become a binding contract.
+- [Fixed Price or Hourly for Software? | Ascent Vision](https://ascentvision.org/answers/fixed-price-or-hourly-software-development/): Fixed price suits a clearly described job and hourly suits work still taking shape. See where each goes wrong and the middle routes that often work.
 - [Florida Rules for Sales Calls and Texts | Ascent Vision](https://ascentvision.org/answers/florida-rules-for-calling-and-texting-customers/): What Florida's telephone solicitation law and Telemarketing Act say about sales calls and texts: consent, calling hours, stop requests and the state list.
 - [How to Follow Up With a Lead That Goes Quiet | Ascent Vision](https://ascentvision.org/answers/follow-up-with-leads-that-go-quiet/): A simple follow-up plan for inquiries that stop replying: when to reach out, what to say, when to stop, and how to record the outcome.
 - [Freelance Developer or Software Company? | Ascent Vision](https://ascentvision.org/answers/freelance-developer-or-software-company/): A freelance developer and a software company can both build well. Compare cover, who runs the project and handover, and see what to ask either one.
@@ -274,6 +275,8 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Marketing Consultant or Agency? | Ascent Vision](https://ascentvision.org/answers/marketing-consultant-or-agency/): The difference between paying for advice and paying for the work, when a marketing consultant suits a small service business, and when an agency does.
 - [Marketing for Seasonal Businesses | Ascent Vision](https://ascentvision.org/answers/marketing-for-seasonal-businesses/): Start before the busy season, stay visible when it is quiet, use the off season for the website and reviews, and compare results season by season.
 - [More Leads Than You Can Handle? | Ascent Vision](https://ascentvision.org/answers/more-leads-than-you-can-handle/): What to do when inquiries outrun your capacity: honest wait times, a short waitlist, best-fit jobs first, paid channels paused first, and referring out.
+- [No-Code Tools or Custom Software? | Ascent Vision](https://ascentvision.org/answers/no-code-tools-or-custom-software/): No-code tools suit simple forms, workflows and lists. See where they strain, what to check before you start and when custom software is the better step.
+- [Online Booking or Scheduling Software? | Ascent Vision](https://ascentvision.org/answers/online-booking-or-scheduling-software/): A booking page lets customers pick a time. Scheduling software assigns crews, routes and job times. See which suits your jobs and what to check.
 - [What to Ask Before Hiring a Web Designer | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-a-web-designer/): What to ask a web designer before you hire: who owns the domain, design and logins, who writes the words, phone speed, inquiries and what follows launch.
 - [Questions to Ask Before Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/questions-to-ask-before-hiring-an-seo-agency/): Ten questions to ask any SEO or GEO agency before you sign, what a good answer sounds like, and the warning signs that should end the conversation.
 - [Remove Outdated Business Info From Google | Ascent Vision](https://ascentvision.org/answers/remove-outdated-information-from-google/): Old phone numbers and closed locations on other sites start with that site's owner. When Google refreshes an outdated result, and what it will not change.
@@ -363,6 +366,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Drip Campaign? | Ascent Vision](https://ascentvision.org/answers/what-is-a-drip-campaign/): A drip campaign in plain words, the few a service business might use, when one hurts more than it helps, and the email rules every message follows.
 - [What Is a Favicon? | Ascent Vision](https://ascentvision.org/answers/what-is-a-favicon/): The small icon in a browser tab and beside your site's name on Google: what it is, what Google asks of it, how it fits your logo, and when to check it.
+- [What Is a Fractional CTO? | Ascent Vision](https://ascentvision.org/answers/what-is-a-fractional-cto/): A fractional CTO is a part-time technology leader who guides choices and oversees builders. See when a small business may need one, and what to expect.
 - [What Is a Good Cost Per Lead? | Ascent Vision](https://ascentvision.org/answers/what-is-a-good-cost-per-lead/): No outside average fits every trade. Work out the most a lead is worth to you from your close rate and a typical job, then judge ads by jobs won.
 - [What Is a Google Business Profile? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-business-profile/): A Google Business Profile is the free listing that shows a business on Google Search and Maps: what it is, who it suits, and what the owner controls.
 - [What Is a Google Core Update? | Ascent Vision](https://ascentvision.org/answers/what-is-a-google-core-update/): Google's core updates are broad changes made several times a year. Why a drop after one is usually not a penalty, and what an owner should do first.
@@ -430,6 +434,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Do If Your Business Email Is Hacked | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-business-email-account-is-hacked/): The first-hour steps when a business inbox is taken over, from Google's and Microsoft's own guidance, then who to warn and where to report it.
 - [Facebook Business Page Hacked? What to Do | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-facebook-business-page-is-hacked/): What to do when someone takes over your Facebook business Page: Meta's recovery form, what to check while you wait, and how to lock the Page down after.
 - [If Your Google Ads Account Is Hacked | Ascent Vision](https://ascentvision.org/answers/what-to-do-if-your-google-ads-account-is-hacked/): Secure the Google Account first, check Google Ads and your card statements for changes you did not make, then ask Google to review the account.
+- [Website Project Running Late? What to Do | Ascent Vision](https://ascentvision.org/answers/what-to-do-when-your-website-project-is-late/): A late website project usually has a cause on one side or both. Find where the delay sits, what to ask for in writing and how to get it moving again.
 - [What to Do With a Lead You Cannot Serve | Ascent Vision](https://ascentvision.org/answers/what-to-do-with-leads-you-cannot-serve/): Reply fast and kindly, say why you cannot help, point them somewhere useful and record the reason. Over time those reasons show what your market wants.
 - [What to Expect After Hiring an SEO Agency | Ascent Vision](https://ascentvision.org/answers/what-to-expect-after-hiring-an-seo-agency/): The first three months with an SEO or GEO agency: what you should receive and when, what the agency needs from you, and what is too early to judge.
 - [What to Have in Place Before Starting SEO | Ascent Vision](https://ascentvision.org/answers/what-to-have-before-starting-seo/): Five things a small business should have before paying for SEO: ownership, a working website, a clear service list, lead tracking, and time.
@@ -3564,6 +3569,36 @@ Not always. An owner can often manage alone when few people use the tools, most 
 
 Full answer: https://ascentvision.org/answers/do-you-need-an-it-person-for-your-small-business/
 Sources: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
+
+### Why is my website project taking so long, and what can you do about it?
+
+A late website project is usually late for ordinary reasons, on one side or both: words and approvals waiting on the owner, scope that grew, or a designer with too many jobs at once. Start by asking in writing for a dated plan, a list of what is blocking each step and a current copy of the work. Then agree new dates for both sides, and check the agreement before any decision about ending the work or about payment.
+
+Full answer: https://ascentvision.org/answers/what-to-do-when-your-website-project-is-late/
+
+### Fixed price or hourly: which suits a software project?
+
+Fixed price suits work that can be described clearly before it starts: the scope is agreed, and the developer often carries more of the risk of it running long. Hourly suits work still taking shape, because direction can change as you learn. Each can go wrong: a fixed price on a vague brief can lead to disputes over what was included, and hourly work without a limit or reports can drift. Middle routes, such as a fixed price per stage, often work well.
+
+Full answer: https://ascentvision.org/answers/fixed-price-or-hourly-software-development/
+
+### What is a fractional CTO, and does a small business need one?
+
+A fractional CTO is an experienced technology leader who works for a business part time instead of as a full-time hire. The role is to make technology choices, review quotes and plans, and oversee the people who build, not to build everything personally. A small business may find one useful for a first build, a project going wrong or a choice between vendors, and often needs less for simple tools. Titles vary, so ask what is included.
+
+Full answer: https://ascentvision.org/answers/what-is-a-fractional-cto/
+
+### Can you build it with no-code tools, or do you need custom software?
+
+No-code and low-code tools let someone build forms, simple workflows and internal lists by arranging pieces on a screen, with little or no code. They often suit a first version or a task with few users and standard rules. They can strain with many users, unusual rules, connections to other tools and data you must keep. Before you start, check that you can export your data, that the account is in your name, what the limits are and how the price grows with users.
+
+Full answer: https://ascentvision.org/answers/no-code-tools-or-custom-software/
+
+### Online booking or scheduling software: which does a service business need?
+
+A customer booking page usually lets people pick a time for a visit of a set length and puts it on your calendar. Scheduling software for service work goes further: it assigns jobs to crews, plans routes and sets job times that depend on travel and the work itself. A business with standard appointments is often fine with a booking page. One with several crews, varying job lengths and travel between stops usually needs scheduling software. A simple form can be enough when bookings are few.
+
+Full answer: https://ascentvision.org/answers/online-booking-or-scheduling-software/
 
 ## Calculators
 
