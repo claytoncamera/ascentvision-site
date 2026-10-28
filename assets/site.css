@@ -333,3 +333,30 @@ html:not(.js) .achip kbd { display: none; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .only-nojs { display: none; }
 html:not(.js) .only-nojs { display: block; }
+
+/* ---- Full-service offer (2026-10-28): six-card grid, service-page steps and pairs, grouped services, founders band ---- */
+.pillars--six { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 900px) { .pillars--six { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 620px) { .pillars--six { grid-template-columns: 1fr; } }
+.pillar__links { margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 0.95rem; }
+
+.hsteps { list-style: none; margin: 0 0 1.5em; padding: 0; counter-reset: hs; display: grid; gap: 12px; }
+.hsteps li { counter-increment: hs; position: relative; padding: 16px 18px 16px 64px; background: #fff; border: 1px solid var(--line); border-radius: 12px; }
+.hsteps li::before { content: counter(hs); position: absolute; left: 16px; top: 16px; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 800; font-size: 0.95rem; }
+.hsteps h3 { margin: 0 0 4px; font-size: 1.05rem; }
+.hsteps p { margin: 0; color: var(--ink-2); font-size: 0.98rem; }
+.pairs { list-style: none; padding: 0; margin: 0 0 1.5em; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+.pairs a { display: block; height: 100%; padding: 16px 18px; background: #fff; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; }
+.pairs a:hover { box-shadow: 0 14px 30px -18px rgba(17, 20, 24, 0.35); }
+.pairs h3 { font-size: 1.02rem; margin: 0 0 4px; }
+.pairs p { margin: 0; color: var(--ink-2); font-size: 0.93rem; }
+
+.svc-group { margin: 0 0 8px; }
+.svc-group__t { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin: 40px 0 6px; }
+.service__t { font-size: 1.5rem; margin-bottom: 0.4em; }
+
+.founders-band { display: grid; gap: clamp(24px, 4vw, 48px); grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; }
+@media (max-width: 760px) { .founders-band { grid-template-columns: 1fr; } }
+.site-footer__cols { display: flex; flex-wrap: wrap; gap: 24px 48px; }
+.site-footer nav.site-footer__col { display: flex; flex-direction: column; flex-wrap: nowrap; gap: 6px; }
+.site-footer__h { font-weight: 700; margin: 0 0 4px; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
