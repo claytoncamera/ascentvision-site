@@ -67,6 +67,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Draft Your Quotes and Proposals? | Ascent Vision](https://ascentvision.org/answers/can-ai-draft-quotes-and-proposals/): AI can draft a first version from your price rules, past jobs and scope notes. A person should decide the final price, unusual jobs and every promise.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
+- [Can an AI Assistant Help Train New Staff? | Ascent Vision](https://ascentvision.org/answers/can-an-ai-assistant-help-train-new-staff/): An assistant that answers from your own procedures can handle how-to questions for new hires. People stay on safety, judgment, feedback, HR and legal.
 - [Google Profile for an Online-Only Business? | Ascent Vision](https://ascentvision.org/answers/can-an-online-only-business-have-a-google-business-profile/): Google's rules require in-person contact with customers and list online-only businesses as ineligible. Where common setups fall, and what to do instead.
 - [Can Customers Book You From Google? | Ascent Vision](https://ascentvision.org/answers/can-customers-book-you-from-google/): Google lets many businesses take bookings from their Business Profile, through a booking link or a provider. Who it suits and what to check first.
 - [Can Customers Review You Without Gmail? | Ascent Vision](https://ascentvision.org/answers/can-customers-review-you-without-a-gmail-account/): A Google review needs a Google Account, not a Gmail address. What Google says customers need, what to tell one with no account, and what never to do.
@@ -116,6 +117,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Does Your Business Need Website Analytics? | Ascent Vision](https://ascentvision.org/answers/do-you-need-website-analytics/): Website analytics shows visits, pages and where visitors came from. What it can and cannot tell a small business, and how to keep it simple and private.
 - [Does Your Website Need a Privacy Policy? | Ascent Vision](https://ascentvision.org/answers/does-a-small-business-website-need-a-privacy-policy/): If your website form collects names, emails or phone numbers, a privacy policy is often expected. What California's Attorney General and the FTC say.
 - [Does Domain Authority Matter? | Ascent Vision](https://ascentvision.org/answers/does-domain-authority-matter/): Domain authority is a score made by an SEO tool company, not by Google. What the number means, what it does not, and how to judge an agency instead.
+- [Does Your Business Need a Mobile App? | Ascent Vision](https://ascentvision.org/answers/does-your-business-need-a-mobile-app/): Many small businesses do well with a website that works on phones and text messages. See when an app does make sense, with a side-by-side table.
 - [Do You Need an Accessibility Statement? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-an-accessibility-statement/): What an accessibility statement is, what W3C suggests it include, what it cannot do on its own, and why a working way to report problems matters most.
 - [Does a Small Business Website Need HTTPS? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-https/): HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
@@ -360,6 +362,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a Unique Selling Proposition? | Ascent Vision](https://ascentvision.org/answers/what-is-a-unique-selling-proposition/): A plain definition of a unique selling proposition, how a service business finds one in its real jobs, the tests it should pass and where it belongs.
 - [What Is a Zero-Click Search? | Ascent Vision](https://ascentvision.org/answers/what-is-a-zero-click-search/): What a zero-click search is, what Pew measured about AI summaries and clicks, and why a call from your Google profile can be a zero-click win.
 - [What Is an AI Agent, and Should You Use One? | Ascent Vision](https://ascentvision.org/answers/what-is-an-ai-agent/): An AI agent is software that decides its own steps toward a goal. What that means for an owner, what to keep a person on, and what to ask a seller.
+- [What Is an API, and Why Does It Matter? | Ascent Vision](https://ascentvision.org/answers/what-is-an-api-and-why-does-it-matter-to-a-business-owner/): An API is a way for two programs to pass information to each other. It decides what your tools can connect to. Here is what to ask a software vendor.
 - [What Is Ask Maps in Google Maps? | Ascent Vision](https://ascentvision.org/answers/what-is-ask-maps/): Ask Maps lets people ask Google Maps detailed questions about places. What Google says it draws on, where it works and what a business owner controls.
 - [What Is Call Tracking? | Ascent Vision](https://ascentvision.org/answers/what-is-call-tracking/): What call tracking numbers do, what Google asks of the phone number on your profile, and what to settle before a vendor rents you a number.
 - [What Is Claude? | Ascent Vision](https://ascentvision.org/answers/what-is-claude/): Claude is Anthropic’s AI assistant. What Anthropic says it is, whether it can search the web, and how many U.S. adults use it, according to Pew.
@@ -386,9 +389,11 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page report an owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
+- [What a Small Business Dashboard Should Show | Ascent Vision](https://ascentvision.org/answers/what-should-a-small-business-dashboard-show/): An operations dashboard fits on one screen: new inquiries and sources, reply time, jobs, won and lost work, money owed and capacity. Leave the rest off.
 - [What a Simple Marketing Plan Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-small-business-marketing-plan-include/): A one-page marketing plan for a service business: the customer, the area, why you, the channels, the budget, who does what and the date you check it.
 - [What Should a Thank-You Page Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-thank-you-page-say/): After someone sends an inquiry, your site should confirm it arrived, say when and how you will reply, and what to do if it is urgent. What to include.
 - [What a Website Contract Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-website-design-contract-include/): The points a website design contract should pin down: scope, revisions, who supplies content, ownership of the design and files, logins and handover.
+- [What an AI Assistant Should Never Say | Ascent Vision](https://ascentvision.org/answers/what-should-an-ai-assistant-never-say-about-your-business/): A do-not-say list for an AI assistant: prices, promises, advice, competitors, other customers, staff and made-up policies, plus what to say instead.
 - [What to Look at in Google Analytics | Ascent Vision](https://ascentvision.org/answers/what-should-an-owner-look-at-in-google-analytics/): The few Google Analytics numbers worth a monthly look for a service business, what Google means by a session, and the reports most owners can skip.
 - [What Should an SEO Proposal Include? | Ascent Vision](https://ascentvision.org/answers/what-should-an-seo-proposal-include/): A buyer's checklist for an SEO proposal: scope, measurement, reporting, ownership, term and exit, who does the work, and the red flags to walk away from.
 - [What to Put on Your About Page | Ascent Vision](https://ascentvision.org/answers/what-should-be-on-an-about-page/): A small business About page should show who is behind the work, real photos, where and how you work, what you will not do and how to get in touch.
@@ -3341,6 +3346,37 @@ Full answer: https://ascentvision.org/answers/can-ai-draft-quotes-and-proposals/
 An AI receptionist can usually take simple questions and bookings within rules you set, and take a message after hours. Emergencies, complaints, upset callers, price negotiation and anything legal or medical should go to a person, or at least be passed on at once with the caller's details. Write the hand-off rules down before it answers a live call.
 
 Full answer: https://ascentvision.org/answers/which-calls-should-an-ai-receptionist-take/
+
+### What should an AI assistant never say about your business?
+
+An AI assistant should never state a price or discount you have not agreed, promise a result or a date, give legal, medical or financial advice, comment on competitors, share another customer's details, discuss your staff, or invent a policy. Write that list down before it talks to customers, and give it a plain line to use instead, such as passing the question to a person. A written list lowers the risk; it cannot remove it.
+
+Full answer: https://ascentvision.org/answers/what-should-an-ai-assistant-never-say-about-your-business/
+
+### Can an AI assistant help train new staff?
+
+Yes, for everyday how-to questions. An internal AI assistant that answers only from your own procedures and policies can tell a new hire where things are, how a routine task goes and what is on a checklist, so you may be interrupted less. A person should stay in charge of safety, judgment calls, feedback and anything HR or legal. It is only as good as your documents, so keep them current.
+
+Full answer: https://ascentvision.org/answers/can-an-ai-assistant-help-train-new-staff/
+
+### What should a small business dashboard show?
+
+A small business operations dashboard should fit on one screen and show what came in, what is being done, what was won and what is owed. That means new inquiries and where they came from, how fast you replied, jobs booked and in progress, inquiries won, lost or still open, money invoiced and still unpaid, and how much capacity you have left. Leave off numbers that change no decision.
+
+Full answer: https://ascentvision.org/answers/what-should-a-small-business-dashboard-show/
+
+### Does your business need a mobile app?
+
+Usually not. For most small businesses, a website that works well on phones, plus a phone number and text messages with people who agree to them, does what customers need. An app tends to make sense when customers return often and log in, when it must work without a signal, when staff work in the field, or when you need features a website often cannot do well. Customers have to install an app, so it must be worth the trouble.
+
+Full answer: https://ascentvision.org/answers/does-your-business-need-a-mobile-app/
+
+### What is an API, and why does it matter to a business owner?
+
+An API is a way for two programs to pass information to each other under rules the provider sets. It matters because it usually decides what can be connected. If a tool has no API, or your plan does not include one, linking it to your other tools may be impossible, or may mean copying data by hand. Ask a vendor whether it has one, on which plan, what it lets you read or change, and whether you can take your data out.
+
+Full answer: https://ascentvision.org/answers/what-is-an-api-and-why-does-it-matter-to-a-business-owner/
+Sources: https://aws.amazon.com/what-is/api/
 
 ## Calculators
 
