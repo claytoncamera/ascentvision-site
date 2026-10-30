@@ -76,6 +76,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Google Profile for an Online-Only Business? | Ascent Vision](https://ascentvision.org/answers/can-an-online-only-business-have-a-google-business-profile/): Google's rules require in-person contact with customers and list online-only businesses as ineligible. Where common setups fall, and what to do instead.
 - [Can Customers Book You From Google? | Ascent Vision](https://ascentvision.org/answers/can-customers-book-you-from-google/): Google lets many businesses take bookings from their Business Profile, through a booking link or a provider. Who it suits and what to check first.
 - [Can Customers Review You Without Gmail? | Ascent Vision](https://ascentvision.org/answers/can-customers-review-you-without-a-gmail-account/): A Google review needs a Google Account, not a Gmail address. What Google says customers need, what to tell one with no account, and what never to do.
+- [Can Employees Use Their Own Phones for Work? | Ascent Vision](https://ascentvision.org/answers/can-employees-use-their-own-phones-and-laptops-for-work/): Employees can use their own phones and laptops for work if you set a short written rule first and have a lost-device plan ready. Here is what to include.
 - [Can You Add Customers to Your Email List? | Ascent Vision](https://ascentvision.org/answers/can-you-add-customers-to-your-email-list/): What the federal email law asks, why permission is not on its list but mailbox providers expect it anyway, and a simple way to ask at booking.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
 - [Can You Ask a Customer to Change a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-ask-a-customer-to-change-a-bad-review/): Once a problem is fixed, can you ask the customer to update a bad review? Where the FTC and Google draw the line, and how a customer edits or deletes one.
@@ -179,6 +180,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Choose a Payment Processor | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-payment-processor-for-a-small-business/): How to choose a payment processor for a small business: how fees are shown, when money arrives, holds, disputes, exit terms, leases and the FTC's warning.
 - [How to Choose a Website Platform | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-website-platform/): What matters when picking a website platform: ownership, ease of editing, speed on a phone, how hard it is to leave, and cost over time.
 - [How to Choose Accounting Software | Ascent Vision](https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/): How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.
+- [How to Clean Up a Customer List or CRM | Ascent Vision](https://ascentvision.org/answers/how-to-clean-up-your-customer-list/): A short routine for cleaning up a messy customer list or CRM: work on a copy, merge duplicates, fix the gaps, mark opt-outs, archive, and keep it tidy.
 - [Comparing Software Developer Quotes | Ascent Vision](https://ascentvision.org/answers/how-to-compare-quotes-from-software-developers/): How to read two or three software developer quotes side by side: what each assumes and leaves out, the stages, and what is fixed and what can move.
 - [Comparing Web Designer Quotes | Ascent Vision](https://ascentvision.org/answers/how-to-compare-quotes-from-web-designers/): How to line up web designer quotes on what each includes and leaves out, with a sheet to fill in and questions that show the gaps between them.
 - [How to Count Google Business Profile Leads | Ascent Vision](https://ascentvision.org/answers/how-to-count-leads-from-your-google-business-profile/): What Google's profile performance numbers show and leave out, and how to count profile calls and messages as real leads, each with a source and an outcome.
@@ -381,6 +383,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is a CMS, and What Are Plugins? | Ascent Vision](https://ascentvision.org/answers/what-is-a-cms/): A content management system in plain words, the two kinds owners usually meet, what plugins are, and why each one needs updates and an owner.
 - [What Is a Conversion Rate? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-a-conversion-rate/): What a conversion rate means for a service business website, how to measure it honestly, and the plain changes that usually turn more visitors into inquiries.
 - [What Is a CRM, and Do You Need One? | Ascent Vision](https://ascentvision.org/answers/what-is-a-crm/): A CRM is one shared record of every customer and inquiry. When a spreadsheet is enough, signs you have outgrown it, and what to look for in one.
+- [What Is a Customer Portal? Do You Need One? | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-portal/): A customer portal is a login where customers see their own jobs, quotes or invoices. What it does, when emailed links are enough, and how to keep it safe.
 - [How to Work Out What a Customer Is Worth | Ascent Vision](https://ascentvision.org/answers/what-is-a-customer-worth/): A simple way for a small business to work out what a new customer is worth over a year or a lifetime, and why that number decides what marketing you can afford.
 - [What Is a Drip Campaign? | Ascent Vision](https://ascentvision.org/answers/what-is-a-drip-campaign/): A drip campaign in plain words, the few a service business might use, when one hurts more than it helps, and the email rules every message follows.
 - [What Is a Favicon? | Ascent Vision](https://ascentvision.org/answers/what-is-a-favicon/): The small icon in a browser tab and beside your site's name on Google: what it is, what Google asks of it, how it fits your logo, and when to check it.
@@ -433,6 +436,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What to Put in a Business Email Signature | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-email-signature-include/): The few lines a business email signature needs so a customer can act, what to leave out, and how to keep one signature for the whole team.
 - [Business Voicemail Greeting: What to Say | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/): A short script for a business voicemail greeting: your name, when you call back, a faster way to reach you and what to leave. Then keep the promise.
 - [What Should a Contact Form Ask? | Ascent Vision](https://ascentvision.org/answers/what-should-a-contact-form-ask/): The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.
+- [What a Developer Should Hand Over at the End | Ascent Vision](https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/): What a developer should hand over when a project ends: a plain-words pack, a hand-over meeting, a test run by a second person, and a plan if they go quiet.
 - [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page report an owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
@@ -474,6 +478,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Where to Start With Small Business Marketing | Ascent Vision](https://ascentvision.org/answers/where-should-a-small-business-start-with-marketing/): Start in order: know what a customer is worth, make sure inquiries reach you, fix the website basics, then get found, then measure the results monthly.
 - [Which Business Tools Should Be Connected? | Ascent Vision](https://ascentvision.org/answers/which-business-tools-should-be-connected/): A short test for when connecting two business tools pays off, the common pairs worth linking, and the tools that are better left separate.
 - [Which Calls an AI Receptionist Should Take | Ascent Vision](https://ascentvision.org/answers/which-calls-should-an-ai-receptionist-take/): Let an AI receptionist take simple questions and bookings; send emergencies, complaints, upset callers, haggling and legal or medical calls to a person.
+- [Antivirus or a VPN for a Small Business? | Ascent Vision](https://ascentvision.org/answers/which-security-tools-does-a-small-business-need/): What antivirus software and a VPN do and do not do, what the FTC and CISA say about them, and what usually matters more for a small business.
 - [Which Social Media Should a Business Use? | Ascent Vision](https://ascentvision.org/answers/which-social-media-should-a-service-business-use/): Pick one or two platforms your customers use, using Pew's 2026 figures by age, and post on a rhythm you can keep. How to choose, and how to judge it.
 - [First Touch or Last Touch: Who Gets Credit? | Ascent Vision](https://ascentvision.org/answers/which-source-gets-credit-for-a-customer/): First touch credits what introduced a customer; last touch credits what made them reach out. Keep both, apply one rule every time, and use each well.
 - [Who Can Help Improve Your Online Presence? | Ascent Vision](https://ascentvision.org/answers/who-can-help-improve-your-online-presence/): Web designer, SEO or GEO agency, lead handling, social media manager, or you: how to match the help to the problem, and what to insist on from anyone.
@@ -3791,6 +3796,38 @@ Back up what the business needs, sign the device out of its accounts, then wipe 
 
 Full answer: https://ascentvision.org/answers/how-to-get-rid-of-old-computers-and-phones-safely/
 Sources: https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business ; https://support.apple.com/en-us/108931 ; https://support.google.com/android/answer/6088915
+
+### How do you clean up a messy customer list or CRM?
+
+Work on a copy, decide which fields matter, then merge duplicates, fix the obvious gaps, mark anyone who asked to stop getting email or texts, and archive people you have not contacted in a long time instead of deleting them. Name one person who owns the list and give them a short monthly check. A list kept this way is usually quicker to use and easier to trust than a large one nobody maintains.
+
+Full answer: https://ascentvision.org/answers/how-to-clean-up-your-customer-list/
+
+### Can employees use their own phones and laptops for work, and what if one is lost?
+
+Yes, employees can use their own phones and laptops for work, but it works best with a short written rule: a screen lock, updates turned on, work apps only, and an immediate report if a device is lost. Keep sensitive customer data off personal devices where you can. Have a lost-device plan ready: change the passwords, sign the device out of work accounts from another device and, if it was set up, wipe it remotely.
+
+Full answer: https://ascentvision.org/answers/can-employees-use-their-own-phones-and-laptops-for-work/
+Sources: https://www.ftc.gov/business-guidance/small-businesses/cybersecurity ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### Do you need antivirus software or a VPN for your small business?
+
+Antivirus software is a sensible tool for the computers and phones a business uses, and a VPN is worth considering if staff reach the business network from outside the office. Neither replaces updates, a second sign-in step, backups and staff training, which are usually the higher priorities. CISA and the FTC both say to keep security tools updated, and the FTC says to consider a VPN for remote access.
+
+Full answer: https://ascentvision.org/answers/which-security-tools-does-a-small-business-need/
+Sources: https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software ; https://www.ftc.gov/business-guidance/small-businesses/cybersecurity
+
+### What is a customer portal, and does a small business need one?
+
+A customer portal is a login page where each customer sees their own jobs, quotes, invoices, documents or bookings. It can take routine questions off the phone. Many small businesses do not need to build one: a few emailed links may be enough, and some business software already includes one. If you do have one, each customer needs a separate login, access to only their own records, and a password reset through a route you can verify.
+
+Full answer: https://ascentvision.org/answers/what-is-a-customer-portal/
+
+### What should a developer hand over when the project ends or they leave?
+
+A developer should hand over the working software together with a written pack: where the code lives, who owns each account, how to run it and restore it from a backup, which outside services it relies on and when they renew, how changes were tested, and who to contact. Add a hand-over meeting, and ask a second person to follow the notes alone before the developer is gone.
+
+Full answer: https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/
 
 ## Calculators
 

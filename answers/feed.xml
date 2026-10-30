@@ -15,6 +15,14 @@
     <description>Who in a small business should see, edit, export or delete customer records, how to set roles in plain terms, and how to check who can see what.</description>
   </item>
   <item>
+    <title>Do you need antivirus software or a VPN for your small business?</title>
+    <link>https://ascentvision.org/answers/which-security-tools-does-a-small-business-need/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/which-security-tools-does-a-small-business-need/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What antivirus software and a VPN do and do not do, what the FTC and CISA say about them, and what usually matters more for a small business.</description>
+  </item>
+  <item>
     <title>What should you do about a tech support scam call or pop-up?</title>
     <link>https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</guid>
@@ -31,6 +39,14 @@
     <description>What to give a staff-facing AI assistant and what to keep out: procedures and templates in, pay, reviews and customer records out, then how to test it.</description>
   </item>
   <item>
+    <title>What should a developer hand over when the project ends or they leave?</title>
+    <link>https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What a developer should hand over when a project ends: a plain-words pack, a hand-over meeting, a test run by a second person, and a plan if they go quiet.</description>
+  </item>
+  <item>
     <title>What is user acceptance testing, and how does an owner do it before accepting software as finished?</title>
     <link>https://ascentvision.org/answers/what-is-user-acceptance-testing/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-is-user-acceptance-testing/</guid>
@@ -45,6 +61,14 @@
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>What ransomware is, how it usually gets in, and how a small business can prepare with backups, updates, training and a written plan, based on CISA and FTC.</description>
+  </item>
+  <item>
+    <title>What is a customer portal, and does a small business need one?</title>
+    <link>https://ascentvision.org/answers/what-is-a-customer-portal/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-a-customer-portal/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A customer portal is a login where customers see their own jobs, quotes or invoices. What it does, when emailed links are enough, and how to keep it safe.</description>
   </item>
   <item>
     <title>What happens to what customers tell your chatbot or AI receptionist?</title>
@@ -135,12 +159,28 @@
     <description>Keep one record per job with named stages from quote to paid, and use three questions to decide whether a sheet is enough or job software would help.</description>
   </item>
   <item>
+    <title>How do you clean up a messy customer list or CRM?</title>
+    <link>https://ascentvision.org/answers/how-to-clean-up-your-customer-list/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-clean-up-your-customer-list/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A short routine for cleaning up a messy customer list or CRM: work on a copy, merge duplicates, fix the gaps, mark opt-outs, archive, and keep it tidy.</description>
+  </item>
+  <item>
     <title>How do you choose accounting software for a small business, and how should it fit with your invoices?</title>
     <link>https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</guid>
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.</description>
+  </item>
+  <item>
+    <title>Can employees use their own phones and laptops for work, and what if one is lost?</title>
+    <link>https://ascentvision.org/answers/can-employees-use-their-own-phones-and-laptops-for-work/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-employees-use-their-own-phones-and-laptops-for-work/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Employees can use their own phones and laptops for work if you set a short written rule first and have a lost-device plan ready. Here is what to include.</description>
   </item>
   <item>
     <title>Can an AI note-taker record your meetings and calls, and who has to agree?</title>
