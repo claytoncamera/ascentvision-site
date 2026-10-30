@@ -80,6 +80,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can You Add Customers to Your Email List? | Ascent Vision](https://ascentvision.org/answers/can-you-add-customers-to-your-email-list/): What the federal email law asks, why permission is not on its list but mailbox providers expect it anyway, and a simple way to ask at booking.
 - [Can You Add Your Business to ChatGPT? | Ascent Vision](https://ascentvision.org/answers/can-you-add-your-business-to-chatgpt/): OpenAI's developer pages list no sign-up a business can use alone to appear in ChatGPT's answers: what they list, the quote beta, what to ask a seller.
 - [Can You Ask a Customer to Change a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-ask-a-customer-to-change-a-bad-review/): Once a problem is fixed, can you ask the customer to update a bad review? Where the FTC and Google draw the line, and how a customer edits or deletes one.
+- [Can You Automate Review Requests? | Ascent Vision](https://ascentvision.org/answers/can-you-automate-review-requests/): Yes, within the rules: the same request to every customer at the same point, one reminder, no reward, and no tool that sends only the happy ones.
 - [Can You Find Out Who Left a Google Review? | Ascent Vision](https://ascentvision.org/answers/can-you-find-out-who-left-a-google-review/): You see a reviewer's public name and contributions, not their account details. What Google shows, what it keeps private, and what to do about a stranger.
 - [Can You Get a Fake Google Review Removed? | Ascent Vision](https://ascentvision.org/answers/can-you-get-a-fake-google-review-removed/): Google removes reviews that break its rules, not honest bad ones. What to report, how the one-time appeal works and what the FTC bars owners from doing.
 - [Can You Offer a Discount for a Review? | Ascent Vision](https://ascentvision.org/answers/can-you-give-customers-a-discount-for-a-review/): Google bans discounts, gifts or payment for any review. What the FTC's review rule adds, why asking only happy customers is risky and what to do instead.
@@ -161,6 +162,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Long Does Custom Software Take to Build? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-build-custom-software/): What decides how long custom software or an app takes: the brief, the users, the connections, testing and store review. No fixed durations.
 - [How Long Until You Show Up in AI Answers? | Ascent Vision](https://ascentvision.org/answers/how-long-does-it-take-to-show-up-in-ai-answers/): Showing up in AI answers usually takes months, and no one can give a date. Why timing varies by assistant and what early progress tends to look like.
 - [How Long Does SEO Take to Work? | Ascent Vision](https://ascentvision.org/answers/how-long-does-seo-take/): An honest answer on how long SEO takes for a service business, what decides the timeline, and what you should be able to see along the way.
+- [How Long Should a Marketing Contract Be? | Ascent Vision](https://ascentvision.org/answers/how-long-should-a-marketing-contract-be/): How long should a first marketing contract run? Why agencies ask for a minimum, the shapes an agreement can take, and the questions to ask about the term.
 - [How Many Google Reviews Do You Need? | Ascent Vision](https://ascentvision.org/answers/how-many-google-reviews-do-you-need/): What Google says about reviews and local results, what customers told BrightLocal about review counts and recency, and a target you can keep up.
 - [How Many Inquiries Does a Business Need? | Ascent Vision](https://ascentvision.org/answers/how-many-inquiries-do-you-need/): Work backwards from your goal: the new jobs you want each month divided by the share of inquiries you win gives the inquiries you need, by channel.
 - [How Many Pages Does Your Website Need? | Ascent Vision](https://ascentvision.org/answers/how-many-pages-does-a-small-business-website-need/): A plain starter page list for a service business website, when a one-page site is enough, and when a service deserves a page of its own.
@@ -177,6 +179,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Back Up Small Business Data | Ascent Vision](https://ascentvision.org/answers/how-to-back-up-your-business-data/): What a small business should back up beyond its website, the 3-2-1 rule, testing restores, who checks that a backup ran and what to ask a vendor.
 - [Check a Developer's Work Before Paying More | Ascent Vision](https://ascentvision.org/answers/how-to-check-a-software-developers-work-before-you-pay-for-more/): Split the project into stages, write plain-words checks first, watch each stage work on your real examples, and know what to do when a stage fails.
 - [How to Check the Leads an Agency Reports | Ascent Vision](https://ascentvision.org/answers/how-to-check-the-leads-an-agency-reports/): A monthly check an owner can do: ask for the list behind the count, match a sample to your own records, reply to a few, and see what a mismatch means.
+- [How to Choose a CRM for a Service Business | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-crm-for-a-service-business/): Choose a CRM by the daily jobs it must do: write them down, shortlist two, run a real week of leads through a trial, and test the links and an export.
 - [How to Choose a Domain Name | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-domain-name/): Pick a domain that is short, easy to say and spell, and close to your business name, then check for trademark conflicts before you register it.
 - [How to Choose a Marketing Agency | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-marketing-agency/): The order for choosing a marketing agency: name the problem, shortlist two or three, send one brief, compare proposals, check ownership, start small.
 - [How to Choose a Payment Processor | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-payment-processor-for-a-small-business/): How to choose a payment processor for a small business: how fees are shown, when money arrives, holds, disputes, exit terms, leases and the FTC's warning.
@@ -362,6 +365,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Risks of Using AI in a Small Business | Ascent Vision](https://ascentvision.org/answers/what-are-the-risks-of-using-ai-in-a-small-business/): The main risks of using AI in a small business, from wrong answers to private data sent out, what limits each, and what NIST says about managing them.
 - [Steps to Build a Website: Your Part | Ascent Vision](https://ascentvision.org/answers/what-are-the-steps-to-build-a-website/): The steps of a website build in order, from kickoff to the first month after launch, with what the owner supplies, what to approve and what comes back.
 - [What Are Vanity Metrics? | Ascent Vision](https://ascentvision.org/answers/what-are-vanity-metrics/): Vanity metrics such as followers, likes and raw visits look good but do not show whether customers came. Here is what each one hides and what to watch.
+- [What Are Zapier, Make and n8n? | Ascent Vision](https://ascentvision.org/answers/what-are-zapier-make-and-n8n/): Zapier, Make and n8n connect the apps a business already uses. What each maker says it is, what owners use one for and what to check before you start.
 - [What a Small Business Can Automate With AI | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-automate-with-ai/): A plain map of the tasks a small business can hand to AI and automation, such as routing and reminders, and the ones that still need a person's judgment.
 - [What a Small Business Can Safely Use AI For | Ascent Vision](https://ascentvision.org/answers/what-can-a-small-business-use-ai-for-in-marketing/): Where AI helps a small business with marketing, where a person must decide, and what is not worth handing over yet, with Google's guidance on AI content.
 - [What Can You Claim in Your Ads? | Ascent Vision](https://ascentvision.org/answers/what-claims-can-a-service-business-make-in-its-ads/): The FTC's ad basics for a small service business: proof before an ad runs, 'number one' and price claims, guarantees, free offers and naming competitors.
@@ -444,6 +448,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What a Developer Should Hand Over at the End | Ascent Vision](https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/): What a developer should hand over when a project ends: a plain-words pack, a hand-over meeting, a test run by a second person, and a plan if they go quiet.
 - [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page report an owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
+- [What Should a Scope of Work Include? | Ascent Vision](https://ascentvision.org/answers/what-should-a-scope-of-work-include/): A scope of work turns an agreed job into a dated list: deliverables, exclusions, what you supply, how work is accepted and how a change is agreed.
 - [What Should a Service Business Homepage Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-service-business-homepage-say/): The four things a service business homepage has to say in the first screen, what to cut, and how to give visitors one clear next step.
 - [What a Small Business Dashboard Should Show | Ascent Vision](https://ascentvision.org/answers/what-should-a-small-business-dashboard-show/): An operations dashboard fits on one screen: new inquiries and sources, reply time, jobs, won and lost work, money owed and capacity. Leave the rest off.
 - [What a Simple Marketing Plan Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-small-business-marketing-plan-include/): A one-page marketing plan for a service business: the customer, the area, why you, the channels, the budget, who does what and the date you check it.
@@ -3865,6 +3870,38 @@ Full answer: https://ascentvision.org/answers/marketing-agency-or-lead-generatio
 Once a month, ask the agency for the list behind the count, not only the number, and match a sample against your own phone log, inbox and lead list. Reply to two or three of the people (by call or text only with their consent), look for duplicates, spam and people outside your area, and send a test through your own form. Then check that each reported lead has a source and an outcome. A mismatch is a reason to ask a question.
 
 Full answer: https://ascentvision.org/answers/how-to-check-the-leads-an-agency-reports/
+
+### How long should your first marketing contract be?
+
+There is no single right length, but a fair first marketing contract is often short or easy to leave: a minimum period tied to the set-up work, then month to month, with a clear notice period and no automatic renewal you can miss. Some owners start with one paid project before any ongoing agreement. A longer term is easier to accept when the agency can say what the time pays for and what you keep if you leave.
+
+Full answer: https://ascentvision.org/answers/how-long-should-a-marketing-contract-be/
+
+### What should a scope of work for marketing or a website include?
+
+A scope of work lists what will be delivered, in what quantity and by what date, and what is left out. It also says what the business must supply and by when, how each item is accepted as done, how a change is agreed in writing before extra work starts, and who signs off. The same list can work for marketing, a website or software.
+
+Full answer: https://ascentvision.org/answers/what-should-a-scope-of-work-include/
+
+### What are Zapier, Make and n8n, and does a small business need one?
+
+Zapier, Make and n8n are workflow tools that connect apps, so that something happening in one app starts a step in another, such as a new form entry adding a row to a lead list. A small business may not need one if its tools already connect directly. Before using one, check whose account it runs in, what happens when a step fails and who is told.
+
+Full answer: https://ascentvision.org/answers/what-are-zapier-make-and-n8n/
+Sources: https://help.zapier.com/hc/en-us/articles/8496181725453-Learn-key-concepts-in-Zapier ; https://help.make.com/create-your-first-scenario ; https://help.make.com/Overview-of-error-handling ; https://docs.n8n.io/ ; https://docs.n8n.io/flow-logic/error-handling/
+
+### How do you choose a CRM for a service business?
+
+Start with the jobs the system must do each day, not its feature list: record a new inquiry, remind you to follow up, track a quote, book the job, mark it done and ask for a review. Shortlist two, run a real week of leads through a trial of each, test the connections you need and a full export, then set who can see what. Some service businesses may find job software with a CRM built in is enough.
+
+Full answer: https://ascentvision.org/answers/how-to-choose-a-crm-for-a-service-business/
+
+### Can you automate review requests?
+
+Yes. Send the same request to every customer at the same point, such as when the job is done or the invoice is paid, with at most one reminder, by text only with the person's consent and with no reward of any kind. Be wary of tools that ask only the customers expected to be happy: Google's policy lists selectively soliciting positive reviews as not allowed, and the FTC says the practice could violate the FTC Act. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/can-you-automate-review-requests/
+Sources: https://support.google.com/contributionpolicy/answer/7400114 ; https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
 
 ## Calculators
 
