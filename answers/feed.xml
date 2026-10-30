@@ -7,6 +7,14 @@
   <language>en-us</language>
   <atom:link href="https://ascentvision.org/answers/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>What should you do about a tech support scam call or pop-up?</title>
+    <link>https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A call or pop-up says your computer has a problem. What the FTC says to do when one reaches you, and the steps to take if you already gave access or paid.</description>
+  </item>
+  <item>
     <title>What should an AI assistant for your team be allowed to see?</title>
     <link>https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/</guid>
@@ -29,6 +37,14 @@
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>What ransomware is, how it usually gets in, and how a small business can prepare with backups, updates, training and a written plan, based on CISA and FTC.</description>
+  </item>
+  <item>
+    <title>What happens to what customers tell your chatbot or AI receptionist?</title>
+    <link>https://ascentvision.org/answers/what-happens-to-what-customers-tell-your-chatbot/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-happens-to-what-customers-tell-your-chatbot/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What a customer types or says to your chatbot or AI receptionist usually goes to the vendor too. What to keep, who should read it, and how to delete it.</description>
   </item>
   <item>
     <title>How do you spot a phishing email or text, and what should staff do with it?</title>
@@ -63,6 +79,14 @@
     <description>A simple routine for watching an AI automation or assistant once it is live: a matching count, a weekly sample, alerts, an error log and an off switch.</description>
   </item>
   <item>
+    <title>How should a small business keep track of its inventory?</title>
+    <link>https://ascentvision.org/answers/how-to-keep-track-of-inventory-in-a-small-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-keep-track-of-inventory-in-a-small-business/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What to count, a count habit that works, a reorder point in plain terms, and when a spreadsheet is enough before inventory software earns its place.</description>
+  </item>
+  <item>
     <title>How do you keep business computers and phones updated, and when should you replace them?</title>
     <link>https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/</guid>
@@ -79,12 +103,28 @@
     <description>A simple upkeep routine for an AI chatbot or receptionist: one owner for its facts, update triggers, a monthly review, a retest and a dated change log.</description>
   </item>
   <item>
+    <title>How do you follow a job from quote to invoice, and do you need job management software?</title>
+    <link>https://ascentvision.org/answers/how-to-follow-a-job-from-quote-to-invoice/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-follow-a-job-from-quote-to-invoice/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Keep one record per job with named stages from quote to paid, and use three questions to decide whether a sheet is enough or job software would help.</description>
+  </item>
+  <item>
     <title>How do you choose accounting software for a small business, and how should it fit with your invoices?</title>
     <link>https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</guid>
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.</description>
+  </item>
+  <item>
+    <title>Can AI do your bookkeeping?</title>
+    <link>https://ascentvision.org/answers/can-ai-do-your-bookkeeping/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-ai-do-your-bookkeeping/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>AI can suggest categories, match receipts and summarize a month, but a person still checks the books. What to hand over, what to keep and how to test it.</description>
   </item>
   <item>
     <title>Who owns software that was built for your business?</title>
