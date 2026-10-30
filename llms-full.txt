@@ -175,6 +175,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Choose a Domain Name | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-domain-name/): Pick a domain that is short, easy to say and spell, and close to your business name, then check for trademark conflicts before you register it.
 - [How to Choose a Payment Processor | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-payment-processor-for-a-small-business/): How to choose a payment processor for a small business: how fees are shown, when money arrives, holds, disputes, exit terms, leases and the FTC's warning.
 - [How to Choose a Website Platform | Ascent Vision](https://ascentvision.org/answers/how-to-choose-a-website-platform/): What matters when picking a website platform: ownership, ease of editing, speed on a phone, how hard it is to leave, and cost over time.
+- [How to Choose Accounting Software | Ascent Vision](https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/): How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.
 - [Comparing Software Developer Quotes | Ascent Vision](https://ascentvision.org/answers/how-to-compare-quotes-from-software-developers/): How to read two or three software developer quotes side by side: what each assumes and leaves out, the stages, and what is fixed and what can move.
 - [Comparing Web Designer Quotes | Ascent Vision](https://ascentvision.org/answers/how-to-compare-quotes-from-web-designers/): How to line up web designer quotes on what each includes and leaves out, with a sheet to fill in and questions that show the gaps between them.
 - [How to Count Google Business Profile Leads | Ascent Vision](https://ascentvision.org/answers/how-to-count-leads-from-your-google-business-profile/): What Google's profile performance numbers show and leave out, and how to count profile calls and messages as real leads, each with a source and an outcome.
@@ -198,11 +199,14 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Get Your Business on Waze | Ascent Vision](https://ascentvision.org/answers/how-to-get-your-business-on-waze/): Waze shows business details from its users, Google and partners, and volunteers review places drivers add. How a business appears, and what paid pins are.
 - [Getting Your Website Back From a Designer | Ascent Vision](https://ascentvision.org/answers/how-to-get-your-website-back-from-a-designer/): What to do when a web designer disappears with your logins: domain recovery through the registrar, hosting and platform account recovery, or a rebuild.
 - [How to Handle After-Hours Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-handle-leads-after-hours/): Acknowledge after-hours inquiries at once, say exactly when you will reply, and keep that promise with a morning-first routine and a clear weekend rule.
+- [Keeping an AI Assistant Up to Date | Ascent Vision](https://ascentvision.org/answers/how-to-keep-an-ai-assistant-up-to-date/): A simple upkeep routine for an AI chatbot or receptionist: one owner for its facts, update triggers, a monthly review, a retest and a dated change log.
+- [Keep Business Computers and Phones Updated | Ascent Vision](https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/): How to keep business computers and phones updated: automatic updates, a device list, a monthly check, and when an old device is due for replacement.
 - [How to Make a Website Trustworthy | Ascent Vision](https://ascentvision.org/answers/how-to-make-a-website-trustworthy/): New visitors decide fast whether a business is real. Signals that matter: contact details, real photos, honest reviews, clear process, current content.
 - [Make Your Website Easy for Older Customers | Ascent Vision](https://ascentvision.org/answers/how-to-make-your-website-easy-for-older-customers/): What W3C's guidance on older web users points to: text that enlarges, strong contrast, clear links, time and simple forms, plus phone checks.
 - [Marketing a Mobile or Home-Based Business | Ascent Vision](https://ascentvision.org/answers/how-to-market-a-mobile-or-home-based-business/): Without a storefront, show where you go instead of where you are: a service-area profile on Google, a clear website, a recognizable vehicle and referrals.
 - [Marketing a Service Business in a Small Town | Ascent Vision](https://ascentvision.org/answers/how-to-market-a-service-business-in-a-small-town/): What changes when your market is a small town, and the basics that usually matter most: being easy to find, reviews, referrals and showing up locally.
 - [Duplicate Google Listings: Merge or Remove? | Ascent Vision](https://ascentvision.org/answers/how-to-merge-or-remove-duplicate-google-listings/): Two Google listings for one business? How to tell a true duplicate from an allowed second profile, and what Google says about merging or removing one.
+- [How to Monitor an AI System After Launch | Ascent Vision](https://ascentvision.org/answers/how-to-monitor-an-ai-system-after-launch/): A simple routine for watching an AI automation or assistant once it is live: a matching count, a weekly sample, alerts, an error log and an off switch.
 - [How to Move a Website to a New Host | Ascent Vision](https://ascentvision.org/answers/how-to-move-a-website-to-a-new-host/): How to move a website to a new host without losing it: what has to move, the order to follow, the email trap and why the old plan stays paid.
 - [How to Name a Service Business | Ascent Vision](https://ascentvision.org/answers/how-to-name-a-service-business/): A good business name is easy to say and spell and leaves room to grow. The official checks to run first: state records, trademark search and web address.
 - [How to Tell Whether a New Lead Is a Good Fit | Ascent Vision](https://ascentvision.org/answers/how-to-qualify-a-lead/): A few plain questions that tell a small service business whether an inquiry is a good fit, and how to say no kindly when it is not.
@@ -215,9 +219,12 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Respond to a Negative Google Review | Ascent Vision](https://ascentvision.org/answers/how-to-respond-to-a-negative-google-review/): A calm reply structure for fair and unfair bad Google reviews, what Google says to leave out, old reviews, and where the FTC draws the line on replies.
 - [How to Say No to a Customer Politely | Ascent Vision](https://ascentvision.org/answers/how-to-say-no-to-a-customer/): A simple pattern for turning down a discount, extra work, a date you cannot make or a job you do not do, with sample lines for each case.
 - [Automatic Invoices and Payment Reminders | Ascent Vision](https://ascentvision.org/answers/how-to-send-invoices-and-reminders-automatically/): What a small business can safely send on its own, such as an invoice, a deposit request and reminders, what a person should check, and how to keep records.
+- [New Employee IT Setup: Accounts and Devices | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-a-new-employees-accounts-and-devices/): How to set up a new employee's accounts and devices: a separate login for each person, only the access the job needs, a ready device and a record.
 - [How to Set Up a Simple Lead Tracker | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-a-simple-lead-tracker/): A simple lead tracker is one shared sheet with eight columns and one rule: every inquiry goes in the same day. What to record and how to review it.
+- [How to Set Up an AI Receptionist | Ascent Vision](https://ascentvision.org/answers/how-to-set-up-an-ai-receptionist/): The order an owner can follow to set up an AI receptionist: decide the rules on paper, connect the number and calendar, test it, then watch it closely.
 - [How to Spot a Fake Domain Renewal Notice | Ascent Vision](https://ascentvision.org/answers/how-to-spot-a-fake-domain-renewal-notice/): How to tell a fake domain or website renewal notice from a real one, check it with your own registrar, and report it to the FTC or your Attorney General.
 - [How to Spot a Fake Invoice or Payment Email | Ascent Vision](https://ascentvision.org/answers/how-to-spot-a-fake-invoice-or-payment-change-email/): Business email compromise in plain terms: signs of a fake invoice or new bank details, the call-back check, and what the FBI's IC3 says to do if you paid.
+- [How to Spot a Phishing Email or Text | Ascent Vision](https://ascentvision.org/answers/how-to-spot-a-phishing-email/): How to spot a phishing email or text, how to check it safely, and what staff should do with it, using CISA and FTC guidance for small businesses.
 - [How to Spot an SEO Scam | Ascent Vision](https://ascentvision.org/answers/how-to-spot-an-seo-scam/): Unsolicited SEO emails, calls about your Google listing and promises of a page-one spot are the warning signs, in Google's and the FTC's own words.
 - [How to Spot Scam Letters Sent to Businesses | Ascent Vision](https://ascentvision.org/answers/how-to-spot-scam-letters-sent-to-small-businesses/): Directory bills, fake trademark notices and government-style demands: the signs the FTC and USPTO name, how to check, and where to report.
 - [How to Spot Spam and Scam Inquiries | Ascent Vision](https://ascentvision.org/answers/how-to-spot-spam-and-scam-inquiries/): Fake inquiries share signs: generic text, odd links, urgency, overpayment and gift card requests. How to spot them, what to do and where to report them.
@@ -408,7 +415,9 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is Offline Conversion Tracking? | Ascent Vision](https://ascentvision.org/answers/what-is-offline-conversion-tracking/): What it means to send your won jobs back to Google Ads, what Google says it measures, and when a small service business should bother with it.
 - [What Is Online Reputation Management? | Ascent Vision](https://ascentvision.org/answers/what-is-online-reputation-management/): What reputation management services sell, the parts an owner can do alone, and the FTC and Google rules that close off the shortcuts some offer.
 - [What Is Perplexity? | Ascent Vision](https://ascentvision.org/answers/what-is-perplexity/): Perplexity is an AI-powered search engine that searches the web and cites its sources. What it means for a service business, and how to check what it says.
+- [What Is Ransomware? How to Prepare | Ascent Vision](https://ascentvision.org/answers/what-is-ransomware-and-how-should-a-small-business-prepare/): What ransomware is, how it usually gets in, and how a small business can prepare with backups, updates, training and a written plan, based on CISA and FTC.
 - [Automation vs AI: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/what-is-the-difference-between-automation-and-ai/): Automation follows fixed rules you set; AI interprets wording and drafts. See when each is cheaper, safer and easier to check, and how they combine.
+- [What Is User Acceptance Testing? | Ascent Vision](https://ascentvision.org/answers/what-is-user-acceptance-testing/): User acceptance testing is the final round before you accept software as finished: who tests, what to test, how to rank faults and sign off in writing.
 - [What Is White-Label SEO? | Ascent Vision](https://ascentvision.org/answers/what-is-white-label-seo/): What white-label SEO means for the business paying for it, when outsourced work is fine, and the questions that show who actually does it.
 - [What to Automate in Lead Generation | Ascent Vision](https://ascentvision.org/answers/what-parts-of-lead-generation-can-you-automate/): Automate the alert, the first reply, follow-up reminders, source tags and the monthly count. Keep quotes, fit calls and apologies in human hands.
 - [What Photos Should a Service Website Use? | Ascent Vision](https://ascentvision.org/answers/what-photos-should-a-service-business-website-use/): Use real photos of your team and your work, with permission from anyone shown. Avoid stock presented as your own, and keep images light for fast phones.
@@ -424,6 +433,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Should a Thank-You Page Say? | Ascent Vision](https://ascentvision.org/answers/what-should-a-thank-you-page-say/): After someone sends an inquiry, your site should confirm it arrived, say when and how you will reply, and what to do if it is urgent. What to include.
 - [What a Website Contract Should Include | Ascent Vision](https://ascentvision.org/answers/what-should-a-website-design-contract-include/): The points a website design contract should pin down: scope, revisions, who supplies content, ownership of the design and files, logins and handover.
 - [What an AI Assistant Should Never Say | Ascent Vision](https://ascentvision.org/answers/what-should-an-ai-assistant-never-say-about-your-business/): A do-not-say list for an AI assistant: prices, promises, advice, competitors, other customers, staff and made-up policies, plus what to say instead.
+- [What a Team AI Assistant Should See | Ascent Vision](https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/): What to give a staff-facing AI assistant and what to keep out: procedures and templates in, pay, reviews and customer records out, then how to test it.
 - [What to Look at in Google Analytics | Ascent Vision](https://ascentvision.org/answers/what-should-an-owner-look-at-in-google-analytics/): The few Google Analytics numbers worth a monthly look for a service business, what Google means by a session, and the reports most owners can skip.
 - [What Should an SEO Proposal Include? | Ascent Vision](https://ascentvision.org/answers/what-should-an-seo-proposal-include/): A buyer's checklist for an SEO proposal: scope, measurement, reporting, ownership, term and exit, who does the work, and the red flags to walk away from.
 - [What to Put on Your About Page | Ascent Vision](https://ascentvision.org/answers/what-should-be-on-an-about-page/): A small business About page should show who is behind the work, real photos, where and how you work, what you will not do and how to get in touch.
@@ -3637,6 +3647,72 @@ Full answer: https://ascentvision.org/answers/how-does-an-ai-receptionist-work/
 Act in this order. If the error is serious, switch the assistant off or to message-only. Find the conversation and the customer, and correct it yourself in your own words. Check your agreement and policy before promising anything. Then find the cause, fix it, add the customer's question to the questions you test the assistant with, and log it. Fix the cause, not only the one answer, because the same gap can give the next customer the same wrong answer.
 
 Full answer: https://ascentvision.org/answers/what-to-do-when-your-ai-assistant-gives-a-customer-wrong-information/
+
+### How do you choose accounting software for a small business, and how should it fit with your invoices?
+
+Start with the IRS's test for any recordkeeping system: it should clearly show your income and expenses. Ask your bookkeeper or accountant what they need, then choose software that gives them their own login, records each invoice and payment once, produces reports you can read, lets you export your data if you leave, and sits in an account under the business's name. This is general advice, not tax advice.
+
+Full answer: https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/
+Sources: https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping
+
+### How do you set up a new employee's accounts and devices?
+
+Work from one written list of the accounts the job needs, and create a separate login for each person, with the business holding ownership. Give only the access the job requires, turn on a second sign-in step, hand over a device that is updated and free of earlier data, and give a short rule sheet. Write down everything handed out, so it can be taken back when the person leaves.
+
+Full answer: https://ascentvision.org/answers/how-to-set-up-a-new-employees-accounts-and-devices/
+Sources: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf ; https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### How do you keep business computers and phones updated, and when should you replace them?
+
+Turn on automatic updates on every computer and phone where you can, keep one list of your devices and apps, and check once a month that updates actually installed. CISA advises replacing hardware or software that is no longer supported, because it stops receiving security updates. Look up each device's support end date and plan its replacement before that date arrives.
+
+Full answer: https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/
+Sources: https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software ; https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
+
+### What is ransomware, and how should a small business prepare for it?
+
+Ransomware is malicious software that locks a business's files and demands payment to unlock them. To prepare, keep backups that are not connected to your network and test them, keep software updated, train staff to spot phishing, and write a plan with the phone numbers you would need. If it happens, the FTC says to disconnect infected devices without powering them down, then call for help. The FTC notes that law enforcement does not recommend paying, but leaves the choice to the business.
+
+Full answer: https://ascentvision.org/answers/what-is-ransomware-and-how-should-a-small-business-prepare/
+Sources: https://www.ftc.gov/business-guidance/small-businesses/cybersecurity ; https://www.cisa.gov/stopransomware
+
+### How do you spot a phishing email or text, and what should staff do with it?
+
+Phishing messages try to get a click, a password or a payment detail out of you. CISA lists red flags: "strange or unexpected requests, urgent language or suspicious links". Do not reply or use any phone number or link inside the message. Check it by hovering over a link without clicking and by contacting the sender through a number you already have. Then report the message to whoever your business has named, and delete it.
+
+Full answer: https://ascentvision.org/answers/how-to-spot-a-phishing-email/
+Sources: https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/teach-employees-avoid-phishing ; https://www.ftc.gov/business-guidance/small-businesses/cybersecurity
+
+### How do you set up an AI receptionist for a small business?
+
+Set up an AI receptionist in this order: list the call types and hours it will cover, write the greeting and the facts it may state, write the hand-off and emergency rules and name who is on call, keep the phone number in the business's name and forward calls to the service, connect the calendar and lead list, test it with real calls, then run it with daily summaries and a review date. The rules come first, before any real caller reaches it.
+
+Full answer: https://ascentvision.org/answers/how-to-set-up-an-ai-receptionist/
+
+### How do you keep an AI chatbot or receptionist up to date as your business changes?
+
+Keep an AI chatbot or receptionist up to date with a routine. Name one person who owns the facts it uses. Decide which changes trigger an update, such as prices shown, hours, areas, policies, staff, seasons or a new service. Each month, review what it was asked and could not answer. Retest a fixed set of real questions after every change, remove old versions of documents, and keep a dated change log.
+
+Full answer: https://ascentvision.org/answers/how-to-keep-an-ai-assistant-up-to-date/
+
+### What should an AI assistant for your team be allowed to see?
+
+A team AI assistant should see only what every person allowed to use it may see. Procedures, price lists staff already use and templates usually go in. Pay, reviews, health details, customer records and passwords usually stay out. An assistant that can read a folder can repeat its contents to anyone who asks, so use one assistant per audience if access differs, and test it by asking as a junior employee would.
+
+Full answer: https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/
+Sources: https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### What is user acceptance testing, and how does an owner do it before accepting software as finished?
+
+User acceptance testing is the final round of testing, done by the people who will use the software, to confirm it does the job you agreed before you accept it as finished. An owner can run it with a short script of plain-words tasks and real examples, a ranked list of what failed, a re-test of the fixes and a written sign-off that says exactly what was accepted.
+
+Full answer: https://ascentvision.org/answers/what-is-user-acceptance-testing/
+
+### How do you keep an eye on an AI system once it is running?
+
+Keep an eye on a running AI system with six simple habits: a count that should match, such as messages sent against records created; a weekly sample of its work read by a named person; an alert when it stops; a watch for cost or volume that looks out of line; one place to log errors; and an off switch with a named person allowed to use it.
+
+Full answer: https://ascentvision.org/answers/how-to-monitor-an-ai-system-after-launch/
 
 ## Calculators
 

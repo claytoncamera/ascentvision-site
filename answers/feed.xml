@@ -7,6 +7,86 @@
   <language>en-us</language>
   <atom:link href="https://ascentvision.org/answers/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>What should an AI assistant for your team be allowed to see?</title>
+    <link>https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-should-an-internal-ai-assistant-be-allowed-to-see/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What to give a staff-facing AI assistant and what to keep out: procedures and templates in, pay, reviews and customer records out, then how to test it.</description>
+  </item>
+  <item>
+    <title>What is user acceptance testing, and how does an owner do it before accepting software as finished?</title>
+    <link>https://ascentvision.org/answers/what-is-user-acceptance-testing/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-user-acceptance-testing/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>User acceptance testing is the final round before you accept software as finished: who tests, what to test, how to rank faults and sign off in writing.</description>
+  </item>
+  <item>
+    <title>What is ransomware, and how should a small business prepare for it?</title>
+    <link>https://ascentvision.org/answers/what-is-ransomware-and-how-should-a-small-business-prepare/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/what-is-ransomware-and-how-should-a-small-business-prepare/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What ransomware is, how it usually gets in, and how a small business can prepare with backups, updates, training and a written plan, based on CISA and FTC.</description>
+  </item>
+  <item>
+    <title>How do you spot a phishing email or text, and what should staff do with it?</title>
+    <link>https://ascentvision.org/answers/how-to-spot-a-phishing-email/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-spot-a-phishing-email/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to spot a phishing email or text, how to check it safely, and what staff should do with it, using CISA and FTC guidance for small businesses.</description>
+  </item>
+  <item>
+    <title>How do you set up an AI receptionist for a small business?</title>
+    <link>https://ascentvision.org/answers/how-to-set-up-an-ai-receptionist/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-set-up-an-ai-receptionist/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The order an owner can follow to set up an AI receptionist: decide the rules on paper, connect the number and calendar, test it, then watch it closely.</description>
+  </item>
+  <item>
+    <title>How do you set up a new employee's accounts and devices?</title>
+    <link>https://ascentvision.org/answers/how-to-set-up-a-new-employees-accounts-and-devices/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-set-up-a-new-employees-accounts-and-devices/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to set up a new employee's accounts and devices: a separate login for each person, only the access the job needs, a ready device and a record.</description>
+  </item>
+  <item>
+    <title>How do you keep an eye on an AI system once it is running?</title>
+    <link>https://ascentvision.org/answers/how-to-monitor-an-ai-system-after-launch/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-monitor-an-ai-system-after-launch/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A simple routine for watching an AI automation or assistant once it is live: a matching count, a weekly sample, alerts, an error log and an off switch.</description>
+  </item>
+  <item>
+    <title>How do you keep business computers and phones updated, and when should you replace them?</title>
+    <link>https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-keep-business-computers-and-phones-updated/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to keep business computers and phones updated: automatic updates, a device list, a monthly check, and when an old device is due for replacement.</description>
+  </item>
+  <item>
+    <title>How do you keep an AI chatbot or receptionist up to date as your business changes?</title>
+    <link>https://ascentvision.org/answers/how-to-keep-an-ai-assistant-up-to-date/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-keep-an-ai-assistant-up-to-date/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>A simple upkeep routine for an AI chatbot or receptionist: one owner for its facts, update triggers, a monthly review, a retest and a dated change log.</description>
+  </item>
+  <item>
+    <title>How do you choose accounting software for a small business, and how should it fit with your invoices?</title>
+    <link>https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-choose-accounting-software-for-a-small-business/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.</description>
+  </item>
+  <item>
     <title>Who owns software that was built for your business?</title>
     <link>https://ascentvision.org/answers/who-owns-software-built-for-your-business/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/who-owns-software-built-for-your-business/</guid>
