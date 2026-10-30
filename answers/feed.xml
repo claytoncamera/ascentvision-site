@@ -7,6 +7,14 @@
   <language>en-us</language>
   <atom:link href="https://ascentvision.org/answers/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Who in your business should have access to your CRM and customer records?</title>
+    <link>https://ascentvision.org/answers/who-should-have-access-to-your-crm/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/who-should-have-access-to-your-crm/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Who in a small business should see, edit, export or delete customer records, how to set roles in plain terms, and how to check who can see what.</description>
+  </item>
+  <item>
     <title>What should you do about a tech support scam call or pop-up?</title>
     <link>https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/what-to-do-about-a-tech-support-scam/</guid>
@@ -53,6 +61,14 @@
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>How to spot a phishing email or text, how to check it safely, and what staff should do with it, using CISA and FTC guidance for small businesses.</description>
+  </item>
+  <item>
+    <title>How do you set up Wi-Fi for a small business, including guest Wi-Fi?</title>
+    <link>https://ascentvision.org/answers/how-to-set-up-wi-fi-for-a-small-business/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-set-up-wi-fi-for-a-small-business/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>The FTC's wireless basics for a small business: change the router's defaults, turn on encryption, and give guests a separate network from your own.</description>
   </item>
   <item>
     <title>How do you set up an AI receptionist for a small business?</title>
@@ -103,6 +119,14 @@
     <description>A simple upkeep routine for an AI chatbot or receptionist: one owner for its facts, update triggers, a monthly review, a retest and a dated change log.</description>
   </item>
   <item>
+    <title>How do you get rid of old business computers and phones safely?</title>
+    <link>https://ascentvision.org/answers/how-to-get-rid-of-old-computers-and-phones-safely/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/how-to-get-rid-of-old-computers-and-phones-safely/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>Deleting files is not enough. Back up, sign out of accounts, wipe the drive or reset the phone, handle what you cannot wipe, and keep a disposal record.</description>
+  </item>
+  <item>
     <title>How do you follow a job from quote to invoice, and do you need job management software?</title>
     <link>https://ascentvision.org/answers/how-to-follow-a-job-from-quote-to-invoice/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/how-to-follow-a-job-from-quote-to-invoice/</guid>
@@ -119,12 +143,28 @@
     <description>How to choose accounting software for a small business: what the IRS asks of a recordkeeping system, the questions to ask, and how it joins your invoices.</description>
   </item>
   <item>
+    <title>Can an AI note-taker record your meetings and calls, and who has to agree?</title>
+    <link>https://ascentvision.org/answers/can-an-ai-notetaker-record-your-meetings-and-calls/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/can-an-ai-notetaker-record-your-meetings-and-calls/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What an AI note-taker does, why Florida's recording law matters for meetings as well as calls, and how to ask for a yes and protect what it records.</description>
+  </item>
+  <item>
     <title>Can AI do your bookkeeping?</title>
     <link>https://ascentvision.org/answers/can-ai-do-your-bookkeeping/</link>
     <guid isPermaLink="true">https://ascentvision.org/answers/can-ai-do-your-bookkeeping/</guid>
     <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Ascent Vision</dc:creator>
     <description>AI can suggest categories, match receipts and summarize a month, but a person still checks the books. What to hand over, what to keep and how to test it.</description>
+  </item>
+  <item>
+    <title>Are electronic signatures legally binding for a small business?</title>
+    <link>https://ascentvision.org/answers/are-electronic-signatures-legally-binding/</link>
+    <guid isPermaLink="true">https://ascentvision.org/answers/are-electronic-signatures-legally-binding/</guid>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Ascent Vision</dc:creator>
+    <description>What federal and Florida law say about electronic signatures, which documents they leave out, and what an owner can do to keep signed documents sound.</description>
   </item>
   <item>
     <title>Who owns software that was built for your business?</title>
