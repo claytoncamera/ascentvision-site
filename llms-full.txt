@@ -70,6 +70,8 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Can AI Do Your Bookkeeping? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-bookkeeping/): AI can suggest categories, match receipts and summarize a month, but a person still checks the books. What to hand over, what to keep and how to test it.
 - [Can AI Tools Do Your SEO for You? | Ascent Vision](https://ascentvision.org/answers/can-ai-do-your-seo/): AI tools can draft and tidy, but they cannot know your business, earn reviews or see where inquiries came from. What Google says about pages made by AI.
 - [Can AI Draft Your Quotes and Proposals? | Ascent Vision](https://ascentvision.org/answers/can-ai-draft-quotes-and-proposals/): AI can draft a first version from your price rules, past jobs and scope notes. A person should decide the final price, unusual jobs and every promise.
+- [Can AI Help Manage Your Business Inbox? | Ascent Vision](https://ascentvision.org/answers/can-ai-help-manage-your-business-inbox/): What Google and Microsoft say their AI email features do, what limits they state, and how to try one safely in a business inbox.
+- [Can AI Read Forms and Paperwork? | Ascent Vision](https://ascentvision.org/answers/can-ai-read-forms-and-paperwork-for-your-business/): AI can read intake forms, work orders and delivery notes into records. Learn what goes wrong, how to check a sample and how to protect personal details.
 - [Can AI Replace Small Business Employees? | Ascent Vision](https://ascentvision.org/answers/can-ai-replace-employees-in-a-small-business/): AI can usually take over steps within a job, not whole jobs. What a Census Bureau survey reported, and how to look at tasks, not people.
 - [Can AI Write Your Website Copy? | Ascent Vision](https://ascentvision.org/answers/can-ai-write-your-website/): AI can draft website copy, but facts, prices, claims, your voice and real examples need a person. What Google and the FTC say, and a simple way to use it.
 - [AI Assistant That Answers in Spanish | Ascent Vision](https://ascentvision.org/answers/can-an-ai-assistant-answer-customers-in-spanish/): What to check before an AI assistant answers customers in Spanish: Spanish facts, fluent testing, a hand-off, consent wording and reading conversations.
@@ -178,6 +180,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Much Website Traffic Should You Get? | Ascent Vision](https://ascentvision.org/answers/how-much-website-traffic-should-a-small-business-get/): Why no single traffic number fits a service business, the comparisons that say more, and what Google Analytics' peer benchmarks can show.
 - [How to Add a Second Location on Google | Ascent Vision](https://ascentvision.org/answers/how-to-add-a-second-location-on-google/): When a second place earns its own Google Business Profile, what each location needs, and why a new profile usually starts fresh. Moves are different.
 - [How to Answer the Phone for a New Customer | Ascent Vision](https://ascentvision.org/answers/how-to-answer-the-phone-for-a-new-customer/): Open with your business name, capture the need, area and timing, ask how they found you, agree one next step, and text only with the person's consent.
+- [How to Automate Onboarding a New Customer | Ascent Vision](https://ascentvision.org/answers/how-to-automate-onboarding-a-new-customer/): The steps between a customer's yes and the first visit that can run by themselves, what a person should still do, and how to test each step.
 - [How to Back Up Small Business Data | Ascent Vision](https://ascentvision.org/answers/how-to-back-up-your-business-data/): What a small business should back up beyond its website, the 3-2-1 rule, testing restores, who checks that a backup ran and what to ask a vendor.
 - [Check a Developer's Work Before Paying More | Ascent Vision](https://ascentvision.org/answers/how-to-check-a-software-developers-work-before-you-pay-for-more/): Split the project into stages, write plain-words checks first, watch each stage work on your real examples, and know what to do when a stage fails.
 - [How to Check the Leads an Agency Reports | Ascent Vision](https://ascentvision.org/answers/how-to-check-the-leads-an-agency-reports/): A monthly check an owner can do: ask for the list behind the count, match a sample to your own records, reply to a few, and see what a mismatch means.
@@ -265,6 +268,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How to Win Back Past Customers | Ascent Vision](https://ascentvision.org/answers/how-to-win-back-past-customers/): How to win back past customers with a short, honest message: who to contact, what to offer, how to ask what changed and when to stop trying.
 - [How to Write a Short Business Bio | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-business-bio/): Write one short business bio from four plain facts, then trim it for Instagram, Facebook and Google. What Google's rules allow, plus three examples.
 - [How to Write a Quote That Wins the Job | Ascent Vision](https://ascentvision.org/answers/how-to-write-a-quote-that-wins-the-job/): A quote that wins restates the problem in the customer's words, says what is and is not included, gives timing and offers one clear way to say yes.
+- [How to Write Standard Operating Procedures | Ascent Vision](https://ascentvision.org/answers/how-to-write-standard-operating-procedures/): Write one procedure per task: trigger, steps, who does each, what done looks like, exceptions, an owner and a date. Test it before you rely on it.
 - [Inbound vs Outbound Marketing: Which Fits? | Ascent Vision](https://ascentvision.org/answers/inbound-or-outbound-marketing-for-a-service-business/): Inbound marketing gets you found; outbound reaches out first. How that differs from traditional vs digital, the rules on calls and email, and which fits.
 - [Instagram Creator or Business Account? | Ascent Vision](https://ascentvision.org/answers/instagram-creator-or-business-account/): What Instagram says each professional account type is for, which one a service business usually wants, what changes when you switch, and who holds it.
 - [Is a Google Virtual Tour Worth It? | Ascent Vision](https://ascentvision.org/answers/is-a-google-virtual-tour-worth-it/): A Google virtual tour can suit a showroom, studio or venue that customers visit. It rarely suits work done at the customer's home. Photos come first.
@@ -3938,6 +3942,32 @@ Full answer: https://ascentvision.org/answers/ai-chatbot-or-live-chat/
 Many assistants can write in Spanish, but whether yours answers well for your business is something to check before you switch it on. Write the approved facts in Spanish and have a fluent speaker check them, test it with real Spanish conversations, set a hand-off to a Spanish-speaking person or a clear message when none is available, word consent and disclosure in both languages, and read a sample of conversations.
 
 Full answer: https://ascentvision.org/answers/can-an-ai-assistant-answer-customers-in-spanish/
+
+### Can AI help manage your business email inbox?
+
+Yes, for the chores around the inbox. Google says Gemini in Gmail can summarize long threads, draft and refine emails, delete or label them, find details and propose meeting times, and Microsoft says Copilot in Outlook can summarize a thread. Treat what it writes as a draft you read before you send. Before relying on it, check your plan, what it can see in a shared inbox, and how customer details are handled.
+
+Full answer: https://ascentvision.org/answers/can-ai-help-manage-your-business-inbox/
+Sources: https://support.google.com/mail/answer/14199860 ; https://support.microsoft.com/en-us/office/summarize-an-email-thread-with-copilot-in-outlook-a79873f2-396b-46dc-b852-7fe5947ab640
+
+### Can AI read forms and paperwork into your systems?
+
+Often, yes. Software that uses AI can read typed forms, work orders, delivery notes, signed quotes and supplier documents and fill in the matching fields of a record. It can misread handwriting and poor scans, or put a detail in the wrong field, so a person should check results against the originals, starting with a sample. For documents that carry personal details, read in only what you need and limit who can see it.
+
+Full answer: https://ascentvision.org/answers/can-ai-read-forms-and-paperwork-for-your-business/
+Sources: https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business
+
+### How do you write standard operating procedures for a small business?
+
+Write one procedure for one task. Say what starts it, list the steps in order, name who does each, describe what done looks like, note the usual exceptions, and give it an owner and a date. Sketch the task on one page first, then have someone who has not done it try to follow the page, and fix what they trip on. This usually comes before automating a task or handing it to an AI assistant.
+
+Full answer: https://ascentvision.org/answers/how-to-write-standard-operating-procedures/
+
+### How do you automate the first steps with a new customer?
+
+Many steps between a customer saying yes and the first visit can run by themselves: a welcome message that says what happens next, a short intake form, the agreement sent for signature, a booking link, a deposit invoice if you take one, and reminders. Keep a person on the first call and on anything that needs judgment, send texts or automated calls only with the person's consent, and test every step as a customer would.
+
+Full answer: https://ascentvision.org/answers/how-to-automate-onboarding-a-new-customer/
 
 ## Calculators
 
