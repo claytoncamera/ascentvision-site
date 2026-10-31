@@ -96,6 +96,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Using Customer Testimonials on Your Website | Ascent Vision](https://ascentvision.org/answers/can-you-put-customer-reviews-on-your-website/): Yes, with care. What the FTC says about using customer reviews and testimonials on your own site: real experiences, disclosed connections, typical results.
 - [Can You Remove or Turn Off Facebook Reviews? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-or-turn-off-facebook-reviews/): A Facebook Page can switch recommendations off, which removes its rating and reviews. How the setting works, how to report one and how to ask for more.
 - [Can You Remove Your Business From Yelp? | Ascent Vision](https://ascentvision.org/answers/can-you-remove-your-business-from-yelp/): Yelp says it does not remove business pages on request. What an owner can do instead: correct details, mark a business closed, or hand off the page.
+- [AI Assistant Visits in Your Website Stats | Ascent Vision](https://ascentvision.org/answers/can-you-see-ai-assistant-visits-in-your-website-stats/): Some visits from AI assistants can show in your website stats by source, but many people never click. What the stats show, and what to count instead.
 - [Can You See Who Visits Your Website? | Ascent Vision](https://ascentvision.org/answers/can-you-see-who-visits-your-website/): What website analytics can and cannot show about visitors, why Google Analytics bars personal details, and how a visitor tells you who they are.
 - [Can You Sue Someone for a Bad Review? | Ascent Vision](https://ascentvision.org/answers/can-you-sue-someone-for-a-bad-review/): Whether a business can sue over a bad review depends on the facts, and only a lawyer can say. What the FTC's review guidance covers, and what to try first.
 - [Can You Text a Lead? Consent and Opt-Outs | Ascent Vision](https://ascentvision.org/answers/can-you-text-a-new-lead/): When you can text a new lead or a past customer, what the FCC says about consent and opt-outs, and why replying differs from sending marketing texts.
@@ -114,6 +115,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Do AI Assistants Get Facts Wrong? | Ascent Vision](https://ascentvision.org/answers/do-ai-assistants-get-facts-wrong/): A 2025 study found significant problems in 45% of AI assistant answers about the news. What that means for your business, and how to check and correct it.
 - [Do Door Hangers and Direct Mail Still Work? | Ascent Vision](https://ascentvision.org/answers/do-door-hangers-flyers-and-direct-mail-work/): When printed mail and door hangers can suit a service business, what the Postal Service's Every Door Direct Mail offers, and how to judge each drop.
 - [Do Google Ads Help Your Free Rankings? | Ascent Vision](https://ascentvision.org/answers/do-google-ads-help-your-free-rankings/): No. Google says it only sells ad space: no one can buy a better place in the unpaid results, and advertising has no effect on a site's presence in them.
+- [Do Mentions Elsewhere Help in AI Answers? | Ascent Vision](https://ascentvision.org/answers/do-mentions-on-other-websites-help-you-show-up-in-ai-answers/): Mentions on other sites can help assistants describe your business, but no one can promise a recommendation. Honest ways to earn them, and what to avoid.
 - [Do Online Reviews Matter for Small Business? | Ascent Vision](https://ascentvision.org/answers/do-online-reviews-matter/): What BrightLocal's 2026 survey found about how customers read reviews, star ratings and recency, why replies matter, and what it means for a small business.
 - [Do Reviews Affect What AI Says About You? | Ascent Vision](https://ascentvision.org/answers/do-reviews-affect-what-ai-says-about-your-business/): Review themes can shape the AI summaries customers read about a business. What Google builds from reviews, and why fixing a repeated complaint matters.
 - [Do Siri and Alexa Recommend Businesses? | Ascent Vision](https://ascentvision.org/answers/do-siri-and-alexa-recommend-local-businesses/): What Apple says Siri can do for nearby places and ChatGPT questions, what Amazon says Alexa+ can arrange, and what both mean for a local business.
@@ -134,6 +136,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Does a Small Business Need an AI Policy? | Ascent Vision](https://ascentvision.org/answers/does-your-business-need-an-ai-policy-for-employees/): A one-page AI policy for staff names the allowed tools, what stays out, who checks output, whose accounts, and what to do after a mistake.
 - [Do You Need an Accessibility Statement? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-an-accessibility-statement/): What an accessibility statement is, what W3C suggests it include, what it cannot do on its own, and why a working way to report problems matters most.
 - [Does a Small Business Website Need HTTPS? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-https/): HTTPS keeps what visitors send through your website private. Why it matters for contact forms and trust, and a quick check any owner can run.
+- [Does Your Site Need to Change for AI Search? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-change-for-ai-search/): Google says its AI Overviews and AI Mode need no special optimizations. A plain checklist of what can matter more when an assistant reads your site.
 - [Does Your Website Need to Work on Phones? | Ascent Vision](https://ascentvision.org/answers/does-your-website-need-to-work-on-phones/): Most visitors carry a smartphone and many will find you on one. Why phones matter, plus a simple checklist any owner can run on their own site.
 - [Domain, Hosting and Website: The Difference | Ascent Vision](https://ascentvision.org/answers/domain-hosting-and-website-difference/): A domain is the address, hosting is the space and the website is what visitors see. Who should hold each, and how to find out who hosts your site.
 - [Estimate or Quote: What Is the Difference? | Ascent Vision](https://ascentvision.org/answers/estimate-or-quote-whats-the-difference/): How the words estimate and quote are usually used, why the written terms matter more than the label, and when a quote can become a binding contract.
@@ -326,6 +329,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Should a Small Service Business Have a Blog? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-a-blog/): When a blog helps a small service business get found and chosen, when it is wasted effort, and what to publish instead of news posts nobody reads.
 - [Should You Have More Than One Website? | Ascent Vision](https://ascentvision.org/answers/should-a-small-business-have-more-than-one-website/): Most small businesses are better off with one website. Why a second site often splits effort and confuses customers, and when a separate site makes sense.
 - [Should Customers Be Able to Text You? | Ascent Vision](https://ascentvision.org/answers/should-customers-be-able-to-text-your-business/): Why a text line on the business number can catch more inquiries, how to set it up, who should answer, and what consent covers a reply.
+- [Should You Block AI Tools From Your Website? | Ascent Vision](https://ascentvision.org/answers/should-you-block-ai-tools-from-reading-your-website/): What OpenAI, Google and Anthropic say their website controls do, and how an owner can decide whether AI tools should read the business's website.
 - [Boost a Facebook Post or Run an Ad? | Ascent Vision](https://ascentvision.org/answers/should-you-boost-a-facebook-post/): Meta says a boosted post is an ad made from a post you already published. When boosting suits a service business, when a full ad does, and how to judge it.
 - [Build Your Own Website or Pay Someone? | Ascent Vision](https://ascentvision.org/answers/should-you-build-your-own-website-or-pay-someone/): When a website you build yourself on a builder is enough, the parts owners often miss, where the hours go, and when paying someone to build it makes sense.
 - [Should You Buy an Email List? | Ascent Vision](https://ascentvision.org/answers/should-you-buy-an-email-list/): Why buying an email list is usually a poor idea: what Google's sender guidelines and the FTC's CAN-SPAM guide say, and better ways to build a list.
@@ -455,6 +459,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Business Voicemail Greeting: What to Say | Ascent Vision](https://ascentvision.org/answers/what-should-a-business-voicemail-greeting-say/): A short script for a business voicemail greeting: your name, when you call back, a faster way to reach you and what to leave. Then keep the promise.
 - [What Should a Contact Form Ask? | Ascent Vision](https://ascentvision.org/answers/what-should-a-contact-form-ask/): The few questions a service business contact form needs, the ones to drop, and how to make sure every message actually reaches you.
 - [What a Developer Should Hand Over at the End | Ascent Vision](https://ascentvision.org/answers/what-should-a-developer-hand-over-when-the-project-ends/): What a developer should hand over when a project ends: a plain-words pack, a hand-over meeting, a test run by a second person, and a plan if they go quiet.
+- [What Should a GEO Audit Include? | Ascent Vision](https://ascentvision.org/answers/what-should-a-geo-audit-include/): What an AI search audit should hand over: the questions asked, every answer in full, errors with sources, competitors named and a ranked list of fixes.
 - [What to Check in a Marketing Agency Contract | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-agency-contract-include/): A plain checklist for a marketing agency contract: scope, term and renewal, how to leave, who owns accounts and work, reporting, and your data at the end.
 - [What Should a Marketing Report Show? | Ascent Vision](https://ascentvision.org/answers/what-should-a-marketing-report-show/): The one-page report an owner should expect each month: inquiries and customers by source, cost per customer, what changed, and what is next.
 - [What Should a Scope of Work Include? | Ascent Vision](https://ascentvision.org/answers/what-should-a-scope-of-work-include/): A scope of work turns an agreed job into a dated list: deliverables, exclusions, what you supply, how work is accepted and how a change is agreed.
@@ -518,6 +523,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Why Did Your Business Email Stop Working? | Ascent Vision](https://ascentvision.org/answers/why-did-your-business-email-stop-working/): The usual reasons business email stops arriving, the order to check them in, who to call, and how to keep a website move from cutting off your email.
 - [Why Business Calls Show as Spam Likely | Ascent Vision](https://ascentvision.org/answers/why-do-your-business-calls-show-as-spam/): Why a business number can be labeled 'Spam Likely', how the FCC describes call labels and caller ID authentication, and what an owner can and cannot do.
 - [Why a Competitor Shows Above You on Maps | Ascent Vision](https://ascentvision.org/answers/why-does-a-competitor-show-up-above-you-on-google-maps/): Google says map order rests on relevance, distance and prominence: what each means to an owner, why results shift, and why no one can pay for a spot.
+- [Why AI Has Old or Mixed-Up Business Details | Ascent Vision](https://ascentvision.org/answers/why-does-ai-have-old-or-mixed-up-details-about-your-business/): An AI assistant can show old details or confuse your business with another. Causes you can trace, the order to fix them, and what to state plainly.
 - [Why ChatGPT Answers Differ by Person | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-give-different-people-different-answers/): Memory, location and live web search can all change what ChatGPT says, so one check from your own account proves little. What OpenAI says, and what to do.
 - [Why Does ChatGPT Recommend My Competitor? | Ascent Vision](https://ascentvision.org/answers/why-does-chatgpt-recommend-my-competitor/): Why an AI assistant names a competitor instead of you: the differences an owner can see, what no outsider can know, and what you can do about it.
 - [Why Does My Website Get No Inquiries? | Ascent Vision](https://ascentvision.org/answers/why-does-my-website-get-no-inquiries/): The six usual reasons a service business website brings in no inquiries, how to check each one yourself in an afternoon, and what to fix first.
@@ -3968,6 +3974,48 @@ Full answer: https://ascentvision.org/answers/how-to-write-standard-operating-pr
 Many steps between a customer saying yes and the first visit can run by themselves: a welcome message that says what happens next, a short intake form, the agreement sent for signature, a booking link, a deposit invoice if you take one, and reminders. Keep a person on the first call and on anything that needs judgment, send texts or automated calls only with the person's consent, and test every step as a customer would.
 
 Full answer: https://ascentvision.org/answers/how-to-automate-onboarding-a-new-customer/
+
+### Should you stop AI tools from reading your website?
+
+For most service businesses, blocking AI search tools usually works against being named in AI answers, so it is worth deciding on purpose. OpenAI, Google and Anthropic each describe controls a site owner can use, and OpenAI keeps its search tool and its AI training separate. A web host or security product may also block AI tools by default. Ask the person who looks after your website what is set today.
+
+Full answer: https://ascentvision.org/answers/should-you-block-ai-tools-from-reading-your-website/
+Sources: https://platform.openai.com/docs/bots ; https://developers.google.com/search/docs/appearance/ai-features ; https://support.claude.com/en/articles/10684638-report-block-and-remove-content-from-claude
+
+### Does your website need to change for AI search?
+
+Often only a little. Google says "There are no additional requirements to appear in AI Overviews or AI Mode" and that no new machine readable or AI text files are needed. What can matter more is how plainly the page states what customers ask: hours, phone, area and services as real text, services named in customers' words, and nothing important behind a login. Check that AI search tools are not blocked by accident.
+
+Full answer: https://ascentvision.org/answers/does-your-website-need-to-change-for-ai-search/
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://developers.google.com/search/docs/fundamentals/creating-helpful-content ; https://platform.openai.com/docs/bots ; https://support.claude.com/en/articles/10684638-report-block-and-remove-content-from-claude
+
+### What should a GEO or AI search audit include?
+
+An AI search audit should hand over the questions asked, which assistants answered, and the date and location used; every answer kept in full, not only a score; errors with the pages behind them; the competitors named; a starting count of AI-answer inquiries from your own records; and a short ranked list of fixes. It should not promise a recommendation or sell a secret file.
+
+Full answer: https://ascentvision.org/answers/what-should-a-geo-audit-include/
+Sources: https://developers.google.com/search/docs/fundamentals/do-i-need-seo ; https://developers.google.com/search/docs/appearance/ai-features
+
+### Can you see visits from ChatGPT and other AI assistants in your website stats?
+
+Sometimes. A click from a link an assistant shows can arrive with the assistant named as its source in Google Analytics, so some AI visits can be seen by source. Google says sites appearing in its AI features are included in the overall search traffic Google reports to site owners, so those clicks usually cannot be told apart from ordinary search. Many people never click at all. Your lead records, not your stats, remain the count that matters.
+
+Full answer: https://ascentvision.org/answers/can-you-see-ai-assistant-visits-in-your-website-stats/
+Sources: https://developers.google.com/search/docs/appearance/ai-features ; https://support.google.com/analytics/answer/11242870 ; https://support.google.com/analytics/answer/9756891
+
+### Why does an AI assistant have old details about your business, or mix it up with another one?
+
+Often because the assistant is drawing on old or unclear information that an owner can trace: a page or PDF still on your own site, an old listing, a former name or address, a closed location, a business with a similar name, or a duplicate Google profile. Open the answer's sources to see which one, then fix your own site first, then the listings you control, then ask others.
+
+Full answer: https://ascentvision.org/answers/why-does-ai-have-old-or-mixed-up-details-about-your-business/
+Sources: https://support.claude.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on ; https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-microsoft-365-copilot-chat
+
+### Do mentions on other websites help you show up in AI answers?
+
+They can help, but no one can promise it. Assistants that search the web often draw on what is published about a business, including pages other people write, and no outsider can see how much any one mention counts. Honest mentions a local business can earn include local news, trade and community groups, suppliers and partners, and a chamber. Quietly paid mentions are best avoided.
+
+Full answer: https://ascentvision.org/answers/do-mentions-on-other-websites-help-you-show-up-in-ai-answers/
+Sources: https://www.perplexity.ai/help-center/en/articles/20260806-understanding-source-labels ; https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking ; https://developers.google.com/search/docs/essentials/spam-policies ; https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-microsoft-365-copilot-chat ; https://support.claude.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on
 
 ## Calculators
 
