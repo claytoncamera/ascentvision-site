@@ -36,7 +36,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [AI Assistants and Chatbots for Business | Ascent Vision](https://ascentvision.org/services/ai-assistants/): Ascent Vision builds AI assistants and chatbots that answer customer and staff questions from your own information, on your site, by text or by phone.
 - [AI Systems and Business Automation | Ascent Vision](https://ascentvision.org/services/ai-systems/): Ascent Vision builds AI systems and automations that handle follow-up, intake, quotes and reporting, with a person approving what matters.
 - [CRM Setup and Business Systems Integration | Ascent Vision](https://ascentvision.org/services/business-systems/): Ascent Vision sets up and connects the systems a business runs on: CRM, booking, payments, email, phones and reporting, so nothing is typed twice.
-- [GEO and AI Search Optimization Services | Ascent Vision](https://ascentvision.org/services/geo/): AI search optimization from Ascent Vision: making your business one that ChatGPT, Perplexity and Google's AI answers name when customers ask who to call.
+- [GEO and AI Search Optimization Services | Ascent Vision](https://ascentvision.org/services/geo/): AI search optimization from Ascent Vision: making your business one that ChatGPT, Gemini, Perplexity, Copilot, Claude and Google's AI name when customers ask.
 - [Lead Generation for Small Businesses | Ascent Vision](https://ascentvision.org/services/lead-systems/): Lead generation for businesses: visits become inquiries, each sent to you as it arrives with its source and worked to a yes or no.
 - [SEO Services for Small Service Businesses | Ascent Vision](https://ascentvision.org/services/seo/): Ascent Vision's SEO service works to get businesses found on Google for what they sell and where they sell it, with every lead tagged by its source.
 - [Custom Software and App Development | Ascent Vision](https://ascentvision.org/services/software/): Ascent Vision builds custom software for businesses: dashboards, internal tools, customer portals, web apps and mobile apps that fit how the business runs.
@@ -621,7 +621,7 @@ Source page: https://ascentvision.org/services/seo/
 
 ### GEO: recommended in AI answers
 
-Ascent Vision's GEO (generative engine optimization) service works to make a service business the one AI assistants such as ChatGPT, Perplexity and Google's AI answers mention and recommend when a customer asks who to hire. GEO is also called AI search optimization, answer engine optimization (AEO), AI SEO or ChatGPT SEO; the aim is the same. It runs alongside SEO, and leads that arrive from an AI assistant such as ChatGPT or Perplexity are tagged as their own source.
+Ascent Vision's GEO (generative engine optimization) service works to make a service business the one AI assistants such as ChatGPT, Gemini, Perplexity, Microsoft Copilot, Claude and Google's AI Overviews and AI Mode mention and recommend when a customer asks who to hire. GEO is also called AI search optimization, answer engine optimization (AEO), AI SEO or ChatGPT SEO; the aim is the same. It runs alongside SEO, and leads that arrive from an AI assistant such as ChatGPT or Perplexity are tagged as their own source.
 
 - Built to be named in AI answers for the questions your customers ask, not just listed in search
 - Your business described accurately: what you do, where, and for whom
