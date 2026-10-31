@@ -2,10 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ascentvision.org/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/about/</loc><lastmod>2026-10-28</lastmod></url>
-  <url><loc>https://ascentvision.org/answers/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/ad-management-fee-vs-ad-spend/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/ai-assistants/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/ai-chatbot-or-live-chat/</loc><lastmod>2026-10-30</lastmod></url>
   <url><loc>https://ascentvision.org/answers/ai-consultant-or-ai-builder/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/ai-systems/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/answering-service-or-ai-receptionist/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://ascentvision.org/answers/are-aeo-geo-and-ai-seo-the-same/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/are-ai-answers-taking-clicks-from-google/</loc><lastmod>2026-10-14</lastmod></url>
@@ -21,6 +23,7 @@
   <url><loc>https://ascentvision.org/answers/best-time-to-post-or-run-ads/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/brand-awareness-or-leads/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/branding-marketing-and-advertising-whats-the-difference/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/business-systems/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/can-a-business-stop-bad-reviews/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/can-a-new-business-show-up-in-ai-answers/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/can-a-service-business-run-a-giveaway-on-social-media/</loc><lastmod>2026-10-25</lastmod></url>
@@ -104,6 +107,7 @@
   <url><loc>https://ascentvision.org/answers/freelance-developer-or-software-company/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/answers/freelancer-or-agency-for-seo/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://ascentvision.org/answers/geo-vs-seo/</loc><lastmod>2026-10-27</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/geo/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/give-someone-access-to-your-google-business-profile/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/google-ads-or-facebook-ads/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/google-changed-your-hours-or-says-you-are-closed/</loc><lastmod>2026-10-24</lastmod></url>
@@ -264,6 +268,7 @@
   <url><loc>https://ascentvision.org/answers/is-your-website-accessible/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://ascentvision.org/answers/knowledge-panel-or-business-profile/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/lead-prospect-and-qualified-lead-whats-the-difference/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/lead-systems/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/local-number-or-toll-free-number/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/local-or-remote-marketing-agency/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://ascentvision.org/answers/marketing-agency-or-lead-generation-company/</loc><lastmod>2026-10-30</lastmod></url>
@@ -280,6 +285,7 @@
   <url><loc>https://ascentvision.org/answers/remove-your-home-address-or-phone-from-google/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/seo-or-sem-whats-the-difference/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/seo-or-social-media-for-a-service-business/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/seo/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/should-a-business-start-a-facebook-group/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/should-a-home-based-business-show-its-address-online/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/should-a-person-approve-what-ai-sends-to-customers/</loc><lastmod>2026-10-28</lastmod></url>
@@ -322,12 +328,15 @@
   <url><loc>https://ascentvision.org/answers/should-your-website-show-your-license-and-insurance/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://ascentvision.org/answers/should-your-website-use-pop-ups/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://ascentvision.org/answers/small-business-cybersecurity-basics/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/software/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/someone-is-using-your-business-name-online/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/someone-registered-a-domain-with-your-business-name/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/technical-support/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/tiktok-business-or-creator-account/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/upgrade-or-rebuild-your-website/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://ascentvision.org/answers/web-designer-or-web-developer-which-do-you-need/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/website-gets-traffic-but-no-customers/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://ascentvision.org/answers/websites/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/answers/what-are-ai-browsers/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/what-are-google-ai-overviews-and-ai-mode/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/answers/what-are-google-local-services-ads/</loc><lastmod>2026-10-16</lastmod></url>
@@ -502,7 +511,7 @@
   <url><loc>https://ascentvision.org/answers/will-ai-assistants-contact-businesses-for-customers/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://ascentvision.org/answers/will-ai-replace-google-search/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://ascentvision.org/answers/will-ai-replace-marketing-agencies/</loc><lastmod>2026-10-28</lastmod></url>
-  <url><loc>https://ascentvision.org/faq/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://ascentvision.org/faq/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/florida/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/glossary/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://ascentvision.org/privacy/</loc><lastmod>2026-10-19</lastmod></url>
@@ -513,7 +522,7 @@
   <url><loc>https://ascentvision.org/services/ai-systems/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/services/business-systems/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/services/geo/</loc><lastmod>2026-10-31</lastmod></url>
-  <url><loc>https://ascentvision.org/services/lead-systems/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://ascentvision.org/services/lead-systems/</loc><lastmod>2026-10-31</lastmod></url>
   <url><loc>https://ascentvision.org/services/seo/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/services/software/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://ascentvision.org/services/technical-support/</loc><lastmod>2026-10-28</lastmod></url>
