@@ -161,10 +161,15 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [Connecting AI to the Tools You Already Use | Ascent Vision](https://ascentvision.org/answers/how-do-ai-systems-connect-to-the-tools-you-already-use/): An AI system can often connect to email, calendar, forms, spreadsheets, CRM, accounting and job software. Check your plan, logins, data and off switch.
 - [How Customers Compare Businesses Online | Ascent Vision](https://ascentvision.org/answers/how-do-customers-compare-businesses-online/): Before they call, customers weigh review counts and recency, owner replies, photos of real work, clear services and area, and how fast a business answers.
 - [How Customers Find Businesses Through AI | Ascent Vision](https://ascentvision.org/answers/how-do-customers-find-businesses-through-ai-assistants/): What happens when a customer asks ChatGPT or Google's AI who to hire, where the answer comes from, and what it means for a service business.
+- [How Financial Advisors Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-financial-advisors-get-clients/): Financial advisors usually get clients through referrals, seminars, a plain website and clients' families. Includes the SEC Marketing Rule in brief.
 - [How HVAC Companies Get Leads | Ascent Vision](https://ascentvision.org/answers/how-do-hvac-companies-get-leads/): HVAC leads follow the weather. How a maintenance-plan page, Local Services Ads, commercial bids, dealer locators and lead companies fit, judged by jobs.
+- [How Insurance Agents Get Leads | Ascent Vision](https://ascentvision.org/answers/how-do-insurance-agents-get-leads/): Insurance agents usually grow through referrals, renewals and carrier agent locators, and judge bought leads by policies sold. Includes Florida's ad rule.
+- [How Law Firms Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-law-firms-get-clients/): Law firms usually get clients through referrals, directories, reviews and sometimes Local Services Ads. Includes the Florida Bar's ad filing rule.
+- [How Mortgage Brokers Get Leads | Ascent Vision](https://ascentvision.org/answers/how-do-mortgage-brokers-get-leads/): Mortgage brokers usually get leads from real estate agents, past borrowers and lead sites. Includes Florida's ad rule and the CFPB on referral payments.
 - [How Personal Trainers Get Clients Online | Ascent Vision](https://ascentvision.org/answers/how-do-personal-trainers-get-clients-online/): Trainers usually get found on Instagram and convert on a website with an application and a page per kind of client, keeping public claims on firm ground.
 - [How Photographers Get Clients | Ascent Vision](https://ascentvision.org/answers/how-do-photographers-get-clients/): Photographers usually win clients with a portfolio page per kind of work, visual platforms, a hidden-address Google profile and a form that asks the date.
 - [How Plumbers Get More Leads | Ascent Vision](https://ascentvision.org/answers/how-do-plumbers-get-more-leads/): Plumbers usually win leads by answering the emergency call, weighing paid options and keeping free ones sound. Includes Florida's license number rule.
+- [How Real Estate Agents Get Leads | Ascent Vision](https://ascentvision.org/answers/how-do-real-estate-agents-get-leads/): Real estate agents usually get leads from past clients, referral partners and online search. Includes Florida's rule on advertising by licensees.
 - [Is Your Marketing Working? How to Tell | Ascent Vision](https://ascentvision.org/answers/how-do-you-know-if-your-marketing-is-working/): Five numbers a small business can track every month to judge its marketing on customers, not clicks, and the warning signs in a marketing report.
 - [How an AI Receptionist Works | Ascent Vision](https://ascentvision.org/answers/how-does-an-ai-receptionist-work/): An AI receptionist should answer from facts you wrote, take messages, alert a person and book only into a calendar it can see. What it connects to.
 - [How Fast Should You Reply to a New Lead? | Ascent Vision](https://ascentvision.org/answers/how-fast-should-you-reply-to-a-new-lead/): What research on online sales leads found about response time, why the first hour matters, and how a small business can reply faster without hiring.
@@ -179,6 +184,7 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [How Many Pages Does Your Website Need? | Ascent Vision](https://ascentvision.org/answers/how-many-pages-does-a-small-business-website-need/): A plain starter page list for a service business website, when a one-page site is enough, and when a service deserves a page of its own.
 - [How Many People Use AI Assistants? | Ascent Vision](https://ascentvision.org/answers/how-many-people-use-ai-assistants/): About half of U.S. adults now use AI chatbots, Pew Research Center found in 2026. What the numbers say and what they mean for a service business.
 - [How Much Does a Small Business Website Cost? | Ascent Vision](https://ascentvision.org/answers/how-much-does-a-website-cost/): What decides the cost of a small business website, the running costs owners forget, and how to compare quotes, without a price list.
+- [How Much Does GEO Cost? | Ascent Vision](https://ascentvision.org/answers/how-much-does-geo-cost/): There is no set price for GEO. What decides the cost of AI search optimization, how agencies charge, what never to pay for, and how to judge a quote.
 - [How Much Does SEO Cost for a Small Business? | Ascent Vision](https://ascentvision.org/answers/how-much-does-seo-cost/): What decides the cost of SEO for a small service business, the common ways agencies charge, and the questions that tell you whether a quote is fair.
 - [How Much Marketing to Do Yourself | Ascent Vision](https://ascentvision.org/answers/how-much-marketing-should-you-do-yourself/): Keep what only the owner does well, like customer conversations, reviews and referrals. Hand off work that keeps slipping, and keep your own accounts.
 - [How to Set a Small Business Marketing Budget | Ascent Vision](https://ascentvision.org/answers/how-much-should-a-small-business-spend-on-marketing/): A way to set a marketing budget from your own numbers: what a customer is worth, the jobs you want, proven channels first, one fixed test at a time.
@@ -447,14 +453,19 @@ Ascent Vision publishes no testimonials, prices or result figures it cannot show
 - [What Is an AI Automation Agency? | Ascent Vision](https://ascentvision.org/answers/what-is-an-ai-automation-agency/): An AI automation agency builds automations and AI assistants on tools a business already uses. What it covers, what to ask before hiring, when to skip it.
 - [What Is an API, and Why Does It Matter? | Ascent Vision](https://ascentvision.org/answers/what-is-an-api-and-why-does-it-matter-to-a-business-owner/): An API is a way for two programs to pass information to each other. It decides what your tools can connect to. Here is what to ask a software vendor.
 - [What Is an MVP? Start Small With Software | Ascent Vision](https://ascentvision.org/answers/what-is-an-mvp-for-a-small-business/): An MVP is the smallest working version of software that does its main job for real users. What to leave out, what to keep, and what comes next.
+- [What Is Apple Intelligence? | Ascent Vision](https://ascentvision.org/answers/what-is-apple-intelligence/): What Apple says Apple Intelligence is, how Apple said Siri can hand a question to ChatGPT, and what it means when a customer asks Siri about you.
 - [What Is Ask Maps in Google Maps? | Ascent Vision](https://ascentvision.org/answers/what-is-ask-maps/): Ask Maps lets people ask Google Maps detailed questions about places. What Google says it draws on, where it works and what a business owner controls.
 - [What Is Call Tracking? | Ascent Vision](https://ascentvision.org/answers/what-is-call-tracking/): What call tracking numbers do, what Google asks of the phone number on your profile, and what to settle before a vendor rents you a number.
+- [What Is ChatGPT for Business? | Ascent Vision](https://ascentvision.org/answers/what-is-chatgpt-for-business/): What OpenAI’s guides say about its business plans, shared workspaces and admin controls, and what a small business should check before using one.
+- [What Is ChatGPT? | Ascent Vision](https://ascentvision.org/answers/what-is-chatgpt/): What OpenAI's own guide says ChatGPT is, how it can look things up, and how many U.S. adults use it, according to Pew Research Center.
 - [What Is Claude? | Ascent Vision](https://ascentvision.org/answers/what-is-claude/): Claude is Anthropic’s AI assistant. What Anthropic says it is, whether it can search the web, and how many U.S. adults use it, according to Pew.
+- [What Is DeepSeek? | Ascent Vision](https://ascentvision.org/answers/what-is-deepseek/): What DeepSeek’s own pages say it offers and where its privacy policy says data is stored, plus what a business usually checks before using any AI tool.
 - [What Is Direct Traffic in Analytics? | Ascent Vision](https://ascentvision.org/answers/what-is-direct-traffic/): In Google Analytics, direct traffic means visits by a saved link or a typed address. What else can land there, and why lead records tell you more.
 - [Email Spoofing: What It Is and What Helps | Ascent Vision](https://ascentvision.org/answers/what-is-email-spoofing-and-how-to-protect-your-business-email/): Email spoofing is a forged sender showing your business name. What customers see, three domain settings that can help and what to do if they report fakes.
 - [What Is GEO? Generative Engine Optimization | Ascent Vision](https://ascentvision.org/answers/what-is-geo/): GEO, generative engine optimization, is the work of making a business visible and recommended inside AI answers from ChatGPT, Perplexity and Google.
 - [What Is GoHighLevel, and Do You Need It? | Ascent Vision](https://ascentvision.org/answers/what-is-gohighlevel/): What HighLevel says its software does, why agencies run client leads on it, and the ownership and export questions to ask before yours does.
 - [What Is Google Gemini? | Ascent Vision](https://ascentvision.org/answers/what-is-google-gemini/): Gemini is Google's AI assistant, first launched as Bard. What Google says it is, how many U.S. adults use it, and what that means for a service business.
+- [What Is Grok? | Ascent Vision](https://ascentvision.org/answers/what-is-grok/): What xAI’s developer documentation says Grok is, how it can search the web, and how many U.S. adults use it, according to Pew Research Center.
 - [What Is Lead Attribution? A Plain Guide | Ascent Vision](https://ascentvision.org/answers/what-is-lead-attribution/): Lead attribution means recording where every inquiry came from. Why it matters for a small business, which channels to track and how to start.
 - [What Is Local SEO? A Plain Explanation | Ascent Vision](https://ascentvision.org/answers/what-is-local-seo/): What local SEO means for a service business, how it differs from SEO in general, and why it depends on how you meet your customers.
 - [What Is Managed IT Support? | Ascent Vision](https://ascentvision.org/answers/what-is-managed-it-support/): Managed IT support means a provider looks after your computers and accounts on an ongoing agreement. See what it usually covers and how to read the terms.
@@ -4101,6 +4112,83 @@ Start service with the new provider first, give it your number and account detai
 
 Full answer: https://ascentvision.org/answers/how-to-move-your-business-phone-number-to-a-new-provider/
 Sources: https://www.fcc.gov/consumers/guides/porting-keeping-your-phone-number-when-you-change-providers
+
+### How much does GEO or AI search optimization cost?
+
+There is no single price for GEO (generative engine optimization), and no published rate card to compare against. The cost depends on how many services, areas and customer questions you want to be named for, how well your website already explains what you do, how much has to be written and checked, how many assistants are read each month, and whether leads from AI answers are tracked as their own channel. Agencies usually charge a monthly fee, a one-off fee for the starting picture, or a mix.
+
+Full answer: https://ascentvision.org/answers/how-much-does-geo-cost/
+Sources: https://developers.google.com/search/docs/appearance/ai-features
+
+### How do real estate agents get leads?
+
+Real estate agents usually get leads from past clients and people they know, from referral partners such as lenders, and from buyers and sellers searching online. Google Local Services Ads include a real estate category. In Florida, the statute lets the Real Estate Commission discipline a licensee for fraudulent, false, deceptive or misleading advertising. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-real-estate-agents-get-leads/
+Sources: https://www.nar.realtor/newsroom/first-time-home-buyer-share-falls-to-historic-low-of-21-median-age-rises-to-40 ; https://www.nar.realtor/research-and-statistics/research-reports/highlights-from-the-profile-of-home-buyers-and-sellers ; https://support.google.com/localservices/answer/6224841 ; https://www.flsenate.gov/Laws/Statutes/2026/475.25 ; https://www.flsenate.gov/Laws/Statutes/2026/475.278
+
+### How do insurance agents get leads?
+
+Insurance agents usually get leads from referrals, from existing customers at renewal, from carrier agent locators that the carrier controls, and from bought leads judged by policies sold. Google's Local Services Ads list an insurance agency category in Florida. Florida's statute prohibits knowingly publishing an advertisement about insurance that is untrue, deceptive or misleading. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-insurance-agents-get-leads/
+Sources: https://www.flsenate.gov/Laws/Statutes/2026/626.9541 ; https://support.google.com/localservices/answer/6224841
+
+### How do mortgage brokers get leads?
+
+Mortgage brokers usually get leads from real estate agents and other referral partners, from past borrowers, and from online lead sites judged by loans closed. In Florida, section 494.00165 prohibits misleading advertising about mortgage loans, brokering or lending. The CFPB says RESPA Section 8(a) prohibits kickbacks for business referrals. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-mortgage-brokers-get-leads/
+Sources: https://www.flsenate.gov/Laws/Statutes/2026/494.00165 ; https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/real-estate-settlement-procedures-act/real-estate-settlement-procedures-act-faqs/ ; https://support.google.com/localservices/answer/6224841
+
+### How do law firms get clients?
+
+Law firms usually get clients through referrals from other lawyers and professionals, past clients, directories, reviews and, for some practice areas, Google Local Services Ads, whose list includes lawyers. The Florida Bar requires many lawyer advertisements to be filed with its Ethics and Advertising Department at least 20 days before use, but lawyer websites are exempt from filing (not from the other advertising rules). This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-law-firms-get-clients/
+Sources: https://www.floridabar.org/ethics/etad/advertising-filing-requirements/ ; https://www.floridabar.org/ethics/etad/faqexpand/ ; https://support.google.com/localservices/answer/6224841
+
+### How do financial advisors get clients?
+
+Financial advisors usually get clients through referrals from accountants and attorneys, seminars and workshops, a plain website with useful content, and the families of existing clients. Google's Local Services Ads list financial planning services. For investment advisers, the SEC's Marketing Rule covers advertisements and the use of testimonials and endorsements, with required disclosures. This is a plain summary, not legal advice.
+
+Full answer: https://ascentvision.org/answers/how-do-financial-advisors-get-clients/
+Sources: https://www.sec.gov/rules-regulations/2020/12/investment-adviser-marketing ; https://www.sec.gov/investment/marketing-faq ; https://support.google.com/localservices/answer/6224841
+
+### What is ChatGPT, and do customers use it to find businesses?
+
+ChatGPT is an AI assistant from OpenAI that you talk to in plain language. OpenAI’s user guide says it “can gather context, take action, and produce something useful”. In Pew Research Center’s February 2026 survey, 44% of U.S. adults said they ever use it, far more than any other chatbot in Pew’s chart. Nothing cited here measures how many people use it to find a business, so ask your own customers.
+
+Full answer: https://ascentvision.org/answers/what-is-chatgpt/
+Sources: https://learn.chatgpt.com/docs ; https://learn.chatgpt.com/ ; https://learn.chatgpt.com/docs/web-search ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### What is ChatGPT for business (Business and Enterprise plans)?
+
+ChatGPT for business means the plans OpenAI names for organizations, including ChatGPT Business and ChatGPT Enterprise, where a shared workspace has an owner, admins and members. OpenAI’s guides describe admin controls for roles, plugins and apps, and say availability depends on the plan. One guide states no training on business data by default for ChatGPT Enterprise. Read your own plan’s data terms before customer details go in.
+
+Full answer: https://ascentvision.org/answers/what-is-chatgpt-for-business/
+Sources: https://learn.chatgpt.com/docs ; https://learn.chatgpt.com/ ; https://learn.chatgpt.com/docs/enterprise/chatgpt-work-overview ; https://learn.chatgpt.com/docs/enterprise/work-admin-faq ; https://learn.chatgpt.com/docs/enterprise/roles-and-workspace-permissions ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### What is Grok, and do customers use it to find businesses?
+
+Grok is a set of AI models from xAI that developers can build into their own tools through an API, according to xAI’s developer documentation. That documentation also says Grok can search the web in real time when a search tool is turned on. Pew Research Center, which asked about Grok as a chatbot in its February 2026 survey, found that 8% of U.S. adults said they ever use it, well behind ChatGPT at 44%.
+
+Full answer: https://ascentvision.org/answers/what-is-grok/
+Sources: https://docs.x.ai/docs/overview ; https://docs.x.ai/docs/models ; https://docs.x.ai/docs/guides/tools/search-tools ; https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/
+
+### What is DeepSeek, and should a business use it?
+
+DeepSeek is an AI assistant offered through a web chat, a mobile app and an API by Hangzhou DeepSeek Artificial Intelligence Co., Ltd. Its privacy policy says it directly collects, processes and stores personal data in the People’s Republic of China. A business that handles customer details usually checks where a tool stores them, and what its policy says, before putting anything private in.
+
+Full answer: https://ascentvision.org/answers/what-is-deepseek/
+Sources: https://www.deepseek.com/ ; https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
+
+### What is Apple Intelligence, and does Siri use ChatGPT?
+
+Apple Intelligence is Apple’s AI system for iPhone, iPad and Mac, and Apple’s current page presents it together with Siri. When Apple announced it in June 2024, it said Siri can use ChatGPT when helpful and that users are asked before any question is sent. Apple’s pages change with each software release, so check the settings on your own device. No one can promise Siri will name a particular business.
+
+Full answer: https://ascentvision.org/answers/what-is-apple-intelligence/
+Sources: https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/ ; https://www.apple.com/apple-intelligence/
 
 ## Calculators
 
